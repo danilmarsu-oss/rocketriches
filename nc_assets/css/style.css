@@ -1,0 +1,1381 @@
+     /* --- CSS VARIABLES & RESET --- */
+        :root {
+            --bg-dark: #07192a;
+            --bg-body: #05111d; /* Darker body for the space theme */
+            --bg-reviews: #0e4b46;
+            --text-white: #ffffff;
+            --text-muted: #8a99a8;
+            --btn-login: #06c071;
+            --btn-register: #fd3db2;
+            --btn-hero: #fd34af;
+            --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: var(--font-family);
+            background-color: var(--bg-body);
+            color: var(--text-white);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        a { text-decoration: none; color: inherit; }
+        ul { list-style: none; }
+
+        /* --- HEADER STYLES (Kept from previous) --- */
+        header {
+            background-color: var(--bg-dark);
+            color: var(--text-white);
+            padding: 15px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .logo span { color: var(--btn-register); }
+
+        .main-nav { display: flex; align-items: center; gap: 20px; }
+        .nav-links { display: flex; gap: 25px; margin-right: 30px; }
+        .nav-links a { color: #ccc; font-weight: 500; transition: color 0.3s ease; }
+        .nav-links a:hover { color: var(--text-white); }
+
+        .auth-buttons { display: flex; gap: 15px; }
+        .btn {
+            padding: 10px 24px;
+            border-radius: 4px;
+            font-weight: bold;
+            cursor: pointer;
+            border: none;
+            color: var(--text-white);
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        .btn:hover { opacity: 0.9; transform: translateY(-1px); }
+        .btn-login { background-color: var(--btn-login); }
+        .btn-register { background-color: var(--btn-register); }
+
+        .hamburger { display: none; flex-direction: column; cursor: pointer; gap: 5px; }
+        .bar { width: 25px; height: 3px; background-color: white; }
+
+        /* --- HERO SECTION (Reworked) --- */
+        .hero-section {
+            padding: 80px 20px;
+        }
+
+        .hero-content-wrapper {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center items horizontally */
+            text-align: center; /* Center text */
+        }
+.slots-grid {
+    display: grid;
+    /* Create 5 equal columns */
+    grid-template-columns: repeat(5, 1fr); 
+    /* Space between the squares */
+    gap: 20px;
+    /* Optional: Center the grid on the page */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hero-banner-placeholder {
+      width: 100%;
+    max-width: 1200px; /* Match your layout */
+    margin: 0 auto; /* center it */
+    background-image: url("/Casino Rocket Riches Norge.png");
+    background-size: cover;
+    background-position: center 20%;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    position: relative;
+     padding: 120px 0;  /* ← reduced from ~160px to 120px */
+    display: flex;              /* NEW */
+    justify-content: center;    /* NEW - center horizontally */
+    align-items: center;        /* NEW - center vertically */
+}
+
+        .hero-text {
+            font-size: 1.1rem;
+            color: #bdcddc;
+            max-width: 900px; /* Increased slightly for centered look */
+            margin-bottom: 40px;
+            line-height: 1.8;
+        }
+
+        /* Glowing Button */
+        .btn-hero {
+            background-color: var(--btn-hero);
+            font-size: 1.2rem;
+            padding: 18px 50px;
+            border-radius: 50px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 0 15px var(--btn-hero);
+            animation: glowButton 2s infinite alternate;
+        }
+
+        @keyframes glowButton {
+            from { box-shadow: 0 0 10px var(--btn-hero); }
+            to { box-shadow: 0 0 25px var(--btn-hero), 0 0 50px rgba(253, 52, 175, 0.4); }
+        }
+
+        /* --- GAMES GRID SECTION --- */
+        .section-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 60px 20px;
+            width: 100%;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2rem;
+            color: var(--text-white);
+        }
+
+        .games-grid {
+          display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 5 columns desktop */
+    gap: 20px;
+}
+
+        .game-card:hover {
+            transform: scale(1.05);
+            border-color: var(--btn-hero);
+            z-index: 10;
+        }
+
+        .game-img-placeholder {
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, #1e3c55, #2a5275);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: rgba(255,255,255,0.3);
+            font-size: 1.5rem;
+        }
+
+        /* --- SEO CONTENT SECTION --- */
+        .seo-content {
+            background-color: rgba(255,255,255,0.03);
+            padding: 40px;
+            border-radius: 8px;
+            color: #bdcddc;
+            line-height: 1.8;
+            margin-bottom: 60px;
+        }
+
+        .seo-content h2 { color: var(--text-white); margin: 30px 0 15px; }
+        .seo-content p { margin-bottom: 20px; }
+        /* --- FIX FOR CONTENT LISTS --- */
+/* Restore bullets and numbers only inside the content area */
+.seo-content ul,
+.seo-content ol {
+    margin-bottom: 20px;
+    padding-left: 20px; /* Adds space for the bullets */
+}
+
+.seo-content ul {
+    list-style: disc; /* Standard round bullets */
+}
+
+.seo-content ol {
+    list-style: decimal; /* 1, 2, 3... */
+}
+
+.seo-content li {
+    margin-bottom: 10px; /* Space between list items */
+    color: #bdcddc; /* Matches your text color */
+}
+
+/* --- FIX FOR TABLES --- */
+.seo-content table {
+    width: 100%;
+    border-collapse: collapse; /* Removes gaps between cells */
+    margin: 30px 0;
+    font-size: 0.95rem;
+    background-color: rgba(0, 0, 0, 0.2); /* Dark background for table */
+    border-radius: 8px;
+    overflow: hidden; /* Ensures corners stay rounded */
+}
+
+.seo-content th, 
+.seo-content td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Subtle separator line */
+}
+
+.seo-content th {
+    background-color: var(--bg-reviews); /* Uses your teal/green theme color */
+    color: var(--text-white);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+}
+
+.seo-content td {
+    color: #bdcddc;
+}
+
+.seo-content tr:last-child td {
+    border-bottom: none; /* Remove border from the very last row */
+}
+
+/* Optional: Hover effect for table rows */
+.seo-content tr:hover td {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* --- RESPONSIVE TABLE (Mobile Fix) --- */
+@media (max-width: 768px) {
+    .seo-content table {
+        display: block;
+        overflow-x: auto; /* Adds horizontal scrollbar if table is too wide */
+        white-space: nowrap;
+    }
+}
+        
+        /* --- REVIEWS SECTION --- */
+        .reviews-section {
+            background-color: var(--bg-reviews);
+            padding: 80px 20px;
+            text-align: center;
+        }
+
+        .reviews-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .review-card {
+            background-color: rgba(0,0,0,0.2);
+            padding: 30px;
+            border-radius: 10px;
+            text-align: left;
+            border-left: 4px solid var(--btn-login);
+        }
+
+        .stars { color: #ffd700; margin-bottom: 15px; font-size: 20px; }
+        .reviewer-name { font-weight: bold; margin-top: 15px; color: #fff; }
+        .review-text { font-style: italic; color: #e0e0e0; }
+
+        /* --- PAYMENT METHODS --- */
+        .payments-section {
+            padding: 60px 20px;
+            text-align: center;
+            background-color: var(--bg-body); /* Dark background behind cards */
+        }
+
+        .payment-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .payment-card {
+            background-color: white;
+            width: 140px;
+            height: 70px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 10px rgba(255,255,255,0.1); /* Slight glow */
+        }
+
+        /* --- FAQ SECTION --- */
+        .faq-section {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
+
+        .faq-item {
+            background-color: #0f2336;
+            margin-bottom: 15px;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .faq-question {
+            padding: 20px;
+            width: 100%;
+            text-align: left;
+            background: none;
+            border: none;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .faq-question:after {
+            content: '+';
+            font-size: 20px;
+            color: var(--btn-hero);
+        }
+
+        details[open] .faq-question:after { content: '-'; }
+
+        .faq-answer {
+            padding: 0 20px 20px;
+            color: #bdcddc;
+            display: none; /* Controlled by details tag usually, doing manual details here */
+        }
+
+        details[open] .faq-answer { display: block; }
+
+        /* --- UPDATED BLOCK --- */
+        .updated-block {
+            text-align: center;
+            padding: 20px;
+            color: #5d7387;
+            font-size: 0.9rem;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            margin-top: 40px;
+        }
+
+        /* --- RESPONSIVE --- */
+        @media (max-width: 900px) {
+            .main-nav { display: none; position: absolute; top: 70px; left: 0; width: 100%; background-color: var(--bg-dark); flex-direction: column; padding: 20px; }
+            .main-nav.active { display: flex; }
+            .nav-links { flex-direction: column; align-items: center; margin: 0; }
+            .auth-buttons { flex-direction: column; width: 100%; max-width: 200px; }
+            .hamburger { display: flex; }
+            
+            /* Mobile Layout Fixes */
+            .hero-section { padding: 30px 15px; }
+            .hero-banner-placeholder { height: 200px; font-size: 20px; margin-bottom: 20px; }
+            .hero-text { font-size: 1rem; line-height: 1.5; margin-bottom: 25px; }
+            .btn-hero { width: 100%; max-width: 300px; padding: 15px 20px; font-size: 1rem; }
+
+            .games-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } /* 2 cols on mobile */
+            .section-container { padding: 40px 15px; }
+        }
+        .main-title {
+    text-align: center;
+    width: 100%; /* Ensures the block takes full width so text can center */
+    margin-bottom: 20px; /* Optional: adds some space below it */
+}
+/* 1. The Container Table */
+.seo-content table {
+    width: 100%;
+    border-collapse: collapse; /* This removes gaps between borders */
+    margin: 25px 0;
+    background-color: #0f2336; /* Lighter dark blue than the body */
+    border: 1px solid #2a5275; /* Visible outer border */
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3); /* Adds depth */
+}
+
+/* 2. The Header (Top Row) */
+.seo-content th {
+    background-color: var(--bg-reviews); /* Uses your Teal Green color */
+    color: #ffffff;
+    font-weight: bold;
+    padding: 15px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    border-bottom: 3px solid var(--btn-login); /* Bright green line under header */
+}
+
+/* 3. The Cells (Content) */
+.seo-content td {
+    padding: 14px 15px;
+    color: #bdcddc; /* Light blue-grey text */
+    border-bottom: 1px solid #2a5275; /* Visible separator lines */
+    vertical-align: top; /* Keeps text aligned to top if one cell is tall */
+}
+
+/* 4. Zebra Striping (Makes reading easier) */
+.seo-content tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.03); /* Lightens every other row */
+}
+
+/* 5. Hover Effect */
+.seo-content tr:hover td {
+    background-color: rgba(6, 192, 113, 0.1); /* Subtle green glow on hover */
+    color: #ffffff;
+}
+
+/* 6. Fix for Mobile scrolling */
+@media (max-width: 768px) {
+    .seo-content {
+        overflow-x: auto; /* Allows table to scroll sideways on phone */
+    }
+    .seo-content table {
+        min-width: 600px; /* Ensures table doesn't squash too small */
+    }
+}
+
+.game-card {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1; 
+    border-radius: 12px;
+    overflow: hidden;
+    background: #0c1a25;
+} /* <--- THIS WAS MISSING! */
+
+.game-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.slots-grid {
+   display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Add this to make it responsive on mobile */
+@media (max-width: 768px) {
+    .slots-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns on phone */
+    }
+}
+.play-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background: #fd3db2;
+    color: #fff;
+
+    padding: 8px 16px;             /* smaller padding */
+    border-radius: 8px;
+    font-size: 16px;               /* smaller text */
+    font-weight: 600;
+
+    white-space: nowrap;           /* <-- prevents line break */
+
+    opacity: 0;
+    transition: opacity .3s ease;
+}
+
+/* Show button on hover */
+.game-card:hover .play-btn {
+    opacity: 1;
+}
+        .promo-banner-card {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #0f1c24;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+            border: 3px solid #4ade80; /* Green border */
+            border-radius: 12px;
+            padding: 2rem;
+            text-align: center;
+            color: white;
+            max-width: 450px;
+            width: 100%;
+            z-index: 10;
+        }
+
+        /* The Sunburst/Rays Background */
+        .promo-bg-rays {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 200%;
+            height: 200%;
+            transform: translate(-50%, -50%);
+            background: repeating-conic-gradient(
+                from 0deg,
+                rgba(255, 255, 255, 0.03) 0deg 10deg,
+                transparent 10deg 20deg
+            );
+            mask-image: radial-gradient(circle, black 30%, transparent 70%);
+            -webkit-mask-image: radial-gradient(circle, black 30%, transparent 70%);
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        /* Green glow at top */
+        .promo-top-glow {
+            position: absolute;
+            top: -100px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100%;
+            height: 200px;
+            background: radial-gradient(ellipse at center, rgba(74, 222, 128, 0.15) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        .promo-content {
+            position: relative;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* Typography */
+        .promo-text-shadow {
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .promo-label {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin: 0 0 0.25rem 0;
+        }
+
+        .promo-title-main {
+            font-size: 2.25rem;
+            font-weight: 900;
+            line-height: 1.1;
+            margin: 0 0 0.25rem 0;
+        }
+
+        .promo-title-sub {
+            font-size: 1.875rem;
+            font-weight: 900;
+            line-height: 1.1;
+            margin: 0 0 0.75rem 0;
+        }
+
+        .promo-subtitle {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: #f3f4f6;
+            margin: 0 0 2rem 0;
+            letter-spacing: 0.025em;
+        }
+
+        /* The Pink Button */
+        .promo-btn {
+            background: linear-gradient(180deg, #ec4da1 0%, #d63384 100%);
+            box-shadow: 0 4px 0 #ad1d61, 0 0 20px rgba(236, 77, 161, 0.4);
+            border: none;
+            border-radius: 0.75rem;
+            padding: 1rem 1.5rem;
+            width: 100%;
+            cursor: pointer;
+            transition: transform 0.1s, box-shadow 0.1s;
+            margin-bottom: 1.5rem;
+        }
+
+        .promo-btn:active {
+            transform: translateY(2px);
+            box-shadow: 0 2px 0 #ad1d61, 0 0 10px rgba(236, 77, 161, 0.4);
+        }
+
+        .promo-btn-text-lg {
+            display: block;
+            font-size: 1.5rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: white;
+            filter: drop-shadow(0 1px 2px rgba(0,0,0,0.1));
+        }
+
+        .promo-btn-text-sm {
+            display: block;
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: #fce7f3;
+            margin-top: 0.25rem;
+            opacity: 0.9;
+        }
+        
+/* --- FOOTER STYLES --- */
+.custom-footer {
+    background-color: #050d1a; /* Dark background */
+    color: #cbd5e1;
+    padding: 60px 20px 40px;
+    width: 100%;
+}
+
+.custom-footer a {
+    text-decoration: none;
+    color: #94a3b8;
+    font-weight: 600;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+.custom-footer a:hover {
+    color: #ffffff;
+}
+
+.custom-footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.custom-footer li {
+    margin-bottom: 10px;
+}
+
+/* 1. Navigation Card (The Dark Blue Box) */
+.footer-nav-card {
+    background-color: #0f1c30;
+    border-radius: 16px;
+    padding: 50px;
+    margin: 0 auto 50px auto;
+    max-width: 1200px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.footer-columns {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 40px;
+    text-align: center; /* Center text on mobile */
+}
+
+@media (min-width: 768px) {
+    .footer-columns {
+        grid-template-columns: repeat(3, 1fr);
+        text-align: left; /* Left align on desktop */
+    }
+}
+
+.footer-col h3 {
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+    margin-bottom: 20px;
+}
+
+/* 2. Payment Methods (The Colored Blobs) */
+.payment-methods {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 50px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.payment-icon {
+    width: 70px;
+    height: 50px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s, opacity 0.2s;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.payment-icon:hover {
+    transform: translateY(-3px);
+    opacity: 0.9;
+}
+
+/* Specific Brand Colors */
+.pay-visa { background-color: #1a237e; }
+.pay-mastercard { background-color: #000000; border: 1px solid #333; }
+.pay-skrill { background-color: #811a4d; color: white; font-weight: bold; font-size: 13px; }
+.pay-bitcoin { background-color: #f7931a; }
+.pay-secure { background-color: #ffffff; }
+.pay-bank { background-color: #3b82f6; }
+
+.payment-icon i { font-size: 26px; color: white; }
+.pay-secure i { color: #4f46e5; font-size: 20px; }
+
+/* 3. Bottom Section: Providers & Certs */
+.bottom-section {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.provider-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+/* Filter effects to make logos look uniform */
+.provider-img {
+    height: 22px;
+    object-fit: contain;
+    filter: grayscale(100%) opacity(0.7);
+    transition: all 0.3s;
+}
+
+.provider-img:hover {
+    filter: grayscale(0%) opacity(1);
+}
+
+.provider-text-logo {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+    opacity: 0.9;
+}
+
+.cert-img {
+    height: 35px;
+    object-fit: contain;
+}
+
+.trust-img {
+    height: 30px;
+    object-fit: contain;
+    opacity: 0.8;
+}
+
+.eighteen-plus {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 13px;
+    color: #475569;
+    margin-top: 20px;
+    border-top: 1px solid rgba(255,255,255,0.05);
+    padding-top: 20px;
+    width: 100%;
+}
+/* --- MOBILE & RESPONSIVE FIXES --- */
+@media (max-width: 768px) {
+
+    /* 1. Fix global spacing so content touches edges less */
+    body {
+        padding: 0; /* Remove body padding if any */
+    }
+    
+    .section-container, 
+    .hero-content-wrapper,
+    .faq-section {
+        padding: 40px 15px; /* Reduce huge desktop padding */
+        width: 100%;
+    }
+    /* 2. Fix the Hero Banner (Rocket Image area) */
+@media (max-width: 900px) {
+    
+    /* 1. Allow the background to grow with the content */
+    .hero-banner-placeholder {
+        height: auto !important;  /* Override the fixed 200px height */
+        min-height: 450px;        /* Ensure it's tall enough for the card */
+        padding: 40px 15px;       /* Add breathing room around the card */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* 2. Fit the card within the screen width */
+    .promo-banner-card {
+        width: 100% !important;
+        max-width: 380px !important; /* Prevents it from being too wide */
+        margin: 0 auto;
+        padding: 1.5rem !important;  /* Reduce padding inside the card */
+    }
+
+    /* 3. Shrink the huge text inside the card for mobile */
+    .promo-title-main {
+        font-size: 1.8rem !important; /* Was 2.25rem */
+    }
+    
+    .promo-title-sub {
+        font-size: 1.4rem !important; /* Was 1.875rem */
+    }
+    
+    .promo-btn-text-lg {
+        font-size: 1.1rem !important; /* Make button text fit */
+    }
+}
+    /* 3. Force Games/Slots to be 2 columns instead of 5 */
+    .slots-grid, 
+    .games-grid {
+        grid-template-columns: repeat(2, 1fr) !important; /* Force 2 columns */
+        gap: 10px; /* Smaller gap between games */
+        padding: 0 10px;
+    }
+
+    /* 4. Fix Promo Card Overflow */
+    /* Your promo card is fixed at 450px wide, which is wider than most phones */
+    .promo-banner-card {
+        max-width: 100% !important; 
+        width: auto !important;
+        margin: 10px;
+        padding: 1.5rem;
+    }
+    
+    /* 5. Resize Text for readability */
+    .hero-text {
+        font-size: 1rem; /* readable size */
+        padding: 0 10px;
+    }
+    
+    .section-title, 
+    .promo-title-main {
+        font-size: 1.8rem; /* Prevent huge headers breaking layout */
+    }
+
+    /* 6. Fix Navigation */
+    /* Ensure the hamburger menu appears and links hide */
+    .main-nav {
+        display: none; /* Hide standard nav */
+        width: 100%;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        background: var(--bg-dark);
+        flex-direction: column;
+        z-index: 999;
+    }
+    
+    /* Only show nav when a class is added via JS (if you have JS) */
+    .main-nav.active {
+        display: flex;
+    }
+    
+    .hamburger {
+        display: flex; /* Show hamburger icon */
+    }
+}
+ /* --- LAYOUT CONTAINERS --- */
+        .section-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            width: 100%;
+        }
+
+        .main-title {
+            text-align: center;
+            margin-bottom: 40px;
+            font-size: 2.5rem;
+            color: var(--text-white);
+        }
+
+        /* --- CUSTOM BONUS GRID STYLES (Matching Screenshot) --- */
+        .bonus-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 60px;
+        }
+
+        .bonus-card {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            border: 1px solid rgba(255,255,255,0.05);
+            transition: transform 0.2s ease;
+        }
+        
+        .bonus-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+        }
+
+        /* Full width card for the bottom one */
+        .bonus-card.full-width {
+            grid-column: 1 / -1;
+        }
+
+        .card-badge {
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: rgba(30, 41, 59, 0.9); /* Dark slate badge bg */
+            color: white;
+            font-size: 0.8rem;
+            font-weight: bold;
+            padding: 8px 16px;
+            border-bottom-right-radius: 12px;
+            z-index: 2;
+            text-transform: uppercase;
+        }
+
+        .bonus-image-container {
+            width: 100%;
+            height: 250px;
+            background-color: #0f1c24;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .bonus-image-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .bonus-details {
+            padding: 24px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .bonus-title {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .bonus-subtitle {
+            color: #94a3b8;
+            font-size: 1rem;
+            margin-bottom: 24px;
+            flex-grow: 1;
+        }
+
+        /* Special styling for the calendar card footer info */
+        .calendar-meta {
+            color: #ffd700; /* Gold color */
+            font-size: 0.9rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .calendar-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 5px;
+        }
+
+        /* Buttons area */
+        .bonus-actions {
+            display: flex;
+            gap: 15px;
+            margin-top: auto;
+        }
+
+        .btn-bonus-green {
+            background-color: #5bb574; /* Muted green from screenshot */
+            color: white;
+            border: none;
+            padding: 12px 0;
+            border-radius: 6px;
+            font-weight: 800;
+            text-transform: uppercase;
+            flex: 1;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.2s;
+        }
+        .btn-bonus-green:hover {
+            background-color: #4da066;
+        }
+
+        .btn-bonus-outline {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.2);
+            padding: 12px 0;
+            border-radius: 6px;
+            font-weight: 800;
+            text-transform: uppercase;
+            flex: 1;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.2s;
+        }
+        .btn-bonus-outline:hover {
+            background-color: rgba(255,255,255,0.2);
+        }
+
+         /* --- LOGIN SPECIFIC STYLES (Added to match your theme) --- */
+        .login-wrapper {
+            padding: 80px 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 70vh;
+            background: radial-gradient(circle at center, #0f2a42 0%, var(--bg-body) 70%);
+        }
+
+        .login-card {
+            background-color: #0f1c24;
+            width: 100%;
+            max-width: 450px;
+            padding: 40px;
+            border-radius: 12px;
+            border: 1px solid rgba(255,255,255,0.1);
+            box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Top highlight glow */
+        .login-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--btn-login), var(--btn-hero));
+        }
+
+        .login-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .login-header h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            color: var(--text-white);
+        }
+
+        .login-header p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            display: block;
+            margin-bottom: 8px;
+            color: #bdcddc;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 12px 16px;
+            background-color: rgba(0,0,0,0.2);
+            border: 1px solid #2a4055;
+            border-radius: 6px;
+            color: white;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            font-family: var(--font-family);
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: var(--btn-login);
+            box-shadow: 0 0 0 3px rgba(6, 192, 113, 0.2);
+            background-color: rgba(0,0,0,0.4);
+        }
+
+        .form-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            font-size: 0.9rem;
+        }
+
+        .remember-me {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--text-muted);
+            cursor: pointer;
+        }
+
+        .forgot-password {
+            color: var(--btn-login);
+            font-weight: 500;
+        }
+
+        .forgot-password:hover {
+            text-decoration: underline;
+        }
+
+        .login-submit-btn {
+            width: 100%;
+            padding: 14px;
+            background-color: var(--btn-login);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .login-submit-btn:hover {
+            background-color: #05a05e;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(6, 192, 113, 0.3);
+        }
+
+        .register-link {
+            text-align: center;
+            margin-top: 20px;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .register-link a {
+            color: var(--btn-register);
+            font-weight: bold;
+            margin-left: 5px;
+        }
+
+        /* Checkbox customization */
+        input[type="checkbox"] {
+            accent-color: var(--btn-login);
+            width: 16px;
+            height: 16px;
+        }
+         /* --- CONTACT PAGE SPECIFIC STYLES --- */
+        .contact-section {
+            padding: 60px 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+            width: 100%;
+            flex: 1;
+        }
+
+        .page-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .page-header h1 {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            background: linear-gradient(90deg, #fff, #bdcddc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .page-header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .contact-grid-layout {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: start;
+        }
+
+        /* Form Styles */
+        .contact-form-container {
+            background-color: #0f1c24;
+            padding: 30px;
+            border-radius: 12px;
+            border: 1px solid #2a5275;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #bdcddc;
+            font-size: 0.95rem;
+        }
+
+        .form-input, .form-textarea {
+            width: 100%;
+            padding: 12px 15px;
+            background-color: #07192a;
+            border: 1px solid #2a5275;
+            border-radius: 8px;
+            color: #ffffff;
+            font-family: inherit;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .form-input:focus, .form-textarea:focus {
+            outline: none;
+            border-color: var(--btn-register);
+            box-shadow: 0 0 0 3px rgba(253, 61, 178, 0.15);
+        }
+
+        .form-textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+
+        .submit-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(90deg, var(--btn-register), #d63384);
+            border: none;
+            border-radius: 8px;
+            color: white;
+            font-weight: bold;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(253, 61, 178, 0.4);
+        }
+
+        /* Info Cards Styles */
+        .contact-info-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .info-card {
+            background-color: rgba(255, 255, 255, 0.03);
+            padding: 25px;
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+            transition: background-color 0.3s ease;
+        }
+
+        .info-card:hover {
+            background-color: rgba(255, 255, 255, 0.06);
+            border-color: var(--btn-login);
+        }
+
+        .icon-box {
+            background-color: rgba(6, 192, 113, 0.15);
+            color: var(--btn-login);
+            width: 50px;
+            height: 50px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .info-content h3 {
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+            color: #fff;
+        }
+
+        .info-content p {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 8px;
+        }
+
+        .email-link {
+            color: var(--btn-register);
+            font-weight: bold;
+            font-size: 1.05rem;
+            transition: color 0.2s;
+        }
+
+        .email-link:hover {
+            color: #ff8ecb;
+            text-decoration: underline;
+        }
+         /* FIXED ICON BOX STYLES */
+        .icon-box {
+            width: 72px; /* Fixed width */
+            height: 72px; /* Fixed height */
+            background-color: #0b1a26; /* Dark background for the square */
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0; /* Prevents squishing */
+            overflow: hidden; /* Clips the image to the border radius */
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+        
+        .icon-box img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Ensures image covers the square area */
+            display: block;
+        }
+
+        .info-content h3 { font-size: 1.1rem; margin-bottom: 5px; color: #fff; }
+        .info-content p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 8px; }
+        .email-link { color: var(--btn-register); font-weight: bold; font-size: 1.05rem; transition: color 0.2s; }
+        .email-link:hover { color: #ff8ecb; text-decoration: underline; }

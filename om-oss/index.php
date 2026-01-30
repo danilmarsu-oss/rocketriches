@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="alternate" hreflang="nb-NO" href="https://rocketriches.no/om-oss/"/>
+   <link rel="alternate" hreflang="x-default" href="https://rocketriches.no/om-oss/"/>
+    <title>Om Rocket Riches Casino – Vår Historie, Verdier og Sikkerhet</title>
+    <meta name="description" content="Les mer om Rocket Riches Casino: hvem vi er, vår reise, våre mål og hvorfor sikkerhet, ansvarlig spill og en trygg spillopplevelse står i sentrum. Bli kjent med teamet bak nettcasinoet." />
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="/nc_assets/css/style.css?v=1.35">
+    <link rel="canonical" href="https://rocketriches.no/om-oss/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+<header>
+    <div class="logo">
+       <a href="/">
+        <img src="../rocket-riches-casino.svg" alt="Rocket Riches Casino" class="logo-img">
+    </a>
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+    </div>
+    <nav class="main-nav" id="mainNav">
+        <ul class="nav-links">
+            <li><a href="/bonus/">Bonuses</a></li>
+            <li><a href="/login/">Login</a></li>
+            <li><a href="/app/">App</a></li>
+            <li><a href="/">Casino</a></li>
+            <li><a href="/">Live Casino</a></li>
+            <li><a href="/games/">Spill</a></li>
+        </ul>
+        <div class="auth-buttons">
+            <a href="/">
+    <button class="btn btn-login">Logg inn</button>
+</a>
+
+<a href="/go/">
+    <button class="btn btn-register">Register</button>
+</a>
+        </div>
+    </nav>
+</header>
+    <main>
+<div class="section-container">
+    <div class="seo-content">
+        <h1 class="main-title">Om Rocket Riches Casino</h1>
+        <p>
+            <a href="/">Rocket Riches Casino</a> er den ultimate destinasjonen for norske spillere som søker spenning og kvalitet. 
+            Vi tilbyr et enormt bibliotek som dekker alt fra klassiske spilleautomater og strategiske bordspill 
+            til de aller nyeste live-spillene. Ved å samarbeide med bransjens ledende leverandører sikrer vi 
+            at du alltid har tilgang til markedets beste titler. Som en ekstra fordel tilbyr vi våre norske lånetakere 
+            en generøs <strong>10 % cashback-bonus</strong>. Les videre for å bli kjent med Rocket Riches-universet, 
+            og prøv lykken i dag!
+        </p>
+
+        <h2>Vår Historie</h2>
+        <p>
+            Rocket Riches ble grunnlagt av en gruppe lidenskapelige spillentusiaster med ett felles mål: å skape en 
+            plattform som er både <strong>trygg, sikker og underholdende</strong>. Resultatet er et av markedets mest 
+            moderne nettcasinoer, designet for å gi deg en førsteklasses opplevelse i trygge omgivelser. Helt fra 
+            starten har vi fokusert på å belønne lojalitet, blant annet gjennom vår faste cashback-ordning. Hos oss 
+            får spillere fra hele verden en rettferdig og engasjerende spillopplevelse.
+        </p>
+
+        <h2>Hvorfor Spille Hos Oss?</h2>
+        <p>
+            Det finnes mange grunner til å velge Rocket Riches som ditt foretrukne nettcasino. Her er noen av fordelene våre:
+        </p>
+        <ul>
+            <li><strong>Lisensiert og Regulert:</strong> Vi opererer med full lisens fra GCB, slik at du kan være trygg på at alle spill foregår riktig og rettferdig.</li>
+            <li><strong>Norsk Kundeservice:</strong> Vi tilbyr førsteklasses kundestøtte døgnet rundt, med rask responstid og hjelp på norsk.</li>
+            <li><strong>Ansvarlig Spill:</strong> Din trygghet er viktig for oss. Vi tilbyr en rekke verktøy for å hjelpe deg med å beholde kontrollen over spillingen.</li>
+            <li><strong>Enormt Spillutvalg:</strong> Utforsk tusenvis av de mest populære spillene på markedet, samlet på ett sted.</li>
+            <li><strong>Mobilvennlig:</strong> Ta med deg spenningen overalt. Vår plattform er optimalisert for sømløst spill på både mobil og nettbrett.</li>
+        </ul>
+
+        <h2>Sikkerhet og Trygghet i Førersetet</h2>
+        <p>
+            Vår høyeste prioritet er å tilby en trygg spillarena for alle våre brukere. Vi opererer under lisens fra 
+            Curacao Gaming Control Board, noe som bekrefter at vi følger strenge internasjonale regler og forskrifter 
+            for rettferdig spill. For å beskytte dine personopplysninger og transaksjoner benytter vi oss av 
+            avanserte sikkerhetstiltak, inkludert sikre servere og bransjestandard <strong>SSL-kryptering</strong>.
+        </p>
+
+        <h2>Utforsk Norges Beste Casinospill</h2>
+        <p>
+            Hos Rocket Riches finner du et bredt spekter av underholdning skreddersydd for enhver smak. Spinn hjulene 
+            på moderne <strong>videoautomater</strong> eller nostalgiske klassikere, eller test ferdighetene dine 
+            i våre populære bordspill. I vårt <strong>Live Casino</strong> kan du oppleve den autentiske casinofølelsen 
+            direkte i stuen din, med ekte dealere i spill som Live Roulette, Live Blackjack og spennende Gameshows.
+        </p>
+    </div>
+</div>
+
+        <!-- UPDATED BLOCK -->
+
+    </main>
+
+    <!-- FOOTER -->
+
+ <footer class="custom-footer" style="background-color: #0f1c30; color: #fff;">
+    
+    <div style="width: 100%; text-align: center; padding: 12px 0; background-color: rgba(255, 255, 255, 0.05); color: #ffffff; font-weight: bold; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 2rem;">
+        Oppdatert: 23.01.2026
+    </div>
+    <div class="footer-nav-card">
+        <div class="footer-columns">
+            
+            <div class="footer-col">
+                <h3>Rocket Riches</h3>
+                <ul>
+                    <li><a href="/">Casino-lobby</a></li>
+                    <li><a href="/">Live Casino-lobby</a></li>
+                    <li><a href="/">Spilleautomater</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Retningslinjer</h3>
+                <ul>
+                    <li><a href="/terms-and-conditions/">Betingelser og vilkår</a></li>
+                    <li><a href="/bonus-policy/">Bonusbetingelser</a></li>
+                    <li><a href="/privacy-policy/">Personvernerklæring</a></li>
+                    <li><a href="/responsible-gambling/">Ansvarlig spill</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Mer info</h3>
+                <ul>
+                    <li><a href="/is-rocket-riches-legit/">Er Rocket Riches legitimt?</a></li>
+                    <li><a href="/contact-us/">Kontakt</a></li>
+                    <li><a href="/om-oss/">Om oss</a></li>
+                    <li><a href="/">Affiliates</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="payment-methods">
+        <div class="payment-icon pay-visa">
+            <i class="fa-brands fa-cc-visa"></i>
+        </div>
+        <div class="payment-icon pay-mastercard">
+            <i class="fa-brands fa-cc-mastercard"></i>
+        </div>
+        <div class="payment-icon pay-skrill">
+            Skrill
+        </div>
+        <div class="payment-icon pay-bitcoin">
+            <i class="fa-brands fa-bitcoin"></i>
+        </div>
+        <div class="payment-icon pay-secure">
+            <i class="fa-solid fa-lock"></i>
+        </div>
+        <div class="payment-icon pay-bank">
+            <i class="fa-solid fa-building-columns"></i>
+        </div>
+    </div>
+
+    <div class="bottom-section">
+        
+        <div class="provider-row top-row">
+            <img src="/PLAYNGO.png" alt="Play'n Go" class="provider-img">
+            <img src="/push gaming.webp" alt="Push Gaming" class="provider-img">
+            <img src="/RelaxGaming.png" alt="Relax" class="provider-img">
+            <img src="/netent.png" alt="NetEnt" class="provider-img">
+            <img src="/nolimit-logo.png" alt="NoLimit" class="provider-img">
+            <img src="/RedTiger.png" alt="Red Tiger" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <img src="/evolution.jpeg" alt="Evolution" class="provider-img">
+            <img src="/pragmaticplay.png" alt="Pragmatic" class="provider-img">
+            <img src="/spinomenal.png" alt="Spinomenal" class="provider-img">
+            <img src="/Big-Time-Gaming.webp" alt="BTG" class="provider-img">
+            <img src="/Quickspinorange.webp" alt="Quickspin" class="provider-img">
+            <img src="/thunderkick-logo.png" alt="Thunderkick" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <a href="https://cert.gcb.cw/certificate/">
+                <img src="/curacao certificate.png" alt="Curacao Gaming Authority" class="cert-img">
+            </a>
+            <img src="/dmca.png" alt="DMCA" class="cert-img">
+        </div>
+
+        <div class="provider-row" style="flex-wrap: wrap; gap: 15px; justify-content: center;">
+            <div class="eighteen-plus center-content">18+</div>
+            
+            <img src="/digicert.png" alt="Digicert" class="trust-img">
+            <img src="/ssl-secured.svg" alt="SSL" class="trust-img">
+
+            <a href="https://www.gamstop.co.uk" target="_blank">
+                <img src="/gamstop.png" alt="GamStop" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamcare.org.uk" target="_blank">
+                <img src="/Gam Care.jpg" alt="GamCare" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.egba.eu" target="_blank">
+                <img src="/EGBA.eu.png" alt="EGBA" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.begambleaware.org" target="_blank">
+                <img src="/Gamble aware.webp" alt="GambleAware" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamblingcommission.gov.uk" target="_blank">
+                <img src="/Gamblingcommision.png" alt="Gambling Commission" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2025 Rocket Riches. All rights reserved.
+        </div>
+    </div>
+</footer>
+    <script>
+        // Mobile Menu Toggle
+        function toggleMenu() {
+            document.getElementById('mainNav').classList.toggle('active');
+        }
+
+        // Set Current Date in Footer/Updated Block
+        const date = new Date();
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('currentDate').textContent = date.toLocaleDateString('en-US', options);
+    </script>
+</body>
+</html>

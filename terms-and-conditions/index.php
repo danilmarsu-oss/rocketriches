@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="alternate" hreflang="nb-NO" href="https://rocketriches.no/terms-and-conditions/"/>
+   <link rel="alternate" hreflang="x-default" href="https://rocketriches.no/terms-and-conditions/"/>
+    <title>Betingelser og vilkår | Rocket Riches</title>
+    <meta name="description" content="Les våre offisielle betingelser og vilkår. Her finner du viktig informasjon om kontoregler, innskudd, uttak, bonuser og retningslinjer for ansvarlig spill." />
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="/nc_assets/css/style.css?v=1.35">
+    <link rel="canonical" href="https://rocketriches.no/terms-and-conditions/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+<header>
+    <div class="logo">
+       <a href="/">
+        <img src="../rocket-riches-casino.svg" alt="Rocket Riches Casino" class="logo-img">
+    </a>
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+    </div>
+    <nav class="main-nav" id="mainNav">
+        <ul class="nav-links">
+            <li><a href="/bonus/">Bonuses</a></li>
+            <li><a href="/login/">Login</a></li>
+            <li><a href="/app/">App</a></li>
+            <li><a href="/">Casino</a></li>
+            <li><a href="/">Live Casino</a></li>
+            <li><a href="/games/">Spill</a></li>
+        </ul>
+        <div class="auth-buttons">
+            <a href="/">
+    <button class="btn btn-login">Logg inn</button>
+</a>
+
+<a href="/go/">
+    <button class="btn btn-register">Register</button>
+</a>
+        </div>
+    </nav>
+</header>
+    <main>
+<div class="section-container">
+        
+        <h1 class="section-title">Betingelser og vilkår</h1>
+
+        <div class="seo-content">
+            
+            <p><strong>Våre betingelser og vilkår</strong></p>
+            <p>Disse betingelser og vilkår (“Vilkår”) utgjør grunnlaget for hvordan du får tilgang til og bruker, og grunnlaget for hvordan vi kan tilby, våre Tjenester (som definert nedenfor) til deg fra Nettsiden (som definert nedenfor). Vennligst les nøye gjennom disse vilkårene, da de utgjør en juridisk bindende kontrakt mellom deg og oss.</p>
+
+            <h2>1. Informasjon om oss</h2>
+            <p><strong>1.1</strong> Vi er White Star B.V. (handles som "Rocket Riches"), et selskap som er inkorporert under lovverket i Curacao med registreringsnummer 153150 og registrert adresse Korporaalweg 10, Curacao.</p>
+            <p><strong>1.2</strong> Vi er regulert og autorisert av Curacao Gaming Control Board (GCB), med lisensnummer OGL/2023/159/0076, for å tilby interaktive sjansespill via Nettsiden (som definert nedenfor) ("Tjenester").</p>
+            <p><strong>1.3</strong> Vi tilbyr Tjenestene fra Nettsiden som URL-adressen “ROCKETRICHES.COM” løser til fra tid til annen (“Nettsiden”).</p>
+            <p><strong>1.4</strong> Referanser i disse betingelser og vilkår til “Rocket Riches”, “vi”, “oss”, “vårt” eller “våre” er til White Star B.V.</p>
+
+            <h2>2. Vår kontrakt med deg</h2>
+            <p><strong>2.1</strong> Ved å besøke Nettsiden og/eller ved å registrere deg og/eller å bruke Tjenestene, samtykker du til og er bundet av disse Vilkårene og andre ekstra betingelser som kan inkorporeres ved referanse fra tid til annen, inkludert, men ikke begrenset til:</p>
+            <ol type="a">
+                <li>Vår erklæring for Personvern og Bruk av Cookies;</li>
+                <li>Eventuelle spillregler som kan gjelde for enkelte spill som tilbys som en del av Tjenestene, og som kan vises inne i det aktuelle casinospillet, inkludert men ikke begrenset til spillgrenser og grenser for maksimumgevinster (“Spillregler”);</li>
+                <li>Alle spesifikke vilkår som er fastslått som gjeldende (f.eks hvis du deltar i en kampanje gjelder kampanjens betingelser og vilkår); og</li>
+                <li>Alle våre andre betingelser og vilkår, regler og vilkår slik som de relateres til alle gjeldende Tjenester, kampanjer, bonuser, spesialtilbud eller noen andre aspekter ved din bruk av Tjenestene fra tid til annen.</li>
+            </ol>
+            <p><strong>2.2</strong> Hver gang du besøker Nettsiden vår og/eller får tilgang til Tjenestene våre, vil du bli ansett å ha akseptert disse vilkårene på nytt og slik som de foreløpig er utformet, inkludert eventuelle endringer som kan ha blitt foretatt til vilkårene siden du sist besøkte og/eller brukte Tjenestene. Hvis du ikke godtar å akseptere og være bundet av disse vilkårene, må du ikke benytte våre Tjenester og Nettside.</p>
+            <p><strong>2.3</strong> Disse vilkårene vil fortsette i full styrke og virkning med mindre og frem til de sies opp i samsvar med vilkårene, eller med minst syv (7) dagers varsel fra den parten til den andre; alltid under forutsetningen at oppsigelsen vil påvirke anvendeligheten og/eller håndhevelsen av noen bestemmelser som er utformet, eller ved tolkning, ment eller som bør forstås, for å overleve oppsigelsen av disse vilkårene.</p>
+
+            <h2>3. Kontoer og kontoverifikasjon</h2>
+            <p><strong>3.1</strong> Når du registrerer en konto hos oss godtar, aksepterer og bekrefter du at:</p>
+            <ol type="a">
+                <li>Du er minst:
+                    <ol type="i">
+                        <li>18 år gammel; eller</li>
+                        <li>Over den lovlige aldersgrensen for pengespill under det lovverket som gjelder for deg, avhengig av hvilken som er høyest (“Majoritetsalder”);</li>
+                    </ol>
+                </li>
+                <li>Du vil oppgi nøyaktig registreringsinformasjon når du åpner din konto, inkludert, uten begrensninger, din fødselsdato, i tillegg til gyldig identifikasjon som bekrefter dette, landet du bor i, din nåværende hjemmeadresse, din e-post og ditt personlige telefonnummer. Du må informere oss om endringer i denne informasjonen;</li>
+                <li>Du er juridisk i stand til å inngå bindende kontrakter, inkludert disse betingelser og vilkår og alle innsatser du plasserer;</li>
+                <li>Du åpner kontoen din utelukkende for personlig bruk, og at du handler på egne vegne og ikke som en representant eller på vegne av en tredjepart;</li>
+                <li>Du vil ikke prøve å selge eller på noe vis overføre eller gi kontoen din en tredjepart og du vil heller ikke anskaffe eller prøve å anskaffe en konto som har blitt åpnet i en tredjeparts navn;</li>
+                <li>Du er ene og alene ansvarlig for å følge (og at du fortsetter å følge) dine lokale, nasjonale, føderale, statlige og andre lover som kan være gjeldende for deg fra tid til annen og som kan påvirke muligheten din til å få tilgang til og bruke Tjenestene;</li>
+                <li>Du ikke er en PEP-, HIP- eller PEP/HIO-relatert person (definert nedenfor), og at du umiddelbart vil gi oss beskjed om statusen din endres i denne sammenhengen;</li>
+                <li>Du er ikke forbudt på noe vis fra å spille med oss og å bruke Tjenestene inkludert, men ikke begrenset, gjennom en rettskjennelse;</li>
+                <li>Du er ikke i øyblikket underlagt en selvekskludering fra en Rocket Riches-konto.</li>
+            </ol>
+
+            <p><strong>3.2</strong> Du har ikke lov til å registrere mer enn én konto med det formål å skaffe deg tilgang til Tjenestene.</p>
+            <p><strong>3.3</strong> Du kan ikke registrere, eller opprettholde, en konto hos oss hvis du anses som en politisk eksponert person (“PEP”), sjef for en internasjonal organisasjon (head of an international organisation / “HIO”), eller et familiemedlem eller en nær bekjent av en PEP eller HIO (“PEP/HIO-relatert Person”); og du vil varsle oss umiddelbart hvis din status i denne sammenheng endrer seg. For formålet med denne klausulen 3.3:</p>
+            <ol type="a">
+                <li>En <strong>PEP</strong> inkluderer et individ som innehar følgende verv eller stillinger i, eller på vegne av, en stat: (i) statsoverhode eller regjeringssjef, (ii) medlem av regjeringens eksekutivråd eller medlem av en lovgivende forsamling, (iii) stedfortredende minister eller tilsvarende rangert ambassadør, attaché eller rådgiver for en ambassadør, (iv) militæroffiser med rang som general eller høyere, (v) president i et statseid selskap eller en statseid bank, (vi) leder av et regjeringsbyrå, (vii) dommer ved en høyesterett, forfatningsdomstol eller annen domstol i siste instans, og (viii) leder eller president for et politisk parti representert i en lovgivende forsamling;</li>
+                <li>En <strong>HIO</strong> er en person som er, eller som var i løpet av de fem siste årene, den primære personen ansvarlig for å lede en internasjonal organisasjon eller institusjon, og den internasjonale organisasjonen eller institusjonen som de er, eller var, leder er enten: (i) en internasjonal organisasjon opprettet av regjeringen i enhver stat; eller (ii) en institusjon opprettet av en internasjonal organisasjon etablert av regjeringen i en stat;</li>
+                <li>Et <strong>familiemedlem</strong> av en PEP eller HIO inkluderer: (i) deres ektefelle eller samboer, tidligere ektefelle eller tidligere samboer, (ii) deres biologiske barn aller adoptivbarn, (iii) deres mødre eller fedre, (iv) mødrene eller fedrene til deres ektefelle eller samboer (svigermor eller svigerfar), (v) deres søsken; og</li>
+                <li>En <strong>nær bekjent</strong> av en PEP eller HIO inkluderer personer som: (i) er forretningspartnere til, eller som med fordel eier eller kontroller en en virksomhet med en PEP eller HIO, (ii) er i et romantisk forhold med en PEP eller HIO; (iii) er involvert i økonomiske transaksjoner med en PEP eller HIO, (iv) fungerer som medlem av samme styre som en PEP eller HIO, (v) utfører veldedig arbeid tett på en PEP eller HIO, og (vi) er felles oppført på en forsikringspoliser der en av innehaverne kan være en PEP eller HIO.</li>
+            </ol>
+
+            <p><strong>3.4</strong> Vi kan begrense opprettelsen av Rocket Riches-kontoer til én pr. person, familie, husholdningsadresse, e-postadresse, telefonnummer, IP-adresse, samme betalingsmetode, tilknyttede e-lommebokkontoer, mobile enheter, eller tilfeller av appnedlasting. Under noen omstendigheter vil vi være nødt til å omgå eller heve disse restriksjonene, men vi kan vurdere rimelige forespørsler om dette i enkelttilfeller. Vennligst ta kontakt med kundeservice <a href="mailto:support@rocketriches.com">support@rocketriches.com</a> for assistanse.</p>
+            <p><strong>3.5</strong> Hvis vi tror, helt og holdent etter eget skjønn, at du har registrert og/eller bruker mer enn én konto hos oss i brudd med klausul 3.2, kan vi begrense, suspendere, og/eller permanent stenge enhver og/eller alle slike kontoer, tilbakeholde eventuelle gevinster tilknyttet disse kontoene og belaste et administrasjonsgebyr for å gjøre dette.</p>
+            <p><strong>3.6</strong> Tilgjengeligheten til Tjenestene utgjør ikke et tilbud, en oppfordring eller invitasjon fra oss til å bruke Tjenestene våre i jurisdiksjoner hvor slik bruk er forbudt. Hvis du bruker Tjenestene våre i strid med lokale, nasjonale, føderale, provinsielle, statlige eller andre lover som gjelder for deg, vil vi ikke være ansvarlige overfor deg for eventuelle konsekvenser av slik bruk.</p>
+            <p><strong>3.7</strong> Du må holde din personlige informasjon oppdatert til enhver tid; hvis du ikke gjør det kan det begrense våre muligheter til å tilby enkelte deler av Tjenestene til deg inkludert, men ikke begrenset til, behandlingen av forespørsler om innskudd og/eller uttak innenfor en rimelig tid, eller i det hele tatt. Du kan oppdatere informasjonen når som helst ved å besøke kontoseksjonen av Nettsiden vår; hvis du trenger hjelp med å oppdatere den personlige informasjonen din kan du ta kontakt med kundeservice <a href="mailto:support@rocketriches.com">support@rocketriches.com</a>.</p>
+            <p><strong>3.8</strong> Du kan ikke, direkte eller indirekte, overføre eller prøve å overføre midler fra én Rocket Riches-konto til en annen uansett grunn.</p>
+            <p><strong>3.9</strong> Du godtar at vi kan utføre elektroniske verifikasjonskontroller av deg når du åpner en konto hos oss. Ved å akseptere disse betingelser og vilkår og/eller registrere deg på Nettsiden godtar du at vi har rett til å foreta alle slags identifikasjon-, kreditt- og svindelsjekker, i tillegg til andre verifikasjonskontroller fra tid til annen, slik som vi føler er nødvendig og/eller som er påkrevd under gjeldende lovverk og reguleringer og/eller av de relevante tilsynsmyndighetene for bruk av Nettsiden og bruk av våre produkter på generelt grunnlag. Du godtar at du vil gi oss all informasjon som vi trenger i forbindelse med slike verifikasjonskontroller. Vi vil ha rett til å suspendere eller begrense kontoen din på et vis som vi synes er passende, frem til vi på tilfredsstillende vis har fullført disse verifikasjonskontrollene.</p>
+            <p><strong>3.10</strong> Som en del av registrering- og verifikasjonprosessen kan det hende vi overføre informasjon gitt til oss i henhold til paragraf 3.9 til visse tredjeparter med det formål å bistå med og fullføre enhver verifikasjonsprosess, og du godtar og samtykker spesifikt til slike overføringer og behandling.</p>
+
+            <h2>4. Begrensede territorier</h2>
+            <p><strong>4.1</strong> Muligheten din til å få tilgang til og/eller bruke nettstedet og Tjenestene våre er ikke veiledende, og skal ikke anses å være veiledende, for at slik bruk eller tilgang er lovlig i jurisdiksjonen/territoriet der du bor; og vi gir eksplisitt ingen representasjoner med hensyn til lovligheten til tjenesten og/eller din bruk av disse.</p>
+            <p><strong>4.2</strong> Vi kan, etter vårt eget og absolutte skjønn fra tid til annen, hindre personer som befinner seg i visse territorier eller jurisdiksjoner ("begrensede territorier") fra å få tilgang til nettstedet, registrere en konto og/eller på annen måte kunne få tilgang til, eller bruke, Tjenestene. Som i skrivende stund inkluderer begrensede territorier, men er ikke begrenset til, USA, Nederland, Frankrike, Nederlandsk Vest-India og Curaçao.</p>
+            <p><strong>4.3</strong> Vi benytter teknologiske løsninger for å forhindre personer som befinner seg i begrensede territorier fra å få tilgang til nettstedet, registrere en konto og/eller på en annen måte kunne få tilgang til eller bruke Tjenestene. Du erkjenner og godtar at vi ikke vil være ansvarlige overfor deg og, og vil bli holdt skyldløse i forhold til, eventuelle tap du lider som følge av ditt forsøk på å få tilgang til nettstedet og Tjenestene fra et begrenset territorium, inkludert ved hjelp av ethvert hjelpemiddel utformet for å omgå eventuelle kontroller eller teknologiske løsninger som vi kan ha på plass fra tid til annen, og som har til hensikt å forhindre eller begrense slik tilgang.</p>
+            <p><strong>4.4</strong> Alle midler som er satt inn på en konto av personer som befinner seg i et begrenset territorium, uavhengig av om det er permanent eller midlertidig, vil anses som tapt og vil ikke returneres.</p>
+
+            <h2>5. Kontosikkerhet</h2>
+            <p><strong>5.1</strong> Du samtykker til at du må oppbevare brukernavnet og passordet til kontoen din konfidensielt og å ikke dele dette med en tredjepart. Vi står ikke ansvarlig for tap som kan oppstå som et resultat av misbruk av ditt brukernavn og passord eller fra uatorisert tilgang til kontoen din.</p>
+            <p><strong>5.2</strong> Hvis du mistenker at en tredjepart benytter seg av kontoen din må du umiddelbart rapportere dette til vår kundeservice <a href="mailto:support@rocketriches.com">support@rocketriches.com</a>.</p>
+            <p><strong>5.3</strong> Du har ene og alene ansvar for sikkerheten til enhver enhet som du bruker for tilgang til, og for all aktivitet som finner sted på, kontoen din.</p>
+
+            <h2>6. Kontomidler, Innskudd og Uttak</h2>
+            <p><strong>6.1</strong> For å kunne benytte Tjenestene våre må kontoen din finansieres med “ekte penger” (eller tilsvarende) via:</p>
+            <ol type="a">
+                <li>en innskuddskonto;</li>
+                <li>et kreditt- eller debetkort, verifiserbart som ditt eget;</li>
+                <li>et forhåndsbetalt kort som kan fylles på, som er verifiserbart som ikke mulig å overføre og som tilhører deg;</li>
+                <li>en bankoverføring fra en konto som er verifiserbar som din;</li>
+                <li>kampanjekreditt, bonuser og/eller justeringer til kontobalanse foretatt av oss;</li>
+                <li>gevinster fra tidligere spillrunder; og/eller</li>
+                <li>andre midler og/eller innskuddsmetoder som kan gjøres tilgjengelig via Nettsiden fra tid til annen.</li>
+            </ol>
+            <p><strong>6.2</strong> Innskuddsmetodene nevnt i klausul 6.1 er ment som en illustrasjon og ikke alle innskuddsmetoder vil være tilgjengelig for deg til enhver tid. Vi garanterer ikke for tilgjengeligheten til bestemte innskudd- og/eller betalingsmetoder, og vi står fritt til å legge til, fjerne, og/eller endre innskuddsmetodene som er tilgjengelige for deg til enhver tid og etter eget skjønn.</p>
+            <p><strong>6.3</strong> Innskudd kan være underlagt minimum- og maksimumgrenser, som kan bestemmes av innskuddsmetoden, din konto- og spillhistorikk, grenser innført for deg av deg selv, eller som ellers avgjøres av oss etter vårt eget skjønn.</p>
+            <p><strong>6.4</strong> Innsatte midler vil krediteres kontoen din når vi/våre agenter faktisk mottar den samme summen, alt ettersom.</p>
+            <p><strong>6.5</strong> Vi oppbevarer dine innsatte midler separat fra selskapets driftsmidler. I tilfelle insolvens gir vi ingen garanti for at innsatte midler vil betraktes som separate fra våre andre eiendeler og at alle, eller noen, av midlene dine vil returneres til deg.</p>
+            <p><strong>6.6</strong> Vi er ikke en bank, og penger som settes inn på kontoen din er ikke beskyttet eller forsikret av offentlige byråer, eller på andre måter beskyttet av innskuddsordninger, og pengene vil heller ikke tjene renter.</p>
+            <p><strong>6.7</strong> Eventuelle beløp som du skylder oss i henhold til disse vilkårene kan trekkes fra, enten helt eller delvis, fra midler som oppbevares på kontoen din uten forvarsel.</p>
+            <p><strong>6.8</strong> Du har ikke lov til å bruke betalingsmetoder som tilhører eller er registrert på en tredjepart for å sette inn penger på kontoen din. Ethvert innskudd som gjøres i strid med denne bestemmelsen vil bli ansett som ugyldig, og alle påfølgende gevinster som oppstår fra slike innskudd vil bli ansett som ugyldig og kan gå tapt.</p>
+            <p><strong>6.9</strong> Du skal kun sette inn midler som du planlegger å bruke til å spille og benytte Tjenestene med. Hvis vi har god grunn til å tro at du har satt inn penger og at du ikke har planer om å bruke disse pengene til å benytte Tjenestene, så kan det hende vi suspenderer eller stenger kontoen din og vi kan være påkrevd å rapportere dette til de relevante myndighetene.</p>
+            <p><strong>6.10</strong> I tilfeller hvor et innskudd feiler, kanselleres av deg eller en tredjepart, og/eller pengene ikke mottas av oss, uansett årsak (“Mislykket innskudd”), kan vi annullere alle saldoer, bonuser og gevinster som er kreditert, påløpt eller tildelt kontoen din som er relatert til et mislykket innskudd.</p>
+            <p><strong>6.11</strong> Vi kan være påkrevd av antihvitvasking-reguleringer, og som en del av våre interne erklæringer, å foreta kontroller på kilden til midler som brukes til å foreta innskudd av våre kunder. Hvis disse kontrollene ikke gir oss den nødvendige informasjonen om deg, kan det hende at vi ber deg om ytterligere informasjon (inkludert om kilden til pengene dine). Vi forbeholder retten til å suspendere eller terminere kontoen din hvis vi ikke føler oss tilfreds at kilden eller opphavet til pengene stammer fra legitime kilder.</p>
+            <p><strong>6.12</strong> Du samtykker til å holde oss skadesløse og å refundere oss, i sin helhet, med hensyn til eventuelle tap vi måtte lide som følge av tilbakeføring (chargeback), tilbakeføring av innskudd og/eller kansellering av innskudd (“Innskuddskansellering”) initiert av deg eller en tredjepart som handler på dine vegne og/eller i henhold til instruksjonene dine. I den grad det er tillatt i henhold til loven, forplikter du deg til å aldri foreta en handling, eller unngå å foreta en handling, som kan føre til at et kansellert innskudd oppstår.</p>
+            <p><strong>6.13</strong> Der det er mulig belaster vi ikke avgifter for innskudd og uttak til din konto. Det kan dog oppstå avgifter, fra tid til annen, i relasjon til enkelte betalingsmetoder og/eller om vi opplever valutagebyr knyttet til ditt innskudd/uttak. Vi vil gjøre så godt vi kan for å varsle deg om slike avgifter.</p>
+            <p><strong>6.14</strong> Din bank, kortutsteder og/eller tilbyder av betalingsTjenester kan belaste avgifter på dine innskudd og uttak og, ved å sette inn eller ta ut penger til/fra kontoen din, bekrefter og garanterer du at du har foretatt tilstrekkelige forespørsler til din bank, kortutsteder og/eller tilbyder av betalingsTjenester og at du er fullstendig informert om slike avgifter og at du er villig til å akseptere disse. Vi vil ikke, under noen omstendigheter, holdes ansvarlig overfor deg for transaksjonsgebyr som du blir belastet, eller utsatt for, fra en tredjepart.</p>
+            <p><strong>6.15</strong> I tilfelle du har satt inn penger på kontoen din og ikke har brukt midlene i sin helhet til å bruke Tjenestene før du ber om et uttak, forbeholder vi oss retten til å belaste kontoen din for å dekke våre rimelige kostnader knyttet til å behandle innskuddet og uttaket, og slike gebyrer kan trekkes fra ethvert etterspurt uttak før vi overfører balansen til deg.</p>
+            <p><strong>6.16</strong> Uredelig eller misbrukende adferd inkluderer, men er ikke begrenset til, enhver involvert i ulovlige, uredelige eller misbrukende aktiviteter, i tillegg til trakasserende, truende eller upassende oppførsel. Hvis en spillers oppførsel anses som uredelig eller misbrukende, kan en rimelig og forsvarlig tilbakebetalingsavgift innføres. Denne avgiften skal også inkludere alle gjeldende tredjepartsavgifter. Hvis det ved en etterforskning vises seg at en spiller har deltatt i misbrukende eller uredelig adferd vil spilleren få skriftlig beskjed om den gjeldende tilbakebetalingsavgiften og grunnen bak. Avgiften vil trekkes fra spillerens konto, og hvis det er en gjenstående balanse tilbakebetales denne.</p>
+            <p><strong>6.17</strong> Med mindre ledelsen har klassifisert deg som en genuin VIP, eller etter ledelsens eget skjønn, er det høyeste samlede nettoresultatet i løpet av en 24-timers periode (kl. 00:00 TIL 23:59) 1 000 000 kr. Dette gjelder ikke for progressive jackpoter. Alt over denne summen vil annulleres etter ledelsens eget skjønn.</p>
+            <p><strong>6.18</strong> Grunnet Tjenestens natur, og våre pågående forpliktelser til anti-hvitvasking, har du ikke rett til å få refundert noen av beløpene du setter inn på kontoen din. Du kan dog be om et uttak av midler fra kontoen din hvis:</p>
+            <ol type="a">
+                <li>samtlige innskudd til kontoen din har blitt bekreftet som gjennomførte og ikke er Mislykke Innskudd;</li>
+                <li>eventuelle identitetskontroller eller andre verifikasjonskontroller som vi er pålagt å utføre i henhold til gjeldende forskrifter for anti-hvitvasking og/eller annen gjeldende lovgivning, er fullført på tilfredsstillende vis;</li>
+                <li>du aksepterer at alle transaksjoner kan kontrolleres for å forhindre hvitvasking av penger, og at alle transaksjoner foretatt av deg som vi anser som mistenkelige kan bli rapportert til relevante myndigheter. Vi forbeholder oss retten til å avslå en uttaksforespørsel og/eller reversere et uttak av ubrukte innskudd frem til vi på tilfredsstillende vis har klart å etablere hvor pengene stammer fra; og</li>
+                <li>at det ikke er en pågående etterforskning knyttet til:
+                    <ol type="i">
+                        <li>en spillfeil som involverer et spill du har spilt og som kreverer en midlertidig frysning av uttak av midler; eller</li>
+                        <li>et vesentlig brudd fra deg på disse vilkårene, inkludert, men ikke begrenset til, at du handler uredelig, ulovlig eller deltar i upassende aktivitet (inkludert samarbeid, juks eller kriminell virksomhet).</li>
+                    </ol>
+                </li>
+            </ol>
+
+            <p><strong>6.19</strong> Vi kan utsette eller kansellere uttak for å utføre ekstra kontroller som vi anser som nødvendige, etter eget skjønn, fra tid til annen. Vi kan avvise uttaksforespørsler og/eller holde tilbake midler i tilfeller hvor vi oppdager uregelmessigheter i løpet av etterforskningen.</p>
+            <p><strong>6.20</strong> Det kan være omstendigheter hvor penger utbetales til din konto ved en feil. Vi vil gjøre vårt beste for å avdekke alle slags feil og informere deg om disse så raskt som mulig. Hvis du likevel har blitt kreditert med penger grunnet en feil, så vil du oppbevare disse midlene på våre vegne og du vil umiddelbart tilbakebetale oss hvis vi stiller deg et krav.</p>
+            <p><strong>6.21</strong> Du er eneansvarlig for å oppgi gevinster, inkludert gevinster, til skattemyndigheter.</p>
+            <p><strong>6.22</strong> Selv om vi gjør vårt ytterste for å unngå feil mens vi behandler forespørsler om uttak, vil vi ikke være ansvarlige overfor deg for dine feil eller utelatelser når du ber om et uttak av pengene dine. I tilfelle en innskudds- eller uttaksforespørsel behandles feil, er det ditt ansvar å informere oss, så vil vi sette i gang alle rimelige tiltak for å løse problemet.</p>
+            <p><strong>6.23</strong> Som standard behandler vi og autoriserer uttak via den samme betalingsmetoden som ble brukt til å sette inn penger på kontoen din via et “først inn, først ut”-prinsipp; hvis dette ikke er mulig, uansett grunn, eller du ønsker at vi foretar uttak til en annen metode enn den som ble brukt for innskudd, kan vi be om ytterligere dokumentasjon fra deg for å bevise at du er den juridiske kontoinnehaveren for den aktuelle uttaksmetoden. Videre, og i samsvar med våre regulatoriske forpliktelser, kan vi utsette og/eller suspendere uttak fra kontoen din inntil slike forespørsler har blitt blitt oppfylt og utfort på tilfredsstillende vis etter vår vurdering.</p>
+            <p><strong>6.24</strong> Det er alltid ditt ansvar å:</p>
+            <ol type="a">
+                <li>sørge for at alle detaljer knyttet til betalingsmetodene tilhørende kontoen din er nåværende og til enhver tid oppdatert; og du anerkjenner og samtykker videre til at det å ikke gjøre dette kan føre til at forespørsler om innskudd/uttak avvises;</li>
+                <li>varsle oss hvis du mistenker at noen av betalingsmetodene tilknyttet kontoen din har blitt kompromittert, eller hvis du har vært offer for ID-tyveri som kan påvirke disse betalingsmetodene; ved varsel vil vi suspendere kontoen for å forhindre ytterligere interaksjon mellom kontoen din og Tjenestene frem til du ber om noe annet.</li>
+            </ol>
+            <p><strong>6.25</strong> Betalinger til og fra kontoen din håndteres og behandles av tredjeparts finansinstitusjoner, kommersielle betalingsagenter og/eller betalingstjenesteleverandører (samlet kalt “Betalingstilretteleggere”). Du gir oss ugjenkallelig fullmakt, på dine vegne, til å instruere og på annen måte håndtere betalingstilretteleggere, etter behov, i behandlingen av innskudd til, og uttak fra, kontoen din i samsvar med instruksjoner gitt av deg via Nettsiden vår.</p>
+            <p><strong>6.26</strong> I den grad betalingstilretteleggere brukes til å behandle betalinger utført av, og til, deg, eller for på annen måte å registrere eller akseptere din bruk av en bestemt betalingsmetode i forhold til din bruk av Tjenestene, vil vi ikke være ansvarlige for handlinger eller utelatelser fra en betalingstilrettelegger før vi mottok midler i tilfelle et uttak, og etter å ha startet en overføring av midler i tilfelle et uttak. Du anerkjenner og godtar at, der du blir bedt om å gjøre det, vil visse tvister eller klager du måtta ha angående en bestemt betalingsmetode, eller behandlingen av betalingene dine, bli sendt av deg til den relevante betalingstilretteleggeren.</p>
+
+            <h2>7. Plassering av innsatser og spillenes rettferdighet</h2>
+            <p><strong>7.1</strong> Du kan kun satse opp til det minste av (i) beløpet på kontoen din, (ii) eventuelle grenser angitt i spillereglene. Vi avgjør helt etter eget skjønn hva minimums- og maksimumsinnsatsen er for hver innsats, og dette vil være tydelig på Nettsiden før du plasserer innsatsen din.</p>
+            <p><strong>7.2</strong> Vi vil ikke være ansvarlige overfor deg, under noen omstendigheter, hvis du spiller et spill og ikke fullt ut har forstått spillreglene og/eller hvordan spillet fungerer.</p>
+            <p><strong>7.3</strong> Du bekrefter at du er fullstendig klar over at det er en risiko for å tape penger når man bedriver pengespill. Ved å bruke våre Tjenester anerkjenner du at du er helt og holdent ansvarlig for alle tap du måtte oppleve. Du er enig i at din bruk av Tjenestene skjer utelukkende etter din avgjørelse, etter ditt skjønn og på din egen risiko. Når det gjelder tap som følge av pengespill har du ingen rett til å rette krav mot oss eller noen av våre gruppeselskaper eller noen av våre respektive direktører, ledere eller ansatte.</p>
+            <p><strong>7.4</strong> Alle spill som tilbys på Nettsiden vår er tilbudt av anerkjente tredjeparts spillutviklere og er testet og verifisert av uavhengige testlaboratorier for å sørge for rettferdighet og nøyaktighet for, blant annet, spillenes tilfeldige tallgeneratorer (RNG), nøyaktigheten til utbetalingsmatematikken og den teoretiske tilbakebetalingsprosenten (return-to-player, RTP).</p>
+            <p><strong>7.5</strong> Du anerkjenner og godtar at vi ikke har kontroll over den tekniske driften og/eller funksjonaliteten til noen av spillene som vises på Nettsiden, og at vi ikke vil være ansvarlige overfor deg, med hensyn til feil eller defekter i noen av spillene som kan føre til at de avviker fra de oppgitte RNG- og RTP-verdiene for det aktuelle spillet.</p>
+            <p><strong>7.6</strong> Individuelle spill kan være underlagt maksimale utbetalinger, som vil være beskrevet i de relevante spillreglene. Du erkjenner og godtar at det er ditt ansvar å sikre at du forstår spillreglene for ethvert spill du ønsker å spille, og at du er komfortabel med at en innsats du plasserer, hvis vellykket, kan overskride den maksimale utbetalingen i henhold til de nevnte spillereglene.</p>
+
+            <h2>8. Utbetaling av gevinster</h2>
+            <p><strong>8.1</strong> Alle gevinster som er spilt gjennom vil krediteres til din konto og disse vil være tilgjengelig for uttak, underlagt disse betingelser og vilkår, våre sikkerhetsgjennomganger, og enhver uttaksgrense som vi kan innføre fra tid til annen, og som vi vil kommunisere til deg før du sender uttaksforespørselen din. I skrivende stund er våre standard grenser for uttak som følger:</p>
+            <ol type="a">
+                <li>maksimalt 50 000 kr pr. dag (tilsvarende €5000); og</li>
+                <li>maksimalt 200 000 pr. uke (tilsvarende €20 000);</li>
+                <li>maksimalt 500 000 kr pr. måned (tilsvarende €50 000).</li>
+            </ol>
+            <p><strong>8.2</strong> Vi kan rapportere og/eller tilbakeholde ethvert beløp fra gevinstene dine hvis vi er pålagt å gjøre det fra relevante myndigheter eller tilsynsorgan.</p>
+            <p><strong>8.3</strong> Ved å akseptere disse vilkårene anerkjenner og samtykker du til at alle beløp du vinner i henhold til din bruk av Tjenestene kan være gjenstand for beskatning, og du tillater at din aksept av disse vilkårene fungerer som din elektroniske signatur for aksept, erklæring og signering på eventuell skattedokumentasjon som vi kan bli bedt om, eller pålagt, å sende inn på dine vegne, eller på din konto, av en kompetent myndighet.</p>
+
+            <h2>9. Bonuser</h2>
+            <p><strong>9.1</strong> Vi kan, fra tid til annen, tilby deg gratis- eller bonusbeløp som krediteres til kontoen din (“Bonus(er)”). Bonuser kan kun benyttes i samsvar med de Tjenestene som er spesifisert når bonusen tilbys til deg, og kan være underlagt ekstra betingelser, vilkår og/eller restriksjoner. Din aksept av enhver bonus vil også tilsvare en aksept av ekstra betingelser og vilkår som kan være tilknyttet bonusen, inkludert, men ikke begrenset til, enhver restriksjon for frigjøring av bonusen som kan være oppgitt i bonustilbudet. Bonustilbud kan kun aksepteres én gang med mindre noe annet er oppgitt. Du vil ikke ha rett til å ta ut noen bonusbeløp og du kan ikke ta ut gevinster oppnådd via en bonus uten å først å ha overholdt gjeldende vilkår inkludert, uten begrensninger, kvalifiseringskriterier og/eller “omsetningskrav”-restriksjoner og regler.</p>
+            <p><strong>9.2</strong> I tilfelle du har mottatt en bonus på kontoen din må du benytte hele eller deler av den innen 7 dager etter å ha mottatt den, hvis ikke vil den trekkes tilbake fra kontoen din og du vil ikke lenger kunne bruke den.</p>
+
+            <h2>10. Bruk av Nettsiden vår</h2>
+            <p><strong>10.1</strong> Du anerkjenner og aksepterer at det å bruke Nettsiden vår utenfor et betalt eller gratis WiFI-nettverk kan resultere i ekstra data-avgifter fra mobiltilbyderen din. Vi skal ikke holdes ansvarlig for slik databruk og tilhørende kostnader knyttet til din bruk av Nettsiden.</p>
+            <p><strong>10.2</strong> I tilfelle du blir koblet fra tjenesten vår, av en eller annen grunn, mens du spiller et spill ("Frakobling"), vil vi forsøke å gjenoppta spillet fra samme tidspunkt når du logger på igjen og starter det relevante spillet ("Gjentilkobling" ), men vi gir ingen garanti for at vi alltid vil kunne gjøre det. Skulle en gjentilkobling ikke være mulig, vil vi refundere eventuelle uavgjorte innsats(er)/spill ved å kreditere det samme til kontoen din. Skulle en gjentilkobling være mulig for et spill som:</p>
+            <ol type="a">
+                <li>opplevde en Frakobling i løpet av en spillsyklus som ga muligheten til å forbedre/øke beløp som allerede var vunnet, vil gevinstene dine fra det tidspunktet krediteres til kontoen din og du vil ikke få muligheten til å delta videre med en sjanse for å forbedre/øke de nevnte gevinstene når du gjentilkobles; og</li>
+                <li>ikke ville ha krevd ytterligere avgjørelser eller handlinger fra deg etter frakobling, vil spillet avgjøres som normalt.</li>
+            </ol>
+
+            <h2>11. Uakseptabel bruk av våre Tjenester</h2>
+            <p><strong>11.1</strong> Ved å bruke Tjenestene våre representerer og garanterer du at:</p>
+            <ol type="a">
+                <li>du har juridisk tillatelse til å få tilgang til og benytte Tjenestene;</li>
+                <li>du ikke fysisk befinner deg i et begrenset territorium mens du spiller via Tjenestene;</li>
+                <li>alle detaljer du har oppgitt til oss slik at vi kan opprette kontoen din og gi deg tilgang til Tjenestene er sanne, korrekte, nøyaktige og fullstendige;</li>
+                <li>kildene til alle midler du setter inn på din Rocket Riches-konto er legitime og at disse midlene ikke har blitt innhentet eller opptjent på ulovlig vis;</li>
+                <li>du vil bruke, eller å forsøke å bruke, Tjenestene, på noen som helst måte, som en måte for å overføre penger;</li>
+                <li>du vil ikke bruke Tjenestene til ulovlig eller uredelig aktivitet eller forbudte transaksjoner (inkludert hvitvasking av penger) i henhold til lovene i enhver relevant jurisdiksjon; og</li>
+                <li>du samtykker at vi overvåker og registrerer din fysiske plassering og aktivitet mens du bruker Tjenestene, og videre rapportering av det samme til relevante reguleringsmyndigheter, etter behov.</li>
+            </ol>
+            <p><strong>11.2</strong> Hvis vi har skjellig grunn til å mistenke at du deltar i, eller har deltatt i, uredelig, ulovlig eller upassende aktivitet (inkludert, men ikke begrenset til hvitvasking av penger), eller oppfører deg på annen måte i vesentlig brudd av disse vilkår, kan vi hindre deg fra å få tilgang til Nettsiden og/eller Tjenestene, og/eller suspendere, begrense og/eller terminere kontoen din, umiddelbart og på ubestemt tid (“Adgangsbegrensning”). I tilfeller av Adgangsbegrensning anerkjenner og godtar du:</p>
+            <ol type="a">
+                <li>at du er pålagt å, og du vil, gjøre det beste for å hjelpe og samarbeide i våre henvendelser og undersøkelser av de sakene som førte til at Adgangsbegrensningen ble pålagt;</li>
+                <li>at vi ikke er pålagt å returnere eventuelle gjenværende midler på kontoen din til deg, og at enhver slik saldo vil anses som tapt; og</li>
+                <li>vi kan informere relevante myndigheter, andre nettbaserte tjenesteleverandører og banker, kredittkortselskaper, elektroniske betalingsleverandører eller andre finansinstitusjoner om din identitet og om enhver mistenkt ulovlig, uredelig eller upassende aktivitet fra din side.</li>
+            </ol>
+            <p><strong>11.3</strong> Av hensyn til rettferdige spillomgivelser for alle, har du ikke lov til å benytte eller distribuere nye eller anerkjente spillteknikker som er utformet for å omgå husets standard fordel i våre spill mens du bruker Nettsiden vår; hvis vi oppdager at du har vært involvert i slik aktivitet kan vi umiddelbart suspendere, terminere eller begrense tilgangen til kontoen din og/eller beholde gjenværende kontobalanser.</p>
+
+            <h2>12. Tredjeparts programvare</h2>
+            <p><strong>12.1</strong> For å kunne bruke våre Tjenester kan det hende at du må laste ned eller på annet vis bruke bestemte programvarer, inkludert programvare fra tredjeparter. Det kan dermed bli nødvendig for deg å inngå en brukeravtale for å bruke slik programvare og du samtykker til å være bundet av denne avtalens vilkår. Du samtykker også til å ikke blande deg med, endre, modifisere, dekonstruere, kopiere eller på andre måter tukle med slik programvare som er gitt til deg som en del av våre Tjenester, med mindre det er gitt eksplisitt tillatelse eller i samsvar med gjeldende lovverk.</p>
+
+            <h2>13. IT-feil</h2>
+            <p><strong>13.1</strong> Vi vil ta alle rimelige og forventede steg for å løse ethvert problem i vår programvare eller hardware som brukes av oss for å tilby Tjenestene.</p>
+            <p><strong>13.2</strong> Vi holdes ikke ansvarlig overfor deg for tap du måtte oppleve, direkte eller indirekte, som et resultat av tekniske feil eller problemer i tilbydelsen av Tjenestene grunnet tekniske feilslutninger knyttet til hardware og programvare av noe slag, eller utilgjengelige nettverksbetingelser som forhindrer deg fra å samhandle med Tjenestene på noe vis, inkludert, men ikke begrenset til, muligheten din til å spille noen av spillene våre, å ikke være i stand til å delta i kampanjeaktiviteter, muligheten din til å benytte krediterte bonuser og/eller muligheten din til å ta ut penger.</p>
+
+            <h2>14. Ansvarlig spill</h2>
+            <p><strong>14.1</strong> Du er ikke forpliktet til å fortsette å bruke våre Tjenester og du kan velge å slutte å gjøre det, enten midlertidig eller permanent, når som helst. Videre kan du, etter eget skjønn, instruere oss når som helst, så vil vi umiddelbart i henhold til dine instruksjoner innføre en periode med “selvekskludering fra våre Tjenester (“Selvekskludering”). Du anerkjenner og godtar at, i løpet av en periode med selvekskludering, vil du ikke ha tillatelse til, og vi vil ikke tillate deg, å:</p>
+            <ol type="a">
+                <li>få tilgang til kontoen din og/eller Tjenestene på noe vis, på noen som helst måte og/eller for noe formål; eller</li>
+                <li>starte innskudds- eller uttaksforespørsler og/eller på annen måte ha tilgang til saldoen på kontoen din.</li>
+            </ol>
+            <p>frem til perioden med selvekskludering er fullført, hvor vi da vil gjenopprette tilgangen din til kontoen din. For mer informasjon om Selvekskludering ber vi deg vennligst besøke Ansvarlig Spill-seksjonen på Nettsiden vår <a href="#">Ansvarlig Spill</a>.</p>
+            <p><strong>14.2</strong> Hvis du, i henhold til punkt 14.1, ber om en permanent selvekskludering fra Nettsiden, vil vi stenge kontoen din permanent, du vil ikke lenger ha tilgang til kontoen, og vi vil returnere eventuelle midler som er igjen på kontoen din, på forespørsel fra deg.</p>
+            <p><strong>14.3</strong> På grunn av teknisk nødvendighet drives alle White Stars merkevarer og nettsteder (White Star Brands) uavhengig av hverandre; hvis du ønsker å gjennomføre en selvekskludering på tvers av alle White Star Brands, må du gjøre det ved å sende inn en selvekskluderingsforespørsel via hver White Star Brand-nettside eller-e-postadresse for kundestøtte, eller ved å spesifikt instruere oss om å gjøre det på dine vegne via e-post sendt til en White Star-kundestøtte-e-postadresse, som gir oss tilstrekkelig informasjon til å kunne identifisere kontoene dine på tvers av alle White Star-merker, hvoretter din selvekskluderingsforespørsel vil bli iverksatt i tide for alle eksisterende White Star-merker med som du tidligere har opprettet en konto.</p>
+
+            <h2>15. Vår rett til å foreta endringer</h2>
+            <p><strong>15.1</strong> Vi kan fra tid til annen foreta endringer til disse betingelser og vilkår for kommersielle grunner og grunner knyttet til kundeservice, juridiske og regulatoriske årsaker, og vi vil publisere endringene på Nettsiden når. De nyligste vilkårene vil alltid være tilgjengelige via Nettsiden vår, og, ved å fortsette å bruke Tjenestene våre vil det bli ansett som at du aksepterer endringene vi foretar. Hvis du ikke ønsker å akseptere Vilkårene, vil du være i stand til å stenge kontoen din ved å følge trinnene i klausul 16 nedenfor og du må umiddelbart slutte å bruke Nettsiden og Tjenestene våre.</p>
+            <p><strong>15.2</strong> Vi kan, fra tid til annen og etter eget skjønn, endre eller trekke tilbake Tjenestene, eller deler av disse (inkludert enhvert kampanje), og kan endre priser, funksjoner, spesifikasjoner, funksjoner, og/eller andre karakteristikker ved Nettsiden, spillene og/eller Tjenestene.</p>
+            <p><strong>15.3</strong> Vi kan, når som helst og etter eget skjønn, fjerne deg fra markedsføringslister slik at du ikke mottar fremtidige tilbud eller kampanjer fra oss og ikke lenger kan kvalifisere for kampanjer på eller via Nettsiden vår. Hvis du allerede har oppfylt kvalifiseringskriteriene for en kampanje du allerede har blitt varsle om, kan du ha rett til å delta i den kampanjen (med forbehold om utløp eller andre vilkår i kampanjevilkårene eller i disse vilkårene), men du vil ikke kunne delta i fremtidige kampanjer.</p>
+
+            <h2>16. Hvordan stenge eller suspendere din konto hos oss</h2>
+            <p><strong>16.1</strong> Hvis du ønsker å stenge kontoen din hos Rocket Riches permanent ber vi deg vennligst ta kontakt med kundeservice <a href="mailto:support@rocketriches.com">support@rocketriches.com</a>.</p>
+            <p><strong>16.2</strong> I tilfelle du ikke får tilgang til og/eller bruker kontoen din med det formål å samhandle med Tjenestene, sette inn, ta ut eller overføre midler, eller hvis kontoen din på annen måte anses å være uten noen meningsfull aktivitet, i en periode på minst 9 måneder på rad vil det bli ansett som en inaktiv konto ("Inaktiv konto"). Alle inaktive kontoer vil påløpe et gebyr på €10 eller tilsvarende for hver måned de forblir inaktive (eller en slik mindre avgift som vil bringe saldoen til null), som vil bli trukket fra saldoen til kontomidler. Når saldoen til en inaktiv konto når null, vil den inaktive kontoen bli stengt, og du må kontakte kundestøtteteamet vårt for å gjenåpne den lukkede inaktive kontoen hvis du ønsker å bruke tjenestene igjen. Vi vil forsøke å varsle deg hvis kontoen din skal bli, eller blir, en inaktiv konto, og vi vil gi deg et varsel før du trekker fra eventuelle avgifter for inaktiv konto.</p>
+
+            <h2>17. Vår rett til å suspendere, avslutte eller kansellere Tjenestene</h2>
+            <p><strong>17.1</strong> Vi kan, etter eget skjønn og når som helst, begrense tilgangen din til Tjenestene og/eller midlertidig suspendere eller terminere kontoen din på permanent basis for enhver grunn, inkludert, men ikke begrenset til:</p>
+            <ol type="a">
+                <li>vi mistenker at du deltar i svindel eller annen ulovlig aktivitet;</li>
+                <li>vi er påkrevd å gjøre det under gjeldende lover, regler eller reguleringer;</li>
+                <li>det er en vesentlig teknologisk feil som forhindrer oss fra å tilby Tjenestene;</li>
+                <li>du oppgir ikke, innenfor en rimelig tidsperiode etter at vi har etterspurt dette, nødvendig informasjon slik at vi kan tilby Tjenestene til deg;</li>
+                <li>vi mistenker at du opptrer på et vis som fører til et juridisk ansvar for deg, oss eller tredjeparter eller som kan være skadelig for hvordan vi utfører vår virksomhet;</li>
+                <li>vi opplever at du utnytter oss eller andre spillere på urettferdig vis eller på andre måter opptrer urettferdig;</li>
+                <li>vi mistenker at du kan ha økonomiske vanskeligheter;</li>
+                <li>du er forbudt fra å delta i pengespill under et eller flere vilkår i arbeidskontrakten din eller fra alle slags profesjonelle organ som gjelder for deg; eller</li>
+                <li>vi mistenker at du på andre måter har (eller kan ha) foretatt vesentlige brudd på disse Vilkårene.</li>
+            </ol>
+
+            <h2>18. Mindreårig spilling</h2>
+            <p><strong>18.1</strong> Hvis vi har grunn til å tro at du er yngre enn enhver gjeldende Majoritetsalder, eller var yngre enn den gjeldende Majoritetsalderen da du benyttet Tjenestene på et hvis som ville ha krevd at du var minst like gammel som Majoritetsalderen (“Mindreårig”):</p>
+            <ol type="a">
+                <li>vil vi umiddelbart begrense muligheten til å benytte Tjenestene og muligheten til å be om uttak fra, eller foreta innskudd til, kontoen din; og</li>
+                <li>vi vil returnere alle midler som ble satt inn på kontoen din mens du var Mindreårig, minus eventuelle gevinster utbetalt på de nevnte midlene; og vi forbeholder oss retten til å søke gjenvinning av eventuelle gevinster utbetalt til deg mens du var Mindreårig i den grad dette overstiger den samlede summen av midler som ble satt inn mens du var Mindreårig.</li>
+            </ol>
+
+            <h2>19. Tvisteløsning</h2>
+            <p><strong>19.1</strong> Hvis du har en klage knyttet til våre Tjenester ber vi deg vennligst om å kontakte vår Kundeservice <a href="mailto:support@rocketriches.com">support@rocketriches.com</a> så fort som det er praktisk mulig og oppgi detaljene i klagen din, som vil eskaleres etter behov. Vi gjør vårt beste for å samarbeide med deg for å løse enhver tvist/klage vedrørende våre Tjenester innen 90 dager etter vi har mottar varsel om nevnte klagen. All kommunikasjon fra oss, til deg, vil sendes til e-postadressen som er registrert på kontoen din.</p>
+            <p><strong>19.2</strong> Hvis klagen din har blitt eskalert uten at vi har løst problemet på et tilfredsstillende vis for deg, kan du be om at tvisten ses nærmere på av vår Compliance-avdeling.</p>
+            <p><strong>19.3</strong> I den grad du mener at vi er i vesentlig brudd på lisensvilkårene våre, kan du kontakte vår Hovedlisensinnehaver, Antillephone N.V., via en hvilken som helst e-postadresse som er utformet for det formålet, fra tid til annen, og angitt i, eller lenket til fra, bunnteksten på Nettsiden vår.</p>
+            <p><strong>19.4</strong> I tilfelle en tvist, anerkjenner og godtar du at historikken til serverne som Tjenesten driftes på vil anses som den endelige autoriteten når det gjelder å avgjøre utfallet av enhver klage/krav.</p>
+
+            <h2>20. Vårt ansvar for tap eller skade som du opplever</h2>
+            <p><strong>20.1</strong> Vi tilbyr Tjenestene til deg på en “som de er”- og “som tilgjengelig”-basis utelukkende for personlig bruk, og vi fraskriver oss eksplisitt alle representasjoner og garantier, av noe slag, relatert til nettstedet og Tjenestene, enten det er uttrykkelig forstått eller underforstått, inkludert, men ikke begrenset til, eventuelle underforståtte garantier for salgbarhet, tittel, egnethet for et bestemt formål, ikke-krenkelse, eller at Tjenestene skal være feilfrie eller usårbare for hacking og/eller fri for skadeli og eller ondsinnet kode. Videre anerkjenner du at Nettsiden og Tjenestene periodisk kan være utilgjengelige for deg på grunn av en rekke årsaker, og følgelig fraskriver vi oss eksplisitt enhver uttrykk eller underforstått garanti angående bruk eller tilgjengelighet av nettstedet og/eller Tjenestene, eller deres ytelse eller sikkerhet. VI VIL IKKE VÆRE ANSVARLIG OVERFOR DEG, UNDER NOEN OMSTENDIGHETER, FOR EVENTUELLE PROFITTAP, TAP AV FORRETNING, FORRETNINGSAVBRYTELSE ELLER TAP AV FORRETNINGSMULIGHETER.</p>
+
+            <h2>21. Ansvarsbegrensning</h2>
+            <p><strong>21.1</strong> Du samtykker til å fullstendig frikjenne oss for all skyld og anse oss, våre tilknyttede selskaper, partnere, direktør, agenter og ansatte som uskyldige for enhver kostnad, utgift, tap, skade, krav og ansvar foretatt av en tredjepart som oppstår som en følge på dine brudd av disse betingelser og vilkår (inkludert dokumenter som er innhentet som referanse) eller som en følge av dine brudd på lov eller rettigheten til enhver tredjepart.</p>
+            <p><strong>21.2</strong> Du anerkjenner at Rocket Riches og deres samarbeidspartnere vil ha informasjon knyttet til din identitet, inkludert men ikke begrenset til ditt navn, din adresse og dine betalingsdetaljer. Du godtar at vi trenger stoler på denne informasjonen for å inngå disse betingelser og vilkår og du godtar å ikke holde oss ansvarlig for usannheter eller unøyaktige detaljer i informasjonen som du oppgir.</p>
+
+            <h2>22. Åndsverksrettigheter</h2>
+            <p><strong>22.1</strong> Vi er eieren, eller den autoriserte brukeren eller lisensinnehaveren, alt etter hva som er tilfellet, av alle immaterielle rettigheter knyttet til eller utnyttet i løpet av å levere Tjenestene til deg, og alt innhold på Nettsiden, inkludert, uten begrensning, opphavsrett, patenter , design (registrerte eller uregistrerte), varemerker, tjenestemerker, kildekoder, spesifikasjoner, maler, grafikk, logoer eller enhver rettighet som eksisterer hvor som helst i verden med hensyn til nettsteder, innhold, databaser, formater, grensesnitt, programmering, tilbud om Tjenester til andre kunder, programvare eller en hvilken som helst applikasjon for noe av det foregående og eventuelle endringer, forbedringer, utviklinger og forbedringer av disse (“Åndsverk"). Med mindre vi spesifikt har uttalt det motsatte, gir vi deg ingen uttrykte eller underforståtte rettigheter med hensyn til noen av våre nevnte immaterielle rettigheter.</p>
+            <p><strong>22.2</strong> Alt innhold som presenteres, eller på annen måte gjøres tilgjengelig for deg via Nettsiden, er kun til din egen personlige bruk, og all tilleggsbruk, distribusjon eller reproduksjon av nevnte innhold uten vårt uttrykkelige skriftlige forhåndssamtykke er strengt forbudt.</p>
+            <p><strong>22.3</strong> I den grad det er strengt nødvendig for å la deg bruke kun Nettsiden og Tjenestene på riktig vis, gir vi deg en tilbakekallelig, ikke-eksklusiv, ikke-underlisensierbar, ikke-kommersiell, personlig lisens til å bruke den immaterielle eiendommen. Vi forbeholder oss retten til å iverksette tiltak vi anser som nødvendige, som kan inkludere rettslige søksmål mot deg, for å beskytte vår intellektuelle eiendom og forhindre uautorisert bruk av våre data, Nettside eller Tjenester.</p>
+
+            <h2>23. Hvordan vi kan bruke din personlige informasjon</h2>
+            <p><strong>23.1</strong> Enhver personlig informasjon som du oppgir til oss mens du registrerer deg for å bruke, eller når du benytter, Tjenestene, vil oppbevares og behandles i strikt samsvar med vår Erklæring for Personvern og Bruk av Informasjonskapsler.</p>
+
+            <h2>24. Andre viktige vilkår</h2>
+            <p><strong>24.1</strong> Vi kan overføre våre rettigheter og forpliktelser under disse Vilkårene til en tredjepart. Vi vil alltid informere deg skriftlig hvis dette skjer og vi vil sørge for at en slik overførsel ikke vil påvirke dine rettigheter under disse Vilkårene.</p>
+            <p><strong>24.2</strong> Dine rettigheter og/eller forpliktelser i henhold til disse Vilkårene er personlige og kan ikke overføres eller tilskrives en tredjepart uten vår eksplisitte skriftlige tillatelse, eller i samsvar med ordre fra en domstol, eller et lignende autorativt organ, innen en kompetent jurisdisksjon.</p>
+            <p><strong>24.3</strong> Den juridisk bindende kontrakt som utgjøres av disse Vilkårene er av en personlig natur, og ingen tredjepart vil ha noen rettigheter til å håndheve det samme.</p>
+            <p><strong>24.4</strong> Hvis en domstol fra en kompetent jurisdiksjon finner deler av disse Vilkårene uforenlige med gjeldende lovverk, vil ikke dette påvirke anvendeligheten eller effektiviten til resten av Vilkårene, som forblir i full kraft.</p>
+            <p><strong>24.5</strong> Enhver forsinkelse fra vår side når det gjelder å håndheve våre rettigheter i henhold til disse Vilkårene vil ikke tilsvare at vi frasier oss de nevnte rettighetene og vi kan, helt etter eget skjønn, velge å håndheve disse rettighetene på et senere tidspunkt.</p>
+            <p><strong>24.6</strong> Uten at det påvirker våre forpliktelser under det lovverket og de reguleringene i de jurisdiksjonene hvor vi er lisensiert, står vi ikke ansvarlig for noen tap eller skader som kan oppstå fra; en “act of God”; handels- eller arbeidskonflikter; strømbrudd, handling, utelatelse eller svikt fra myndigheter eller andre offentlige instanser; svikt i telekommunikasjonsnettverket; eller noen andre forsinkelser eller feil forårsaket av en tredjepart eller som er utenfor vår kontroll. Hvis en slik hendelse oppstår forbeholder vi retten til å suspendere eller kansellere våre Tjenester uten å stå til ansvar til deg.</p>
+            <p><strong>24.7</strong> Disse Vilkårene utgjør avtalen i sin helhet mellom oss. Du anerkjenner at du ikke har stolt på noen representasjon, forpliktelser eller løfter gitt av oss eller underforstått fra noe som er sagt eller skrevet med mindre det er ettertrykkelig angitt i disse Vilkårene.</p>
+            <p><strong>24.8</strong> Varsler og kommunikasjon til oss må sendes til vår registrerte kontoradresse. Alle varsler vi sender til deg vil sendes til postadressen eller e-postadressen som du har oppgitt til oss, frem til vi mottar varsel om en forskjellig adresse.</p>
+            <p><strong>24.9</strong> Disse vilkårene styres av og tolkes i samsvar med lovene i Curaçao, og du godtar ugjenkallelig at domstolene i Curaçao vil ha eksklusiv jurisdiksjon til å høre og avgjøre alle krav som oppstår fra, eller relatert til, det samme.</p>
+            <p><strong>24.10</strong> Disse Vilkårene kan oppgis til deg i et annet språk som en ekstra hjelp. Det er dog engelskspråklige versjonen som gjelder hvis det er uoverensstemmelser eller det på andre måter oppstår forvirring eller tvister.</p>
+
+        </div>
+    </div>
+    </main>
+
+    <!-- FOOTER -->
+
+<footer class="custom-footer" style="background-color: #0f1c30; color: #fff;">
+    
+    <div style="width: 100%; text-align: center; padding: 12px 0; background-color: rgba(255, 255, 255, 0.05); color: #ffffff; font-weight: bold; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 2rem;">
+        Oppdatert: 23.01.2026
+    </div>
+    <div class="footer-nav-card">
+        <div class="footer-columns">
+            
+            <div class="footer-col">
+                <h3>Rocket Riches</h3>
+                <ul>
+                    <li><a href="/">Casino-lobby</a></li>
+                    <li><a href="/">Live Casino-lobby</a></li>
+                    <li><a href="/">Spilleautomater</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Retningslinjer</h3>
+                <ul>
+                    <li><a href="/terms-and-conditions/">Betingelser og vilkår</a></li>
+                    <li><a href="/bonus-policy/">Bonusbetingelser</a></li>
+                    <li><a href="/privacy-policy/">Personvernerklæring</a></li>
+                    <li><a href="/responsible-gambling/">Ansvarlig spill</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Mer info</h3>
+                <ul>
+                    <li><a href="/is-rocket-riches-legit/">Er Rocket Riches legitimt?</a></li>
+                    <li><a href="/contact-us/">Kontakt</a></li>
+                    <li><a href="/om-oss/">Om oss</a></li>
+                    <li><a href="/">Affiliates</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="payment-methods">
+        <div class="payment-icon pay-visa">
+            <i class="fa-brands fa-cc-visa"></i>
+        </div>
+        <div class="payment-icon pay-mastercard">
+            <i class="fa-brands fa-cc-mastercard"></i>
+        </div>
+        <div class="payment-icon pay-skrill">
+            Skrill
+        </div>
+        <div class="payment-icon pay-bitcoin">
+            <i class="fa-brands fa-bitcoin"></i>
+        </div>
+        <div class="payment-icon pay-secure">
+            <i class="fa-solid fa-lock"></i>
+        </div>
+        <div class="payment-icon pay-bank">
+            <i class="fa-solid fa-building-columns"></i>
+        </div>
+    </div>
+
+    <div class="bottom-section">
+        
+        <div class="provider-row top-row">
+            <img src="/PLAYNGO.png" alt="Play'n Go" class="provider-img">
+            <img src="/push gaming.webp" alt="Push Gaming" class="provider-img">
+            <img src="/RelaxGaming.png" alt="Relax" class="provider-img">
+            <img src="/netent.png" alt="NetEnt" class="provider-img">
+            <img src="/nolimit-logo.png" alt="NoLimit" class="provider-img">
+            <img src="/RedTiger.png" alt="Red Tiger" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <img src="/evolution.jpeg" alt="Evolution" class="provider-img">
+            <img src="/pragmaticplay.png" alt="Pragmatic" class="provider-img">
+            <img src="/spinomenal.png" alt="Spinomenal" class="provider-img">
+            <img src="/Big-Time-Gaming.webp" alt="BTG" class="provider-img">
+            <img src="/Quickspinorange.webp" alt="Quickspin" class="provider-img">
+            <img src="/thunderkick-logo.png" alt="Thunderkick" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <a href="https://cert.gcb.cw/certificate/">
+                <img src="/curacao certificate.png" alt="Curacao Gaming Authority" class="cert-img">
+            </a>
+            <img src="/dmca.png" alt="DMCA" class="cert-img">
+        </div>
+
+        <div class="provider-row" style="flex-wrap: wrap; gap: 15px; justify-content: center;">
+            <div class="eighteen-plus center-content">18+</div>
+            
+            <img src="/digicert.png" alt="Digicert" class="trust-img">
+            <img src="/ssl-secured.svg" alt="SSL" class="trust-img">
+
+            <a href="https://www.gamstop.co.uk" target="_blank">
+                <img src="/gamstop.png" alt="GamStop" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamcare.org.uk" target="_blank">
+                <img src="/Gam Care.jpg" alt="GamCare" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.egba.eu" target="_blank">
+                <img src="/EGBA.eu.png" alt="EGBA" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.begambleaware.org" target="_blank">
+                <img src="/Gamble aware.webp" alt="GambleAware" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamblingcommission.gov.uk" target="_blank">
+                <img src="/Gamblingcommision.png" alt="Gambling Commission" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2025 Rocket Riches. All rights reserved.
+        </div>
+    </div>
+</footer>
+    <script>
+        // Mobile Menu Toggle
+        function toggleMenu() {
+            document.getElementById('mainNav').classList.toggle('active');
+        }
+
+        // Set Current Date in Footer/Updated Block
+        const date = new Date();
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('currentDate').textContent = date.toLocaleDateString('en-US', options);
+    </script>
+</body>
+</html>

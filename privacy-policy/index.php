@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="alternate" hreflang="nb-NO" href="https://rocketriches.no/privacy-policy/"/>
+   <link rel="alternate" hreflang="x-default" href="https://rocketriches.no/privacy-policy/"/>
+    <title>Personvernerklæring - Rocket Riches</title>
+    <meta name="description" content="Les Rocket Riches sin personvernerklæring. Lær hvordan vi samler inn, bruker og beskytter dine personopplysninger i henhold til gjeldende lover." />
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="../nc_assets/css/style.css?v=1.39">
+    <link rel="canonical" href="https://rocketriches.no/privacy-policy/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+<header>
+    <div class="logo">
+       <a href="/">
+        <img src="../rocket-riches-casino.svg" alt="Rocket Riches Casino" class="logo-img">
+    </a>
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+    </div>
+    <nav class="main-nav" id="mainNav">
+        <ul class="nav-links">
+            <li><a href="/bonus/">Bonuses</a></li>
+            <li><a href="/login/">Login</a></li>
+            <li><a href="/app/">App</a></li>
+            <li><a href="/">Casino</a></li>
+            <li><a href="/">Live Casino</a></li>
+            <li><a href="/games/">Spill</a></li>
+        </ul>
+        <div class="auth-buttons">
+            <a href="/">
+    <button class="btn btn-login">Logg inn</button>
+</a>
+
+<a href="/go/">
+    <button class="btn btn-register">Register</button>
+</a>
+        </div>
+    </nav>
+</header>
+    <main>
+   <div class="section-container">
+        
+        <h1 class="section-title">Personvernerklæring</h1>
+
+        <div class="seo-content">
+            
+            <h2>1. Personvern</h2>
+            <p>Vennligst vær oppmerksom på at alle referanser i denne Personvernerklæringen til “Rocket Riches”, “Vi”, “Oss”, “Vår”, “Våre” eller “Vårt”, avhengig av kontekst, refererer til White Star B.V., operatøren av nettsiden Rocketriches.com og/eller medlemmer av selskapsgruppen det er en del av.</p>
+            <p>Hos Rocket Riches gjør vi vårt ytterste for å beskytte den personlige informasjonen våre spillere deler med oss. Vi beskytter dine personopplysninger i samsvar med alle gjeldende lover. Denne Erklæringen for Personvern og Bruk av Informasjonskapsler er en del av Rocket Riches sine <a href="#">Betingelser og Vilkår</a>.</p>
+            <p>Denne Personvernerklæringen danner grunnlaget for hvordan all informasjon vi samler inn fra deg, eller som du oppgir til oss, blir behandlet. Vennligst les nøye gjennom det følgende for å forstå våre praksiser vedrørende din personlige informasjon. Ved å besøke Nettsiden aksepterer du praksisene beskrevet her.</p>
+            <p>Enhver oversettelse av denne erklæringen til andre språk enn engelsk er kun for enkelthets skyld; den engelske versjonen vil alltid være gjeldende ved uoverensstemmelser.</p>
+            <p>Vi forbeholder oss retten til å endre denne Personvernerklæringen når som helst. Endringer vil publiseres på denne siden, og der det er relevant, vil du bli bedt om å godta endringene på nytt når du besøker Nettsiden. Vi oppfordrer deg til å sjekke denne siden jevnlig for oppdateringer.</p>
+
+            <h2>2. Informasjonen vi samler inn</h2>
+            <p>Vi anser informasjon som kan identifisere et individ – som navn, fødselsdato, adresse, e-post, telefonnummer, bilde eller annen kontaktinfo – som personlig informasjon. Du kan bli bedt om å oppgi dette når du fyller ut skjemaer på Nettsiden eller kommuniserer med oss.</p>
+            <p><strong>Personlig Informasjon</strong> kan inkludere, men er ikke begrenset til, informasjon du oppgir ved registrering, deltakelse i konkurranser, utfylling av undersøkelser, kontakt med kundeservice eller ved rapportering av problemer. Dette kan omfatte navn, adresse, kontaktinfo, økonomiske data, kredittkortinformasjon og personlige beskrivelser.</p>
+            <p>I tillegg fører våre servere en aktivitetslogg. Denne informasjonen inkluderer IP-adresse, tidspunkt for tilgang, enhet, nettleser, aktivitet på siden, spillhistorikk, transaksjoner, spillgrenser og preferanser. Denne informasjonen er nødvendig for å levere våre tjenester. Vi samler ikke inn Personlig Informasjon uten din viten.</p>
+            <p>All innsamling og behandling av data skjer i henhold til gjeldende lover og bransjestandarder.</p>
+
+            <h2>3. Informasjonskapsler (Cookies)</h2>
+            <p>Nettsiden vår bruker informasjonskapsler for å skille deg fra andre brukere, gi deg en bedre brukeropplevelse og forbedre nettstedet.</p>
+            <p>Vi bruker informasjonskapsler for analyse og ytelse. Dette lar oss gjenkjenne og telle besøkende samt se hvordan de beveger seg på siden. Dette hjelper oss å forbedre funksjonaliteten, for eksempel ved å gjøre det lettere å finne frem.</p>
+            <p>Du kan velge å akseptere eller avvise informasjonskapsler i nettleseren din. Hvis du avviser dem, kan det hende du ikke får tilgang til alle funksjoner på nettsiden vår.</p>
+
+            <h2>4. Bruk av informasjon</h2>
+            <p>Vi bruker informasjonen vi har om deg til å:</p>
+            <ul>
+                <li>Utføre våre forpliktelser i henhold til kontrakter med deg og levere forespurte produkter/tjenester.</li>
+                <li>Tilby informasjon om andre tjenester vi tilbyr som ligner på de du har brukt eller vist interesse for.</li>
+                <li>Tilby deg relevant informasjon om produkter eller tjenester fra oss eller utvalgte tredjeparter.</li>
+                <li>Overholde lover og regulatoriske forpliktelser, samt ivareta integriteten til Rocket Riches.</li>
+                <li>Varsle deg om endringer i tjenesten vår.</li>
+                <li>Presentere innhold på en mest mulig effektiv måte for din enhet.</li>
+            </ul>
+            <p>Vi kan overvåke og lagre kommunikasjon (telefon, e-post osv.) for opplæring, kvalitetskontroll og forebygging av svindel/kriminalitet.</p>
+
+            <h2>5. Informasjonsutlevering</h2>
+            <p>Vi har rett til å dele din personlige informasjon med:</p>
+            <ul>
+                <li>Medlemmer av vår selskapsgruppe (datterselskaper og holdingselskaper).</li>
+                <li>Utvalgte tredjeparter, inkludert:
+                    <ul>
+                        <li>Forretningspartnere, leverandører og underleverandører.</li>
+                        <li>Annonsører og annonsenettverk (for relevante annonser).</li>
+                        <li>Analyse- og søkemotortilbydere som hjelper med optimalisering av siden.</li>
+                        <li>Kreditt- og referansebyråer for verifisering.</li>
+                    </ul>
+                </li>
+            </ul>
+            <p>Vi kan også utlevere informasjon til myndigheter, politi eller tilsynsorganer dersom loven krever eller tillater det.</p>
+
+            <h2>6. Oppbevaring av informasjon</h2>
+            <p>Personlig informasjon oppbevares i tråd med gjeldende lovverk og våre retningslinjer. Når oppbevaringsperioden utløper, slettes dataene sikkert, med mindre juridiske forpliktelser krever videre lagring. Vi streber etter å holde informasjonen nøyaktig og oppdatert.</p>
+            <p>Vi benytter bransjestandard sikkerhetstiltak for å beskytte dine data. Ved å gi oss dine opplysninger samtykker du til lagring og behandling. Vi inngår databehandlingsavtaler med tredjeparter for å sikre trygg behandling.</p>
+            <p>Merk at dataoverføring over internett aldri er 100% sikkert. Overføring skjer på egen risiko, men når vi har mottatt dataene, bruker vi strenge prosedyrer for å forhindre uautorisert tilgang.</p>
+
+            <h2>7. Kontoregistrering</h2>
+            <p>Ved registrering samler vi inn identitets- og kontaktinformasjon for å administrere kontoen din, bekrefte at du kan registrere deg, og overholde lover mot svindel og hvitvasking. Vi sjekker også at du ikke befinner deg i et begrenset territorium.</p>
+            <p>Vi kan dele registreringsinfo med tredjeparter for identitetsbekreftelse og for å sjekke mot sanksjonslister eller PEP-status.</p>
+
+            <h2>8. Dine rettigheter</h2>
+            <p>Du kan be oss om ikke å bruke dine data til markedsføring. Du kan endre dette under "Min Konto" eller kontakte oss på <a href="mailto:support@rocketriches.no">support@rocketriches.no</a>. Tilbaketrekking av samtykke påvirker ikke lovligheten av tidligere behandling.</p>
+            <p>Nettsiden kan inneholde lenker til andre sider. Disse har egne personvernerklæringer som vi ikke er ansvarlige for.</p>
+
+            <h2>9. Internasjonale overføringer</h2>
+            <p>Informasjonen din kan overføres til og lagres på steder utenfor ditt hjemland. Den kan behandles av ansatte som jobber for oss eller våre leverandører. Vi tar alle rimelige skritt for å sikre at dataene behandles sikkert og i tråd med denne erklæringen, inkludert bruk av databehandlingsavtaler.</p>
+
+            <h2>10. Fusjoner og oppkjøp</h2>
+            <p>Ved konkurs, oppkjøp, fusjon eller salg av eiendeler, kan vi dele personlig informasjon med potensielle eller nye eiere/partnere.</p>
+
+            <h2>11. Tilgang til informasjon</h2>
+            <p>Du har rett til innsyn, retting, sletting og begrensning av dine personopplysninger, samt rett til å protestere mot behandling eller trekke tilbake samtykke. Omfattende forespørsler kan medføre et gebyr for å dekke kostnader.</p>
+
+            <h2>12. Klager og forespørsler</h2>
+            <p>Hvis du har klager angående vår håndtering av personopplysninger:</p>
+            <ol>
+                <li>Kontakt først kundeservice på <a href="mailto:support@rocketriches.no">support@rocketriches.no</a>. Vi svarer normalt innen 7 dager.</li>
+                <li>Hvis du ikke er fornøyd, kan du be om at saken sendes til vår Data Protection Officer (DPO), som vil svare innen 14 dager. DPO behandler kun saker som først har vært hos kundeservice.</li>
+                <li>Hvis du fortsatt ikke er fornøyd, kan du klage til relevant tilsynsmyndighet.</li>
+            </ol>
+            <p>Vår DPO kan kontaktes på: <a href="mailto:privacy@rhinoentertainmentgroup.com">privacy@rhinoentertainmentgroup.com</a>.</p>
+
+            <h2>13. Personvernbrudd</h2>
+            <p>Vi tar sikkerhet på alvor. Selv om ingen systemer er ufeilbarlige, vil vi ved et eventuelt brudd samarbeide med myndigheter for å minimere skade.</p>
+            <p>Hvis du mistenker et brudd, kontakt oss umiddelbart på <a href="mailto:support@rocketriches.no">support@rocketriches.no</a>.</p>
+            <p>Ved brudd følger vi vår håndteringsplan:</p>
+            <ul>
+                <li>Sikre berørte kontoer og varsle brukere.</li>
+                <li>Varsle tilsynsmyndigheter og levere rapport.</li>
+                <li>Undersøke årsaken og dele funn med myndigheter/brukere.</li>
+                <li>Bistå myndigheter i etterforskning.</li>
+                <li>Iverksette tiltak for å forhindre gjentakelse.</li>
+            </ul>
+            <p>For din egen sikkerhet anbefaler vi at du:</p>
+            <ul>
+                <li>Bruker sterke, unike passord og endrer dem jevnlig.</li>
+                <li>Aldri deler innloggingsdetaljer.</li>
+                <li>Bruker totrinnsbekreftelse der det er mulig.</li>
+                <li>Sjekker enheter for virus og unngår usikrede nettverk.</li>
+            </ul>
+
+            <h2>14. Kontakt</h2>
+            <p>Spørsmål om denne erklæringen kan sendes til <a href="mailto:support@rocketriches.no">support@rocketriches.no</a>.</p>
+            <p>Vår Data Protection Officer kan nås på <a href="mailto:privacy@rhinoentertainmentgroup.com">privacy@rhinoentertainmentgroup.com</a>.</p>
+
+        </div>
+    </div>
+
+        <!-- UPDATED BLOCK -->
+
+    </main>
+
+    <!-- FOOTER -->
+
+<footer class="custom-footer" style="background-color: #0f1c30; color: #fff;">
+    
+    <div style="width: 100%; text-align: center; padding: 12px 0; background-color: rgba(255, 255, 255, 0.05); color: #ffffff; font-weight: bold; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 2rem;">
+        Oppdatert: 23.01.2026
+    </div>
+    <div class="footer-nav-card">
+        <div class="footer-columns">
+            
+            <div class="footer-col">
+                <h3>Rocket Riches</h3>
+                <ul>
+                    <li><a href="/">Casino-lobby</a></li>
+                    <li><a href="/">Live Casino-lobby</a></li>
+                    <li><a href="/">Spilleautomater</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Retningslinjer</h3>
+                <ul>
+                    <li><a href="/terms-and-conditions/">Betingelser og vilkår</a></li>
+                    <li><a href="/bonus-policy/">Bonusbetingelser</a></li>
+                    <li><a href="/privacy-policy/">Personvernerklæring</a></li>
+                    <li><a href="/responsible-gambling/">Ansvarlig spill</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Mer info</h3>
+                <ul>
+                    <li><a href="/is-rocket-riches-legit/">Er Rocket Riches legitimt?</a></li>
+                    <li><a href="/contact-us/">Kontakt</a></li>
+                    <li><a href="/om-oss/">Om oss</a></li>
+                    <li><a href="/">Affiliates</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="payment-methods">
+        <div class="payment-icon pay-visa">
+            <i class="fa-brands fa-cc-visa"></i>
+        </div>
+        <div class="payment-icon pay-mastercard">
+            <i class="fa-brands fa-cc-mastercard"></i>
+        </div>
+        <div class="payment-icon pay-skrill">
+            Skrill
+        </div>
+        <div class="payment-icon pay-bitcoin">
+            <i class="fa-brands fa-bitcoin"></i>
+        </div>
+        <div class="payment-icon pay-secure">
+            <i class="fa-solid fa-lock"></i>
+        </div>
+        <div class="payment-icon pay-bank">
+            <i class="fa-solid fa-building-columns"></i>
+        </div>
+    </div>
+
+    <div class="bottom-section">
+        
+        <div class="provider-row top-row">
+            <img src="/PLAYNGO.png" alt="Play'n Go" class="provider-img">
+            <img src="/push gaming.webp" alt="Push Gaming" class="provider-img">
+            <img src="/RelaxGaming.png" alt="Relax" class="provider-img">
+            <img src="/netent.png" alt="NetEnt" class="provider-img">
+            <img src="/nolimit-logo.png" alt="NoLimit" class="provider-img">
+            <img src="/RedTiger.png" alt="Red Tiger" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <img src="/evolution.jpeg" alt="Evolution" class="provider-img">
+            <img src="/pragmaticplay.png" alt="Pragmatic" class="provider-img">
+            <img src="/spinomenal.png" alt="Spinomenal" class="provider-img">
+            <img src="/Big-Time-Gaming.webp" alt="BTG" class="provider-img">
+            <img src="/Quickspinorange.webp" alt="Quickspin" class="provider-img">
+            <img src="/thunderkick-logo.png" alt="Thunderkick" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <a href="https://cert.gcb.cw/certificate/">
+                <img src="/curacao certificate.png" alt="Curacao Gaming Authority" class="cert-img">
+            </a>
+            <img src="/dmca.png" alt="DMCA" class="cert-img">
+        </div>
+
+        <div class="provider-row" style="flex-wrap: wrap; gap: 15px; justify-content: center;">
+            <div class="eighteen-plus center-content">18+</div>
+            
+            <img src="/digicert.png" alt="Digicert" class="trust-img">
+            <img src="/ssl-secured.svg" alt="SSL" class="trust-img">
+
+            <a href="https://www.gamstop.co.uk" target="_blank">
+                <img src="/gamstop.png" alt="GamStop" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamcare.org.uk" target="_blank">
+                <img src="/Gam Care.jpg" alt="GamCare" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.egba.eu" target="_blank">
+                <img src="/EGBA.eu.png" alt="EGBA" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.begambleaware.org" target="_blank">
+                <img src="/Gamble aware.webp" alt="GambleAware" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamblingcommission.gov.uk" target="_blank">
+                <img src="/Gamblingcommision.png" alt="Gambling Commission" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2025 Rocket Riches. All rights reserved.
+        </div>
+    </div>
+</footer>
+    <script>
+        // Mobile Menu Toggle
+        function toggleMenu() {
+            document.getElementById('mainNav').classList.toggle('active');
+        }
+
+        // Set Current Date in Footer/Updated Block
+        const date = new Date();
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('currentDate').textContent = date.toLocaleDateString('en-US', options);
+    </script>
+</body>
+</html>

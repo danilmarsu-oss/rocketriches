@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="alternate" hreflang="nb-NO" href="https://rocketriches.no/"/>
+     <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+   <link rel="alternate" hreflang="x-default" href="https://rocketriches.no/"/>
+    <title>Rocket Riches Casino | 5000 KR + 100FS </title>
+    <meta name="description" content="Spill hos Rocket Riches Casino 2026! Få opptil 5 000 kr bonus og 100 gratisspinn. Over 5000 spilleautomater, live casino, raske uttak og norsk support." />
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="nc_assets/css/style.css?v=1.37">
+    <link rel="canonical" href="https://rocketriches.no/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+<header>
+    <div class="logo">
+       <a href="/">
+        <img src="../rocket-riches-casino.svg" alt="Rocket Riches Casino" class="logo-img">
+    </a>
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+    </div>
+    <nav class="main-nav" id="mainNav">
+        <ul class="nav-links">
+            <li><a href="/bonus/">Bonuses</a></li>
+            <li><a href="/login/">Login</a></li>
+            <li><a href="/app/">App</a></li>
+            <li><a href="/">Casino</a></li>
+            <li><a href="/">Live Casino</a></li>
+            <li><a href="/games/">Spill</a></li>
+        </ul>
+        <div class="auth-buttons">
+            <a href="/">
+    <button class="btn btn-login">Logg inn</button>
+</a>
+
+<a href="/go/">
+    <button class="btn btn-register">Register</button>
+</a>
+        </div>
+    </nav>
+</header>
+    <main>
+        <!-- HERO SECTION (Reworked) -->
+        <section class="hero-section">
+            <div class="hero-content-wrapper">
+                 <h1 class="main-title">Rocket Riches Casino</h1>
+                <!-- H1 Banner Placeholder -->
+                <div class="hero-banner-placeholder">
+            <!-- START: Promo Banner HTML -->
+            <div class="promo-banner-card">
+                <div class="promo-bg-rays"></div>
+                <div class="promo-top-glow"></div>
+
+                <div class="promo-content">
+                    <p class="promo-label promo-text-shadow">100% bonus</p>
+                    <p class="promo-title-main promo-text-shadow">Opptil 5000 kr</p>
+                    <p class="promo-title-sub promo-text-shadow">+ 100 gratisspinn</p>
+                    <p class="promo-subtitle">og opptil 20% cashback hver dag</p>
+
+                    <a href="/go/"><button class="promo-btn">
+                        <span class="promo-btn-text-lg">Registrer deg nå</span>
+                        <span class="promo-btn-text-sm">Det tar kun et minutt</span>
+                    </button></a>
+
+                    <a href="#" class="promo-footer-link">Betingelser og vilkår</a>
+                </div>
+            </div>
+</div>
+                
+                <!-- 500 Character Text -->
+                <p>Hos Rocket Riches Casino ønsker vi deg velkommen til Rocket Riches – et moderne nettcasino lansert i 2024 for spillere i Rocket Riches Norge og resten av Norden. Vi tilbyr over 3000 spilleautomater, bordspill og live casino, driftet under verifisert lisens fra Curacao. Som ny spiller får du en velkomstpakke opptil 10&nbsp;000&nbsp;kr og 200 gratisspinn, samt faste kampanjer, VIP-fordeler og raske uttak. Registrer deg nå hos Rocket Riches Casino og opplev trygg og underholdende spilling!</p>
+                </br>
+            </div>
+        </section>
+
+        <!-- GAMES GRID SECTION -->
+        <section class="section-container">
+            <h2 class="section-title">Populære spill hos Rocket Riches Casino</h2>
+            <div class="slots-grid">
+                
+
+    <div class="game-card">
+        <img src="CoinWinHoldTheSpin.jpg" alt="Coin Win Hold The Spin">  <a href="#" class="play-btn">Spill nå</a>
+    </div>
+
+    <div class="game-card">
+        <img src="AllLuckyClover100.png" alt="All Lucky Clover 100">  <a href="#" class="play-btn">Spill nå</a>
+    </div>
+
+    <div class="game-card">
+        <img src="ElectricCoins.png" alt="Electric Coins" >  <a href="#" class="play-btn">Spill nå</a>
+    </div>
+
+    <div class="game-card">
+        <img src="serpent gold.jpg" alt="Serpent Gold" >  <a href="#" class="play-btn">Spill nå</a>
+    </div>
+
+    <div class="game-card">
+        <img src="FortuneDragon.jpg" alt="Fortune Dragon">  <a href="#" class="play-btn">Spill nå</a>
+    </div>
+
+</div>
+
+            </div>
+            </br>
+                <h2 class="section-title">Populære livespill i Rocket Riches Casino</h2>
+            <div class="slots-grid">
+                
+<div class="game-card">
+    <img src="Andar Bahar.png" alt="Andar Bahar">  <a href="#" class="play-btn">Spill nå</a>
+</div>
+
+<div class="game-card">
+    <img src="Roulette.png" alt="Roulette">  <a href="#" class="play-btn">Spill nå</a>
+</div>
+
+<div class="game-card"> 
+    <img src="CrazyTime.png" alt="Crazy Time">  <a href="#" class="play-btn">Spill nå</a>
+</div>
+
+<div class="game-card">
+    <img src="Sweet Bonanza.png" alt="Sweet Bonanza">  <a href="#" class="play-btn">Spill nå</a>
+</div>
+
+<div class="game-card">
+    <img src="LightningTable.png" alt="Lightning Table">  <a href="#" class="play-btn">Spill nå</a>
+</div>
+
+            </div>
+        </section>
+        <section class="section-container">
+            <div class="seo-content">
+                <table>
+<tbody>
+<tr>
+<th>Felt</th>
+<th>Detaljer</th>
+</tr>
+<tr>
+<td>Lisens</td>
+<td>Curacao Gaming Control Board (GCB), lisensnr. OGL/2023/159/0076</td>
+</tr>
+<tr>
+<td>Lanserings&aring;r</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>GEO-tilgjengelighet</td>
+<td>Norge, Canada, New Zealand og en rekke andre markeder der nettcasino er tillatt (tilgjengelighet kan variere per land)</td>
+</tr>
+<tr>
+<td>St&oslash;ttede spr&aring;k</td>
+<td>Norsk, engelsk, fransk (CA) samt flere andre lokale spr&aring;k</td>
+</tr>
+<tr>
+<td>Minste innskudd</td>
+<td>Fra ca. 10 &euro;/$ (typisk rundt 100&nbsp;kr for Rocket Riches Norge, avhengig av betalingsmetode)</td>
+</tr>
+<tr>
+<td>Minste uttak</td>
+<td>Fra ca. 10 &euro;/$ (omtrent 100&nbsp;kr eller tilsvarende i lokal valuta)</td>
+</tr>
+<tr>
+<td>St&oslash;ttede valutaer</td>
+<td>EUR, USD, CAD, NOK, NZD + flere kryptovalutaer (f.eks. BTC, ETH, LTC)</td>
+</tr>
+<tr>
+<td>Betalingsmetoder</td>
+<td>Visa, Mastercard, bankoverf&oslash;ring, e-lommeb&oslash;ker (Skrill, Neteller m.fl.), forh&aring;ndsbetalte kort og kryptovaluta</td>
+</tr>
+<tr>
+<td>RTP-omr&aring;de</td>
+<td>Typisk ca. 94&nbsp;%&ndash;99&nbsp;% avhengig av spill og leverand&oslash;r</td>
+</tr>
+<tr>
+<td>Spillleverand&oslash;rer</td>
+<td>Pragmatic Play, Evolution, NetEnt, Relax Gaming, Push Gaming, Red Tiger, Nolimit City, Hacksaw Gaming m.fl. (over 25&ndash;90+ studioer totalt)</td>
+</tr>
+<tr>
+<td>Mobiltilgjengelighet</td>
+<td>Fullt optimalisert nettcasino i nettleser p&aring; iOS og Android, ingen nedlasting n&oslash;dvendig</td>
+</tr>
+<tr>
+<td>St&oslash;ttekanaler</td>
+<td>24/7 live chat, e-postsupport og omfattende FAQ</td>
+</tr>
+</tbody>
+</table>
+<h2>Casino Rocket Riches – spillutvalg</h2>
+<p>Hos Rocket Riches Casino har vi bygget et spillbibliotek som gir rocket riches online en helt egen betydning for norske spillere. Vi tilbyr over 5&nbsp;000 casinospill &ndash; alt fra klassiske spilleautomater til moderne videoautomater, Megaways-titler, bordspill, crash-spill og et stort live casino. V&aring;rt m&aring;l er at Rocket Riches Norge skal v&aelig;re et sted der du alltid finner noe nytt &aring; pr&oslash;ve, enten du spiller noen raske runder p&aring; mobilen eller planlegger en lengre &oslash;kt hjemme i sofaen. Med leverand&oslash;rer som Pragmatic Play, Evolution, NetEnt, Relax Gaming, Push Gaming og flere andre kan du velge mellom h&oslash;ye jackpotter, h&oslash;yvolatilitets-automater og rolige bordspill med lavere innsats. Vi s&oslash;rger for rettferdig spill gjennom sertifiserte RTP-verdier og uavhengig testede spillmotorer, slik at du kan fokusere p&aring; underholdningen. Som lisensiert rocketriches casino f&oslash;lger vi strenge krav til sikkerhet og rettferdighet, og hele portef&oslash;ljen v&aring;r er tilgjengelig b&aring;de p&aring; desktop og mobil for maksimal fleksibilitet.</p>
+<table>
+<tbody>
+<tr>
+<th>Spill</th>
+<th>Kategori</th>
+<th>Leverand&oslash;r</th>
+<th>Hvorfor spillere liker det</th>
+</tr>
+<tr>
+<td>Gates of Olympus</td>
+<td>Videoautomat</td>
+<td>Pragmatic Play</td>
+<td>Popul&aelig;r cluster-slot med h&oslash;y volatilitet og store multiplikatorer som passer spillere som jakter store gevinster.</td>
+</tr>
+<tr>
+<td>Book of Dead</td>
+<td>Videoautomat</td>
+<td>Play&rsquo;n GO</td>
+<td>Egyptisk klassiker med free spins og ekspanderende symboler, perfekt for deg som liker tradisjonelle bonusrunder.</td>
+</tr>
+<tr>
+<td>Fire Joker</td>
+<td>Klassisk automat</td>
+<td>Play&rsquo;n GO</td>
+<td>Enkel, rask og retro-inspirert &ndash; tre hjul, jokersymboler og respins gj&oslash;r den til en favoritt p&aring; Rocket Riches casino.</td>
+</tr>
+<tr>
+<td>Starburst XXXtreme</td>
+<td>Videoautomat</td>
+<td>NetEnt</td>
+<td>Oppdatert versjon av en av verdens mest kjente slots, med eksplosive wilds og intens spilldynamikk.</td>
+</tr>
+<tr>
+<td>Crazy Time</td>
+<td>Live gameshow</td>
+<td>Evolution</td>
+<td>Interaktivt lykkehjul med flere bonusrunder, perfekt for deg som vil kombinere sosialt live-spill med h&oslash;y underholdning.</td>
+</tr>
+<tr>
+<td>Blackjack Amsterdam</td>
+<td>Live blackjack</td>
+<td>OnAir / Evolution</td>
+<td>Klassisk blackjack med profesjonelle dealere og ekte casinoatmosf&aelig;re, tilgjengelig 24/7 for Rocket Riches Norge.</td>
+</tr>
+</tbody>
+</table>
+<h2>Kampanjer hos Rocket Riches – ekte bonuser</h2>
+<img src="Rocket Riches Bonuses.png" alt="Rocket riches casino" style="max-width: 100%; height: auto;">
+<p>Som lisensiert rocket riches online-plattform &oslash;nsker vi at v&aring;re kampanjer skal gi reell verdi, ikke bare store tall i overskriftene. For spillere i Rocket Riches Norge tilbyr vi en velkomstbonus som typisk gir 100&nbsp;% bonus opptil rundt 5&nbsp;000&nbsp;kr samt opptil 100 gratisspinn p&aring; utvalgte spilleautomater. I tillegg har vi daglig cashback der du kan f&aring; opptil 20&nbsp;% tilbake p&aring; netto tap, noe som gir en ekstra trygghet n&aring;r du tester nye spill. Minste kvalifiserende innskudd for hovedbonusen ligger normalt p&aring; rundt 20 &euro;/$ eller tilsvarende i lokal valuta, mens maksimalt bonusbel&oslash;p kan v&aelig;re opptil 2&nbsp;000&nbsp;&euro;/$ i enkelte markeder. Kampanjene v&aring;re er bygget med moderate omsetningskrav sammenlignet med bransjesnittet, og vi viser alltid tydelige vilk&aring;r f&oslash;r du aktiverer en bonus. P&aring; den m&aring;ten kan du som spiller gj&oslash;re informerte valg, uansett om du er her for en klassisk velkomstbonus, daglig cashback eller eksklusive gratisspinn i Rocket Riches Casino.</p>
+<h3>Velkomstbonus for nye spillere</h3>
+<p>N&aring;r du registrerer deg hos rocketriches for f&oslash;rste gang, m&oslash;ter vi deg med en velkomstpakke designet for &aring; gi et solid startskudd. I de fleste markedene v&aring;re tilbyr vi en 100&nbsp;% innskuddsbonus p&aring; ditt f&oslash;rste innskudd, med et maksimalt bonusbel&oslash;p som typisk ligger mellom 500&nbsp;&euro;/$ og 2&nbsp;000&nbsp;&euro;/$, eller rundt 5&nbsp;000&ndash;20&nbsp;000&nbsp;kr for Rocket Riches Norge. Minste innskudd for &aring; kvalifisere seg er vanligvis fra 20&nbsp;&euro;/$ eller tilsvarende, slik at b&aring;de forsiktige og mer erfarne spillere kan delta p&aring; like vilk&aring;r. I tillegg f&oslash;lger ofte en pakke med gratisspinn p&aring; popul&aelig;re titler som Sweet Bonanza eller Book of Dead, slik at du kan teste kjernespillene v&aring;re med ekstra verdi. Vi bruker gjennomg&aring;ende transparente bonusvilk&aring;r, der omsetningskravet normalt ligger rundt 30&ndash;35x bonusbel&oslash;pet, og alle n&oslash;kkelbetingelser er tydelig presentert i bonusoversikten f&oslash;r du aktiverer tilbudet.</p>
+<h3>Daglig cashback opptil 20&nbsp;%</h3>
+<p>En av de mest popul&aelig;re fordelene hos rocketriches casino er v&aring;r daglige cashback. I stedet for &aring; kun fokusere p&aring; store engangstilbud, gir vi deg l&oslash;pende verdi ved &aring; betale tilbake en prosentandel av netto tap fra forrige dag. Avhengig av marked og kampanje kan cashback-niv&aring;et ligge opptil 20&nbsp;%, med et minimumsbel&oslash;p som ofte starter rundt 5&nbsp;&euro;/&pound;/kr eller tilsvarende. Cashback-kreditten gis som bonusmidler med et lavt omsetningskrav, typisk rundt 10x, slik at du f&aring;r reell sjanse til &aring; hente inn igjen noe av spillingen din. Alt beregnes automatisk; du trenger bare &aring; logge inn neste dag og aktivere cashbacken i bel&oslash;nningsseksjonen. For oss i Rocket Riches Casino er dette en m&aring;te &aring; gi spillerne mer kontroll og en jevnere spillopplevelse, spesielt for dem som spiller regelmessig.</p>
+<h3>Gratisspinn og l&oslash;pende kampanjer</h3>
+<p>I tillegg til velkomstbonus og daglig cashback kj&oslash;rer vi jevnlig kampanjer med gratisspinn, reload-bonuser og turneringer. Som registrert spiller hos rocket riches f&aring;r du tilgang til eksklusive tilbud som kan gi alt fra 20 til 200 gratisspinn p&aring; utvalgte spilleautomater, ofte koblet til nye lanseringer eller sesongbaserte kampanjer. Reload-bonuser gir ekstra prosent p&aring; senere innskudd, ideelt for spillere som liker &aring; komme tilbake til Rocket Riches Norge flere ganger i uken. Vi arrangerer ogs&aring; turneringer der du konkurrerer mot andre spillere om premiepotter, ofte uten ekstra kostnad utover normal spilling p&aring; kvalifiserte spill. Alle slike kampanjer presenteres i kampanjeseksjonen v&aring;r, og du f&aring;r ofte personlige tilbud via e-post eller inne i kontoen din. Slik s&oslash;rger vi for at rocketriches online f&oslash;les levende, variert og rettferdig over tid.</p>
+<h2>Hvorfor velge Rocket Riches?</h2>
+<img src="Casino Rocket Riches.png" alt="Casino Rocket riches" style="max-width: 100%; height: auto;">
+<p>Som lisensiert og regulert rocket riches casino &oslash;nsker vi &aring; v&aelig;re et trygt f&oslash;rstevalg for norske spillere som vil kombinere underholdning, sikkerhet og fleksibilitet. Vi eies og drives av et etablert spillselskap med internasjonal tilstedev&aelig;relse, og casinoet ble lansert i 2024 med m&aring;l om &aring; levere en moderne opplevelse til b&aring;de nye og erfarne spillere. V&aring;r lisens fra Curacao Gaming Control Board betyr at vi f&oslash;lger strenge krav til personvern, sikker behandling av transaksjoner og rettferdige spill. Samtidig fokuserer vi p&aring; pragmatiske fordeler i hverdagen: rask registrering, enkle innskudd og uttak, norsk kundest&oslash;tte og en mobilopplevelse som fungerer like godt p&aring; sm&aring; som store skjermer. Vi kombinerer et enormt spillutvalg med daglig cashback og tydelige bonusvilk&aring;r, slik at du kan spille med forutsigbarhet. For oss i Rocket Riches Norge handler det om &aring; gi et ryddig, profesjonelt milj&oslash; der du kan spille p&aring; dine premisser &ndash; med verkt&oslash;y for ansvarlig spill n&aring;r du trenger det.</p>
+<ul>
+<li>Lisensiert og regulert casino med internasjonal GCB-lisens.</li>
+<li>Over 5&nbsp;000 spill fra ledende leverand&oslash;rer, inkludert live casino.</li>
+<li>Daglig cashback og transparente bonuser uten skjulte overraskelser.</li>
+<li>Raske innskudd og uttak, inkludert st&oslash;tte for kryptovaluta.</li>
+<li>Fullt mobiltilpasset l&oslash;sning &ndash; ingen app n&oslash;dvendig.</li>
+<li>Norsk kundest&oslash;tte tilgjengelig via live chat og e-post.</li>
+</ul>
+<h2>Hvordan registrere seg hos Rocket Riches</h2>
+<img src="Rocket Riches Registration.png" alt="Rocketriches" style="max-width: 75%; height: auto; display: block; margin-left: auto; margin-right: auto;">
+<p>Registreringen hos Rocket Riches Casino er laget for &aring; v&aelig;re enkel, rask og trygg. Hele prosessen er digital og gjennomf&oslash;res p&aring; f&aring; minutter, slik at du kan komme i gang med dine favorittspill s&aring; snart kontoen er bekreftet. Vi ber bare om n&oslash;dvendige opplysninger for &aring; verifisere identiteten din i tr&aring;d med lisenskrav og hvitvaskingsregler, og all data krypteres. N&aring;r du oppretter en konto hos rocket riches, f&aring;r du samtidig tilgang til velkomstbonusen, cashback og alle kampanjer som er tilgjengelige for Rocket Riches Norge. Du kan ogs&aring; sette egne grenser for innskudd og tap allerede ved registrering for &aring; sikre ansvarlig spill.</p>
+<ol>
+<li>Klikk p&aring; &laquo;Registrer deg&raquo; p&aring; forsiden av Rocket Riches Casino.</li>
+<li>Fyll inn e-post, passord og grunnleggende personopplysninger som navn og f&oslash;dselsdato.</li>
+<li>Velg valuta (for eksempel NOK) og bekreft at du er over 18 &aring;r og aksepterer vilk&aring;r og personvern.</li>
+<li>Bekreft e-postadressen din via lenken vi sender, og logg inn p&aring; din nye rocketriches-konto.</li>
+<li>Gj&oslash;r et f&oslash;rste innskudd, aktiver &oslash;nsket bonus i kassen og start spillingen p&aring; dine favorittspill.</li>
+</ol>
+<h2>Rocket Riches mobilcasino</h2>
+<img src="Rocket Riches Mobile.png" alt="Rocket Riches Mobile" style="max-width: 30%; height: auto; display: block; margin-left: auto; margin-right: auto;">
+<p>Vi vet at mange av v&aring;re spillere vil ha casinoet med seg i lommen, og derfor er Rocket Riches mobilopplevelsen bygget som et fullt responsivt nettcasino snarere enn en tung app. N&aring;r du bes&oslash;ker rocket riches casino fra mobil eller nettbrett, tilpasser siden seg automatisk til skjermst&oslash;rrelsen din. Spill-lobbyen, betalingsl&oslash;sninger og kundest&oslash;tte er de samme som p&aring; desktop, og du kan s&oslash;ml&oslash;st bytte mellom enheter uten &aring; miste fremdrift. De fleste spilleautomater og live-spill er optimalisert for touch, med forenklede menyer og tydelige knapper. Innlogging kan kombineres med lagret passord eller biometri p&aring; enheten din, slik at du kommer raskt tilbake til Rocket Riches Norge. Vi prioriterer ogs&aring; ytelse &ndash; lettvektskode og moderne teknologi gj&oslash;r at spillene lastes effektivt, selv p&aring; mobildata, samtidig som all trafikk krypteres.</p>
+<ul>
+<li>Ingen nedlasting n&oslash;dvendig &ndash; spill direkte i mobilens nettleser.</li>
+<li>Full tilgang til spill, bonuser, cashback og kampanjer p&aring; mobil.</li>
+<li>Optimaliserte kontroller for touch-skjerm p&aring; slots og live spill.</li>
+<li>Raske innskudd og uttak via mobile betalingsmetoder og krypto.</li>
+<li>24/7 live chat tilgjengelig ogs&aring; p&aring; sm&aring; skjermer.</li>
+</ul>
+<h2>Rocket Riches Casino – juridisk informasjon</h2>
+<p>Som ansvarlig operat&oslash;r legger vi stor vekt p&aring; at rocket riches online drives innenfor tydelige juridiske rammer. Casinoet eies av et lisensiert selskap registrert p&aring; Curacao, og v&aring;r prim&aelig;re spillisens er utstedt av Curacao Gaming Control Board. Lisensen regulerer hvordan vi h&aring;ndterer spill, utbetalinger, teknisk drift, kundebehandling og ansvarlig spill. Spillportef&oslash;ljen v&aring;r leveres av anerkjente programvareleverand&oslash;rer som bruker sertifiserte RNG-er (Random Number Generators) for &aring; sikre rettferdige og uforutsigbare resultater. I tillegg benytter vi moderne SSL-kryptering p&aring; alle sider der du legger inn personlige opplysninger eller betalingsdata, slik at informasjonen din alltid er beskyttet. Vi f&oslash;lger internasjonale retningslinjer mot hvitvasking og finansiering av ulovlig virksomhet, og kan derfor be om ID-verifisering og dokumentasjon ved uttak. Rocket Riches Casino er kun tilgjengelig for spillere som har fylt 18 &aring;r (eller h&oslash;yere lokal aldersgrense der det er p&aring;krevd), og det er ditt ansvar &aring; sikre at nettspill er tillatt i landet du spiller fra. Vi anbefaler alltid ansvarlig spill og tilbyr verkt&oslash;y som selvekskludering og innskuddsgrenser for &aring; st&oslash;tte dette.</p>
+<h2>Rocket Riches kundestøtte</h2>
+<p>Kundeservice er en sentral del av opplevelsen hos rocketriches, og vi &oslash;nsker at du alltid skal f&oslash;le at hjelpen er n&aelig;r. Derfor tilbyr Rocket Riches Casino d&oslash;gn&aring;pen support via flere kanaler, slik at du kan ta kontakt p&aring; den m&aring;ten som passer deg best. For spillere i Rocket Riches Norge har vi egne norsktalende agenter store deler av d&oslash;gnet, st&oslash;ttet av et internasjonalt team som kjenner b&aring;de plattformen og regelverket. Vi hjelper deg med alt fra tekniske problemer og bonussp&oslash;rsm&aring;l til grenseinnstillinger og veiledning rundt ansvarlig spill. I tillegg har vi en detaljert FAQ-seksjon som dekker de vanligste sp&oslash;rsm&aring;lene om konto, betalinger og spill. V&aring;rt m&aring;l er at du skal bruke mest mulig tid p&aring; selve spillopplevelsen &ndash; ikke p&aring; &aring; lete etter informasjon.</p>
+<ul>
+<li><strong>Live chat 24/7</strong> &ndash; raskeste vei til personlig hjelp direkte i nettleseren.</li>
+<li><strong>E-postsupport</strong> &ndash; egnet for mer omfattende sp&oslash;rsm&aring;l eller dokumentasjon.</li>
+<li><strong>Norsktalende agenter</strong> &ndash; tilgjengelig for spillere i Rocket Riches Norge.</li>
+<li><strong>Omfattende FAQ</strong> &ndash; dekker vanlige sp&oslash;rsm&aring;l om konto, spill og bonuser.</li>
+<li><strong>Ansvarlig spill-team</strong> &ndash; hjelper med grenser, pauser og selvekskludering ved behov.</li>
+</ul>
+<h2>Rocket Riches betalingsmetoder</h2>
+<p>Som moderne rocketriches casino har vi lagt stor vekt p&aring; fleksible og sikre betalingsl&oslash;sninger. I kassen finner du et bredt utvalg av metoder, fra tradisjonelle bankkort til e-lommeb&oslash;ker og kryptovaluta. For norske spillere tilbyr Rocket Riches Norge typisk Visa og Mastercard, ulike e-lommeb&oslash;ker som Skrill, Neteller og MuchBetter, samt forh&aring;ndsbetalte l&oslash;sninger og bankoverf&oslash;ring via lokale partnere. I tillegg st&oslash;tter vi flere ledende kryptovalutaer som Bitcoin, Ethereum og Litecoin, noe som gir raske transaksjoner og h&oslash;yere grenser for erfarne spillere. Minste innskudd starter normalt rundt 10&ndash;20&nbsp;&euro;/$ eller tilsvarende, mens minste uttak ligger p&aring; omtrent samme niv&aring;. Maksgrenser per dag og m&aring;ned er satt h&oslash;yt nok til at ogs&aring; high rollers kan spille komfortabelt, samtidig som vi f&oslash;lger alle krav til sikkerhet og hvitvaskingskontroll. Alle innskudd behandles umiddelbart, mens uttak vanligvis godkjennes innen kort tid, avhengig av valgt metode.</p>
+            </div>
+    
+         <section class="payments-section">
+    <div class="payment-container">
+
+        <!-- Visa -->
+        <div class="payment-card">
+            <img src="VISA.png" alt="Visa" width="60">
+        </div>
+
+        <!-- Mastercard -->
+        <div class="payment-card">
+            <img src="Mastercard.svg" alt="Mastercard" width="60">
+        </div>
+
+        <!-- PayPal -->
+        <div class="payment-card">
+            <img src="paypal.png" alt="PayPal" width="60">
+        </div>
+
+        <!-- Payoneer -->
+        <div class="payment-card">
+            <img src="payoneer.jpeg" alt="Payoneer" width="60">
+        </div>
+
+        <!-- Crypto -->
+        <div class="payment-card">
+            <img src="crypto.webp" alt="Crypto" width="50">
+        </div>
+
+    </div>
+</section>
+
+        </section>
+
+        <!-- WHAT OUR PLAYERS SAY -->
+        <section class="reviews-section">
+            <h2 class="section-title">Hva våre spillere sier</h2>
+            <div class="reviews-grid">
+    <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Jeg har testet mange sider, men Rocket Riches Norge har blitt favoritten. Massevis av spilleautomater, daglig cashback og uttakene mine har kommet inn på kontoen innen et døgn hver gang."</p>
+        <div class="reviewer-name">- Lars, Oslo</div>
+    </div>
+
+    <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Supporten hos RocketRiches svarer raskt og på norsk, noe som gjør det mye enklere når jeg har spørsmål om bonuser og grenser. Føler at casinoet faktisk bryr seg om ansvarlig spill."</p>
+        <div class="reviewer-name">- «SpinnKari»</div>
+    </div>
+
+    <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Live casino-delen hos Rocket Riches online er imponerende. Gode bordgrenser, profesjonelle dealere og stabilt på mobilen. At jeg i tillegg får cashback hver dag, gjør at jeg gjerne spiller her fremfor andre sider."</p>
+        <div class="reviewer-name">- Mohammed, Bergen</div>
+    </div>
+</div>
+
+        </section>
+     
+
+        <!-- FAQ SECTION -->
+        <section class="faq-section">
+            <h2 class="section-title">Frequently Asked Questions</h2>
+            
+         <details class="faq-item">
+    <summary class="faq-question">Er Rocket Riches Casino lovlig og trygt å spille hos?</summary>
+    <div class="faq-answer">
+        Ja, Rocket Riches Casino er lisensiert og regulert av Curacao Gaming Control Board, og vi følger strenge krav til sikkerhet, personvern og rettferdige spill. All trafikk er kryptert, og spillene våre leveres av sertifiserte utviklere. Du spiller alltid i et regulert miljø hos Rocket Riches.
+    </div>
+</details>
+
+<details class="faq-item">
+    <summary class="faq-question">Hvilke bonuser kan jeg få hos Rocket Riches Norge?</summary>
+    <div class="faq-answer">
+        Som ny spiller hos Rocket Riches Norge kan du vanligvis få en velkomstbonus med 100 % ekstra på første innskudd og en pakke gratisspinn. I tillegg tilbyr vi daglig cashback og jevnlige kampanjer med reload-bonuser og turneringer. Sjekk kampanjesiden for oppdaterte tilbud fra Rocket Riches Casino.
+    </div>
+</details>
+
+<details class="faq-item">
+    <summary class="faq-question">Hva er minste innskudd og uttak hos Rocket Riches?</summary>
+    <div class="faq-answer">
+        Minste innskudd hos Rocket Riches ligger normalt fra 10–20 €/$ eller tilsvarende i lokal valuta, mens minste uttak er på omtrent samme nivå. Eksakte grenser kan variere etter betalingsmetode og land, men alle beløp vises tydelig i kassen når du velger innskudd eller uttak.
+    </div>
+</details>
+
+<details class="faq-item">
+    <summary class="faq-question">Kan jeg spille på mobilen hos Rocket Riches online?</summary>
+    <div class="faq-answer">
+        Ja, hele Rocket Riches online er optimalisert for mobil. Du trenger ikke laste ned app; bare åpne nettleseren på iOS eller Android og logg inn. Du får tilgang til nesten alle spill, kampanjer, betalinger og live chat direkte på mobilen, med samme sikkerhet og funksjonalitet som på PC.
+    </div>
+</details>
+
+<details class="faq-item">
+    <summary class="faq-question">Hvilke betalingsmetoder støtter Rocket Riches Casino?</summary>
+    <div class="faq-answer">
+        Rocket Riches Casino støtter et bredt utvalg betalingsmetoder, inkludert Visa, Mastercard, bankoverføring, e-lommebøker som Skrill og Neteller, forhåndsbetalte kort og flere kryptovalutaer. Tilgjengelige metoder kan variere mellom land, men alle alternativer som vises i kassen er sikre og godkjent av våre betalingspartnere.
+    </div>
+</details>
+
+<details class="faq-item">
+    <summary class="faq-question">Hvordan kontakter jeg kundestøtte hos Rocket Riches?</summary>
+    <div class="faq-answer">
+        Du kan kontakte kundestøtte hos Rocket Riches via 24/7 live chat direkte på nettsiden eller e-post til supportadressen som står oppført under «Kontakt oss». For Rocket Riches Norge tilbyr vi norsktalende agenter, og vi svarer raskt på spørsmål om konto, betalinger, bonuser og ansvarlig spill.
+    </div>
+</details>
+
+            </details>
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+
+<footer class="custom-footer" style="background-color: #0f1c30; color: #fff;">
+    
+    <div style="width: 100%; text-align: center; padding: 12px 0; background-color: rgba(255, 255, 255, 0.05); color: #ffffff; font-weight: bold; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 2rem;">
+        Oppdatert: 23.01.2026
+    </div>
+    <div class="footer-nav-card">
+        <div class="footer-columns">
+            
+            <div class="footer-col">
+                <h3>Rocket Riches</h3>
+                <ul>
+                    <li><a href="/">Casino-lobby</a></li>
+                    <li><a href="/">Live Casino-lobby</a></li>
+                    <li><a href="/">Spilleautomater</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Retningslinjer</h3>
+                <ul>
+                    <li><a href="/terms-and-conditions/">Betingelser og vilkår</a></li>
+                    <li><a href="/bonus-policy/">Bonusbetingelser</a></li>
+                    <li><a href="/privacy-policy/">Personvernerklæring</a></li>
+                    <li><a href="/responsible-gambling/">Ansvarlig spill</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Mer info</h3>
+                <ul>
+                    <li><a href="/is-rocket-riches-legit/">Er Rocket Riches legitimt?</a></li>
+                    <li><a href="/contact-us/">Kontakt</a></li>
+                    <li><a href="/om-oss/">Om oss</a></li>
+                    <li><a href="/">Affiliates</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="payment-methods">
+        <div class="payment-icon pay-visa">
+            <i class="fa-brands fa-cc-visa"></i>
+        </div>
+        <div class="payment-icon pay-mastercard">
+            <i class="fa-brands fa-cc-mastercard"></i>
+        </div>
+        <div class="payment-icon pay-skrill">
+            Skrill
+        </div>
+        <div class="payment-icon pay-bitcoin">
+            <i class="fa-brands fa-bitcoin"></i>
+        </div>
+        <div class="payment-icon pay-secure">
+            <i class="fa-solid fa-lock"></i>
+        </div>
+        <div class="payment-icon pay-bank">
+            <i class="fa-solid fa-building-columns"></i>
+        </div>
+    </div>
+
+    <div class="bottom-section">
+        
+        <div class="provider-row top-row">
+            <img src="/PLAYNGO.png" alt="Play'n Go" class="provider-img">
+            <img src="/push gaming.webp" alt="Push Gaming" class="provider-img">
+            <img src="/RelaxGaming.png" alt="Relax" class="provider-img">
+            <img src="/netent.png" alt="NetEnt" class="provider-img">
+            <img src="/nolimit-logo.png" alt="NoLimit" class="provider-img">
+            <img src="/RedTiger.png" alt="Red Tiger" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <img src="/evolution.jpeg" alt="Evolution" class="provider-img">
+            <img src="/pragmaticplay.png" alt="Pragmatic" class="provider-img">
+            <img src="/spinomenal.png" alt="Spinomenal" class="provider-img">
+            <img src="/Big-Time-Gaming.webp" alt="BTG" class="provider-img">
+            <img src="/Quickspinorange.webp" alt="Quickspin" class="provider-img">
+            <img src="/thunderkick-logo.png" alt="Thunderkick" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <a href="https://cert.gcb.cw/certificate/">
+                <img src="/curacao certificate.png" alt="Curacao Gaming Authority" class="cert-img">
+            </a>
+            <img src="/dmca.png" alt="DMCA" class="cert-img">
+        </div>
+
+        <div class="provider-row" style="flex-wrap: wrap; gap: 15px; justify-content: center;">
+            <div class="eighteen-plus center-content">18+</div>
+            
+            <img src="/digicert.png" alt="Digicert" class="trust-img">
+            <img src="/ssl-secured.svg" alt="SSL" class="trust-img">
+
+            <a href="https://www.gamstop.co.uk" target="_blank">
+                <img src="/gamstop.png" alt="GamStop" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamcare.org.uk" target="_blank">
+                <img src="/Gam Care.jpg" alt="GamCare" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.egba.eu" target="_blank">
+                <img src="/EGBA.eu.png" alt="EGBA" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.begambleaware.org" target="_blank">
+                <img src="/Gamble aware.webp" alt="GambleAware" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamblingcommission.gov.uk" target="_blank">
+                <img src="/Gamblingcommision.png" alt="Gambling Commission" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2025 Rocket Riches. All rights reserved.
+        </div>
+    </div>
+</footer>
+    <script>
+        // Mobile Menu Toggle
+        function toggleMenu() {
+            document.getElementById('mainNav').classList.toggle('active');
+        }
+
+        // Set Current Date in Footer/Updated Block
+        const date = new Date();
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('currentDate').textContent = date.toLocaleDateString('en-US', options);
+    </script>
+</body>
+</html>
