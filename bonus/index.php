@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="alternate" hreflang="nb-NO" href="https://rocketriches.no/bonus/"/>
+   <link rel="alternate" hreflang="x-default" href="https://rocketriches.no/bonus/"/>
+    <title>Rocket Riches Bonus – Eksklusiv No Deposit Bonus 2025</title>
+    <meta name="description" content="Få Rocket Riches bonus og vår eksklusive Rocket Riches no deposit bonus. Spill gratis, hent velkomstpakke og sikre deg de beste tilbudene hos Rocket Riches Casino." />
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="/nc_assets/css/style.css?v=1.40">
+    <link rel="canonical" href="https://rocketriches.no/bonus/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+<header>
+    <div class="logo">
+       <a href="/">
+        <img src="../rocket-riches-casino.svg" alt="Rocket Riches Casino" class="logo-img">
+    </a>
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+    </div>
+    <nav class="main-nav" id="mainNav">
+        <ul class="nav-links">
+            <li><a href="/bonus/">Bonuses</a></li>
+            <li><a href="/login/">Login</a></li>
+            <li><a href="/app/">App</a></li>
+            <li><a href="/">Casino</a></li>
+            <li><a href="/">Live Casino</a></li>
+            <li><a href="/games/">Spill</a></li>
+        </ul>
+        <div class="auth-buttons">
+            <a href="/">
+    <button class="btn btn-login">Logg inn</button>
+</a>
+
+<a href="/go/">
+    <button class="btn btn-register">Register</button>
+</a>
+        </div>
+    </nav>
+</header>
+    <main>
+<div class="section-container">
+        
+        <!-- H1 TITLE -->
+        <h1 class="main-title">Rocket Riches Bonus – Få vår eksklusive Rocket Riches no deposit bonus</h1>
+
+        <!-- BONUS GRID (Matches Screenshot) -->
+        <div class="bonus-grid">
+            
+            <!-- Kort 1: Velkomstbonus -->
+<div class="bonus-card">
+    <div class="card-badge">Ditt velkomsttilbud</div>
+    <div class="bonus-image-container">
+        <img src="welcome bonus.webp" alt="Rocket Riches Velkomstbonus" class="bonus-image" />
+    </div>
+    <div class="bonus-details">
+        <h3 class="bonus-title">100 % bonus + 100 gratisspinn</h3>
+        <p class="bonus-subtitle">Ikke gå glipp av velkomsttilbudet ditt!</p>
+        <div class="bonus-actions">
+            <button class="btn-bonus-green">Registrer deg</button>
+            <button class="btn-bonus-outline">Les mer</button>
+        </div>
+    </div>
+</div>
+
+<!-- Kort 2: Cashback -->
+<div class="bonus-card">
+    <div class="card-badge">Cashback</div>
+    <div class="bonus-image-container">
+        <img src="cachback bonus.webp" alt="Rocket Riches BonbusCashback" class="bonus-image" />
+    </div>
+    <div class="bonus-details">
+        <h3 class="bonus-title">Cashback på innsatsene dine</h3>
+        <p class="bonus-subtitle">Få en del av tapene tilbake hver uke.</p>
+        <div class="bonus-actions">
+            <button class="btn-bonus-green">Aktiver cashback</button>
+            <button class="btn-bonus-outline">Les mer</button>
+        </div>
+    </div>
+</div>
+
+<!-- Kort 3: Julebonus -->
+<div class="bonus-card">
+    <div class="card-badge">Julebonus</div>
+    <div class="bonus-image-container">
+        <img src="christmas bonus.webp" alt="Rocket Riches Julebonus" class="bonus-image" />
+    </div>
+    <div class="bonus-details">
+        <h3 class="bonus-title">Ekstra julebonus</h3>
+        <p class="bonus-subtitle">Feir julen med eksklusive kampanjer og gratisspinn.</p>
+        <div class="bonus-actions">
+            <button class="btn-bonus-green">Hent julebonus</button>
+            <button class="btn-bonus-outline">Les mer</button>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+
+        <!-- SEO TEXT -->
+        <div class="seo-content">
+   <p>
+      Velkommen til Rocket Riches Casino – vårt hjem for raske bonuser, enkle vilkår og ekte rakettfart på underholdningen.
+      Med vår unike <strong>rocket riches bonus</strong> og en eksklusiv <strong>rocket riches no deposit bonus</strong>
+      får du muligheten til å teste våre spill før du setter inn egne penger. Hos oss kombinerer vi trygghet, norsk kundeservice
+      og et moderne <strong>rocket riches casino</strong> som er skreddersydd for deg som vil i gang med en gang.
+    </p>
+
+  <!-- HVA ER BONUSEN -->
+  <section>
+    <h2>Hva er Rocket Riches Bonus?</h2>
+    <p>
+      <strong>Rocket Riches bonus</strong> er vår samlede pakke med kampanjer, free spins og innskuddsbonuser som gir deg
+      mer å spille for fra første stund. Vi har satt sammen et <strong>rocket riches tilbud</strong> som gjør det enkelt
+      å prøve nye spill, teste strategier og få mer tid i vårt casino. Bonuspakken er utviklet av vårt eget team og er kun
+      tilgjengelig for registrerte spillere hos oss.
+    </p>
+    <p>
+      Når du aktiverer Rocket Riches bonus, får du tilgang til både velkomsttilbud, no deposit-kampanjer og løpende kampanjer
+      gjennom uken. Vi legger vekt på tydelige vilkår, raske utbetalinger og bonuser som faktisk kan omsettes, ikke bare
+      ser bra ut på papiret.
+    </p>
+    <ul>
+      <li>Ekstra saldo på toppen av ditt første innskudd</li>
+      <li>Free spins på utvalgte Rocket Riches-spill</li>
+      <li>Egne turneringer og eksklusive Rocket Missions</li>
+      <li>Ukentlige reload-kampanjer og cashback</li>
+      <li>Norske vilkår, enkel oversikt og ærlige grenser</li>
+    </ul>
+  </section>
+
+  <!-- SLIK FUNGERER BONUSEN -->
+  <section>
+    <h3>Slik fungerer Rocket Riches Bonus hos oss</h3>
+    <p>
+      For at det skal være enkelt å komme i gang, har vi gjort prosessen rundt <strong>rocket riches bonus</strong> så
+      rett fram som mulig. Hele bonusløpet styres direkte fra kontoen din hos oss, og du ser alltid hvor mye som gjenstår
+      av omsetning, hvilke spill som kvalifiserer, og hvor lenge bonusen er aktiv. Slik fungerer vår
+      <strong>rocket riches casino bonus</strong> steg for steg:
+    </p>
+    <ol>
+      <li>Opprett konto hos Rocket Riches Casino med e-post og passord.</li>
+      <li>Bekreft kontoen din via lenken vi sender deg på e-post.</li>
+      <li>Gå til bonussiden og aktiver Rocket Riches bonus før innskudd.</li>
+      <li>Gjør et kvalifiserende innskudd og få bonusmidler og eventuelle free spins.</li>
+      <li>Spill kvalifiserende spill og følg omsetningsprogresjon i sanntid.</li>
+      <li>Fullfør omsetningskravene og ta ut eventuelle gevinster til valgt betalingsmetode.</li>
+    </ol>
+  </section>
+
+  <!-- NO DEPOSIT SEKSJON -->
+  <section>
+    <h2>Rocket Riches No Deposit Bonus – Spill gratis hos oss</h2>
+    <p>
+      Med vår <strong>rocket riches no deposit bonus</strong> kan du prøve ut casinoet helt gratis før du setter inn egne penger.
+      Dette er vår mest populære <strong>rocket riches gratis bonus</strong>, og den er designet for nye spillere som vil teste
+      plattformen, spillutvalget og brukeropplevelsen uten risiko. Du får et lite, men rettferdig startbeløp eller free spins
+      som kan gi ekte gevinster, så lenge du følger vilkårene.
+    </p>
+    <p>
+      No deposit-bonusen aktiveres enkelt fra kontoen din, og vi viser alltid tydelig hvor mye du har igjen av omsetning og
+      hvor lenge bonusen er gyldig. Under ser du en enkel sammenligning av spill med og uten innskudd hos oss:
+    </p>
+
+    <table border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Type spilling</th>
+          <th>Med Rocket Riches no deposit bonus</th>
+          <th>Uten innskudd / bonus</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Startkapital</td>
+          <td>Gratis bonusmidler eller free spins</td>
+          <td>Kun egne penger</td>
+        </tr>
+        <tr>
+          <td>Risiko</td>
+          <td>Ingen risiko på egen saldo</td>
+          <td>Full risiko på eget innskudd</td>
+        </tr>
+        <tr>
+          <td>Gevinstmulighet</td>
+          <td>Ekte gevinster etter vilkår</td>
+          <td>Ekte gevinster, ingen bonusfordel</td>
+        </tr>
+        <tr>
+          <td>Tilgjengelighet</td>
+          <td>Kun for nye kvalifiserte spillere</td>
+          <td>Alle spillere, når som helst</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p id="cta">
+      Klar for å teste selv? Klikk under for å hente din no deposit bonus hos oss.
+    </p>
+  </section>
+
+  <!-- HVORDAN KREVE NO DEPOSIT -->
+  <section>
+    <h3>Hvordan kreve Rocket Riches No Deposit Bonus</h3>
+    <p>
+      Å aktivere <strong>rocket riches no deposit bonus</strong> er raskt og enkelt. Vi gir deg tydelig beskjed i kassen og
+      på bonussiden når en kampanje er tilgjengelig. I enkelte kampanjer bruker vi en egen
+      <strong>rocket riches bonuskode</strong>, mens andre aktiveres automatisk. Slik går du fram:
+    </p>
+    <ul>
+      <li>Registrer en ny konto hos Rocket Riches Casino med korrekt informasjon.</li>
+      <li>Logg inn og gå til “Bonuser” eller “Kampanjer” i menyen.</li>
+      <li>Se etter Rocket Riches no deposit bonus som er merket “uten innskudd”.</li>
+      <li>Aktiver bonusen med ett klikk, eller legg inn eventuell bonuskode der det står.</li>
+      <li>Åpne de kvalifiserte spillene og bruk din gratis bonus eller free spins.</li>
+      <li>Følg med på bonusstatus og omsetning i kontooppsummeringen din.</li>
+    </ul>
+  </section>
+
+  <!-- VILKÅR NO DEPOSIT -->
+  <section>
+    <h3>Typiske vilkår for Rocket Riches no deposit bonus</h3>
+    <p>
+      For at alle skal ha en rettferdig opplevelse, har vår <strong>rocket riches no deposit bonus</strong> klare og åpne vilkår.
+      Vi anbefaler alltid at du leser gjennom vilkårene før du aksepterer en bonus. Nedenfor ser du typiske punkter og
+      eksempler på <strong>omsetningskrav Rocket Riches</strong> kan ha på slike tilbud. De eksakte vilkårene finner du alltid
+      på bonussiden før aktivering.
+    </p>
+
+    <table border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Vilkår</th>
+          <th>Typisk nivå</th>
+          <th>Kommentar</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Omsetningskrav</td>
+          <td>20x–40x bonusbeløp</td>
+          <td>Angis tydelig før du aksepterer bonusen.</td>
+        </tr>
+        <tr>
+          <td>Maks gevinst</td>
+          <td>Begrenset beløp (f.eks. 1 000 kr)</td>
+          <td>Alt over dette kan fjernes ved uttak.</td>
+        </tr>
+        <tr>
+          <td>Spillbegrensninger</td>
+          <td>Kun utvalgte automater / spill</td>
+          <td>Full liste står alltid i bonusvilkårene.</td>
+        </tr>
+        <tr>
+          <td>Tidsfrist</td>
+          <td>24–72 timer</td>
+          <td>Bonus utløper dersom den ikke omsettes i tide.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- CASINO BONUS NYE SPILLERE -->
+  <section>
+    <h2>Rocket Riches Casino Bonus for nye spillere</h2>
+    <p>
+      Som ny spiller får du en komplett <strong>rocket riches casino bonus</strong> som gir deg en god start hos oss.
+      Vår <strong>velkomstbonus Rocket Riches</strong> kombinerer innskuddsbonus, free spins og tilgang til eksklusive kampanjer
+      de første dagene. Vi har lagt vekt på balanse mellom moro og realistiske vilkår, slik at du faktisk kan fullføre
+      omsetningskravene hvis du spiller ansvarlig.
+    </p>
+    <ul>
+      <li>Generøs førsteinnskuddsbonus med tydelige grenser.</li>
+      <li>Free spins på utvalgte Rocket Riches-spill for nye kunder.</li>
+      <li>Prioritert kundeservice for nye spillere i velkomstperioden.</li>
+      <li>Tilgang til eksklusive turneringer og kampanjer den første uken.</li>
+    </ul>
+
+    <div>
+      <strong>Fordeler med vår velkomstbonus:</strong>
+      <ul>
+        <li>Mer tid til å bli kjent med casinoet uten å øke risikoen.</li>
+        <li>Strukturerte vilkår som er enkle å forstå.</li>
+        <li>Mulighet til å teste flere typer spill med samme innskudd.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- VELKOMSTPAKKE -->
+  <section>
+    <h3>Velkomstpakken – dette får du hos oss</h3>
+    <p>
+      Vår velkomstpakke er bygget rundt <strong>rocket riches bonus</strong> og er tett integrert i hele
+      <strong>rocket riches casino</strong>-opplevelsen. Konkrete detaljer kan variere mellom kampanjer, men strukturen er
+      vanligvis slik:
+    </p>
+    <ol>
+      <li>Første innskudd: Prosentvis innskuddsbonus opp til et fast beløp.</li>
+      <li>Free spins: En pakke med spins fordelt over flere dager på utvalgte spill.</li>
+      <li>Ekstra missions: Tilgang til spesielle oppdrag som gir små ekstra bonuser.</li>
+      <li>Reload-tilbud: Egen bonus på ett eller flere innskudd i velkomstperioden.</li>
+      <li>Eksklusiv kampanje: Invitasjon til turnering eller lotteri kun for nye spillere.</li>
+    </ol>
+  </section>
+
+  <!-- BESTE SPILL -->
+  <section>
+    <h3>Våre beste spill å bruke Rocket Riches-bonusen på</h3>
+    <p>
+      Når du aktiverer en kampanje, vil vi anbefale spesifikke <strong>rocket riches spill</strong> som gir deg mest mulig ut
+      av bonusen. Nedenfor finner du noen populære <strong>rocket riches bonus spill</strong> som ofte kvalifiserer til både
+      omsetning og kampanjer:
+    </p>
+    <ul>
+      <li><strong>Rocket Reels Deluxe</strong> – høy underholdningsfaktor med eksplosive bonusrunder og hyppige gevinster.</li>
+      <li><strong>Galactic Spins</strong> – moderne automat med free spins-funksjoner og tydelig visning av innsats og risiko.</li>
+      <li><strong>Star Miner</strong> – kombinerer enkle regler med multiplikatorer som kan gi solide utbetalinger.</li>
+      <li><strong>Classic Rockets</strong> – perfekt for deg som liker tradisjonelle fruktautomater med en moderne vri.</li>
+      <li><strong>Lightning Launch</strong> – raskt spill med korte runder som passer godt til omsetning av mindre bonuser.</li>
+    </ul>
+  </section>
+
+  <!-- KAMPANJER OG TILBUD -->
+  <section>
+    <h2>Kampanjer og faste tilbud hos Rocket Riches</h2>
+    <p>
+      I tillegg til velkomstpakken har vi løpende <strong>rocket riches kampanjer</strong> for aktive spillere.
+      Målet vårt er at du alltid skal finne noe ekstra å glede deg over – enten det er free spins, cashback eller
+      turneringer. Vi har også <strong>rocket riches daglige tilbud</strong> som gir små, hyppige fordeler for deg som liker
+      å logge inn ofte.
+    </p>
+
+    <table border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Tilbudstype</th>
+          <th>Hyppighet</th>
+          <th>Typisk fordel</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Daglige drops</td>
+          <td>Hver dag</td>
+          <td>Tilfeldige gevinster på utvalgte spill</td>
+        </tr>
+        <tr>
+          <td>Ukentlige reloads</td>
+          <td>1–2 ganger i uken</td>
+          <td>Ekstra innskuddsbonus for aktive spillere</td>
+        </tr>
+        <tr>
+          <td>Turneringer</td>
+          <td>Månedlig</td>
+          <td>Premiepott med kontanter og free spins</td>
+        </tr>
+        <tr>
+          <td>Lojalitetsprogram</td>
+          <td>Løpende</td>
+          <td>Poeng som kan veksles i bonuser og andre fordeler</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <ul>
+      <li>Personlig tilpassede kampanjer basert på spillestil.</li>
+      <li>Egne tilbud på nye spillanseringer og eksklusive titler.</li>
+      <li>Sesongkampanjer med store premier i høytider og ferieperioder.</li>
+    </ul>
+  </section>
+
+  <!-- CASHBACK / FREE SPINS -->
+  <section>
+    <h3>Cashback, free spins og faste bonuser</h3>
+    <p>
+      Hos oss får du mer enn bare velkomsttilbud. Vi jobber aktivt med <strong>rocket riches free spins</strong>, cashback og
+      andre faste bonuser slik at lojale spillere blir belønnet over tid. Nedenfor ser du tre hovedtyper fordeler vi
+      fokuserer på:
+    </p>
+
+    <table border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Free spins</th>
+          <th>Cashback</th>
+          <th>Faste bonuser</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Daglige eller ukentlige spins på utvalgte spill.</td>
+          <td>Prosentvis tilbakebetaling på netto tap.</td>
+          <td>Planlagte kampanjer med gjenkjennelig struktur.</td>
+        </tr>
+        <tr>
+          <td>Kan være del av velkomstpakke eller kampanjer.</td>
+          <td>Utbetales som bonus eller ekte penger, avhengig av tilbud.</td>
+          <td>Tilgjengelige via bonussiden til enhver tid.</td>
+        </tr>
+        <tr>
+          <td>Ofte med moderate omsetningskrav.</td>
+          <td>Klare grenser for maks beløp per periode.</td>
+          <td>Enkel aktivering fra kontoen din.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- HVORFOR VELGE OSS -->
+  <section>
+    <h2>Hvorfor spillere velger Rocket Riches Casino</h2>
+    <p>
+      Det finnes mange casinoer der ute, men <strong>rocket riches casino</strong> skiller seg ut gjennom en kombinasjon av
+      bonuser, trygghet og brukervennlighet. Vi ønsker å være førstevalget for spillere som vil ha oversiktlige vilkår,
+      gode kampanjer og norsk støtte. Her er noen av våre viktigste <strong>rocket riches fordeler</strong>:
+    </p>
+    <ul>
+      <li>✔ Moderne plattform som fungerer like godt på mobil som på PC.</li>
+      <li>✔ Tydelige bonusvilkår uten skjulte overraskelser.</li>
+      <li>✔ Norsk kundeservice som er tilgjengelig store deler av døgnet.</li>
+      <li>✔ Brede betalingsløsninger med fokus på sikkerhet og hastighet.</li>
+      <li>✔ Aktivt lojalitetsprogram for spillere som blir hos oss over tid.</li>
+    </ul>
+  </section>
+
+  <!-- SIKKERHET OG ANSVAR -->
+  <section>
+    <h2>Sikkerhet og ansvarlig spill hos oss</h2>
+    <p>
+      Vi tar <strong>rocket riches sikkerhet</strong> og ansvarlig spill på alvor. Alle transaksjoner krypteres, og vi samarbeider
+      kun med lisensierte leverandører. Samtidig ønsker vi at spill hos oss skal være underholdning – ikke en løsning på
+      økonomiske problemer. Derfor tilbyr vi en rekke verktøy for <strong>ansvarlig spill</strong> direkte i kontoen din.
+    </p>
+    <ul>
+      <li>Mulighet for innskudds-, tap- og tidsgrenser.</li>
+      <li>Egen selvutelukkelsesfunksjon ved behov.</li>
+      <li>Lenker til uavhengige hjelpetjenester og informasjon.</li>
+      <li>Kontinuerlig overvåkning for mistenkelig aktivitet.</li>
+    </ul>
+  </section>
+    </div>
+
+    <!-- FAQ SECTION -->
+    <div class="faq-section">
+    <h2 class="section-title">Frequently Asked Questions – Rocket Riches Bonus</h2>
+
+    <div class="faq-item">
+        <details>
+            <summary class="faq-question">Hva er Rocket Riches no deposit bonus?</summary>
+            <div class="faq-answer">
+                Rocket Riches no deposit bonus er et tilbud hvor du får en liten bonus eller free spins uten å gjøre innskudd først. 
+                Du registrerer konto, aktiverer kampanjen og kan spille utvalgte spill med bonusmidler. 
+                Eventuelle gevinster kan tas ut når omsetningskravene er oppfylt og vilkårene er fulgt.
+            </div>
+        </details>
+    </div>
+
+    <div class="faq-item">
+        <details>
+            <summary class="faq-question">Hvordan henter jeg Rocket Riches bonus hos dere?</summary>
+            <div class="faq-answer">
+                For å hente Rocket Riches bonus oppretter du først en konto, logger inn og går til bonussiden. 
+                Der velger du ønsket kampanje, aktiverer den og gjør et kvalifiserende innskudd dersom det kreves. 
+                Bonusen legges automatisk til kontoen din så snart vilkårene er oppfylt.
+            </div>
+        </details>
+    </div>
+
+    <div class="faq-item">
+        <details>
+            <summary class="faq-question">Trenger jeg bonuskode for Rocket Riches?</summary>
+            <div class="faq-answer">
+                I mange tilfeller trenger du ingen bonuskode – du aktiverer bare kampanjen direkte fra kontoen. 
+                Ved enkelte kampanjer bruker vi en egen Rocket Riches bonuskode, men dette vil i så fall stå tydelig 
+                på kampanjesiden og i vilkårene for tilbudet.
+            </div>
+        </details>
+    </div>
+
+    <div class="faq-item">
+        <details>
+            <summary class="faq-question">Hva er omsetningskravene?</summary>
+            <div class="faq-answer">
+                Omsetningskravene varierer mellom de ulike bonusene, men vil alltid være oppgitt i vilkårene. 
+                Typisk ligger de på et visst antall ganger bonusbeløpet, for eksempel 20x eller 30x. 
+                For Rocket Riches no deposit bonus kan omsetningskravet være noe høyere enn for innskuddsbonuser, 
+                men til gjengjeld spiller du for gratis midler.
+            </div>
+        </details>
+    </div>
+
+    <div class="faq-item">
+        <details>
+            <summary class="faq-question">Kan jeg bruke bonusen på alle spill?</summary>
+            <div class="faq-answer">
+                Ikke alltid. Noen bonuser gjelder kun på utvalgte automater eller spillkategorier. 
+                I vilkårene står det hvilke spill som kvalifiserer, og hvilke som eventuelt ikke teller mot omsetning. 
+                No deposit-tilbud er ofte knyttet til spesifikke Rocket Riches-spill som vi ønsker å fremheve.
+            </div>
+        </details>
+    </div>
+
+    <div class="faq-item">
+        <details>
+            <summary class="faq-question">Hvor raskt utbetales gevinster?</summary>
+            <div class="faq-answer">
+                Når du har fullført omsetningskravene og sendt inn et uttak, behandler vi forespørselen så raskt som mulig. 
+                Tiden det tar før pengene er på kontoen avhenger av valgt betalingsmetode. 
+                E-lommebøker er normalt raskest, mens bankoverføring kan ta noen bankdager. 
+                Vi holder deg oppdatert via kontoen din og eventuelle varsler.
+            </div>
+        </details>
+    </div>
+
+</div>
+
+
+        <!-- UPDATED BLOCK -->
+
+    </main>
+
+    <!-- FOOTER -->
+
+<footer class="custom-footer" style="background-color: #0f1c30; color: #fff;">
+    
+    <div style="width: 100%; text-align: center; padding: 12px 0; background-color: rgba(255, 255, 255, 0.05); color: #ffffff; font-weight: bold; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 2rem;">
+        Oppdatert: 23.01.2026
+    </div>
+    <div class="footer-nav-card">
+        <div class="footer-columns">
+            
+            <div class="footer-col">
+                <h3>Rocket Riches</h3>
+                <ul>
+                    <li><a href="/">Casino-lobby</a></li>
+                    <li><a href="/">Live Casino-lobby</a></li>
+                    <li><a href="/">Spilleautomater</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Retningslinjer</h3>
+                <ul>
+                    <li><a href="/terms-and-conditions/">Betingelser og vilkår</a></li>
+                    <li><a href="/bonus-policy/">Bonusbetingelser</a></li>
+                    <li><a href="/privacy-policy/">Personvernerklæring</a></li>
+                    <li><a href="/responsible-gambling/">Ansvarlig spill</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Mer info</h3>
+                <ul>
+                    <li><a href="/is-rocket-riches-legit/">Er Rocket Riches legitimt?</a></li>
+                    <li><a href="/contact-us/">Kontakt</a></li>
+                    <li><a href="/om-oss/">Om oss</a></li>
+                    <li><a href="/">Affiliates</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="payment-methods">
+        <div class="payment-icon pay-visa">
+            <i class="fa-brands fa-cc-visa"></i>
+        </div>
+        <div class="payment-icon pay-mastercard">
+            <i class="fa-brands fa-cc-mastercard"></i>
+        </div>
+        <div class="payment-icon pay-skrill">
+            Skrill
+        </div>
+        <div class="payment-icon pay-bitcoin">
+            <i class="fa-brands fa-bitcoin"></i>
+        </div>
+        <div class="payment-icon pay-secure">
+            <i class="fa-solid fa-lock"></i>
+        </div>
+        <div class="payment-icon pay-bank">
+            <i class="fa-solid fa-building-columns"></i>
+        </div>
+    </div>
+
+    <div class="bottom-section">
+        
+        <div class="provider-row top-row">
+            <img src="/PLAYNGO.png" alt="Play'n Go" class="provider-img">
+            <img src="/push gaming.webp" alt="Push Gaming" class="provider-img">
+            <img src="/RelaxGaming.png" alt="Relax" class="provider-img">
+            <img src="/netent.png" alt="NetEnt" class="provider-img">
+            <img src="/nolimit-logo.png" alt="NoLimit" class="provider-img">
+            <img src="/RedTiger.png" alt="Red Tiger" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <img src="/evolution.jpeg" alt="Evolution" class="provider-img">
+            <img src="/pragmaticplay.png" alt="Pragmatic" class="provider-img">
+            <img src="/spinomenal.png" alt="Spinomenal" class="provider-img">
+            <img src="/Big-Time-Gaming.webp" alt="BTG" class="provider-img">
+            <img src="/Quickspinorange.webp" alt="Quickspin" class="provider-img">
+            <img src="/thunderkick-logo.png" alt="Thunderkick" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <a href="https://cert.gcb.cw/certificate/">
+                <img src="/curacao certificate.png" alt="Curacao Gaming Authority" class="cert-img">
+            </a>
+            <img src="/dmca.png" alt="DMCA" class="cert-img">
+        </div>
+
+        <div class="provider-row" style="flex-wrap: wrap; gap: 15px; justify-content: center;">
+            <div class="eighteen-plus center-content">18+</div>
+            
+            <img src="/digicert.png" alt="Digicert" class="trust-img">
+            <img src="/ssl-secured.svg" alt="SSL" class="trust-img">
+
+            <a href="https://www.gamstop.co.uk" target="_blank">
+                <img src="/gamstop.png" alt="GamStop" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamcare.org.uk" target="_blank">
+                <img src="/Gam Care.jpg" alt="GamCare" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.egba.eu" target="_blank">
+                <img src="/EGBA.eu.png" alt="EGBA" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.begambleaware.org" target="_blank">
+                <img src="/Gamble aware.webp" alt="GambleAware" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamblingcommission.gov.uk" target="_blank">
+                <img src="/Gamblingcommision.png" alt="Gambling Commission" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2025 Rocket Riches. All rights reserved.
+        </div>
+    </div>
+</footer>
+    <script>
+        // Mobile Menu Toggle
+        function toggleMenu() {
+            document.getElementById('mainNav').classList.toggle('active');
+        }
+
+        // Set Current Date in Footer/Updated Block
+        const date = new Date();
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('currentDate').textContent = date.toLocaleDateString('en-US', options);
+    </script>
+</body>
+</html>

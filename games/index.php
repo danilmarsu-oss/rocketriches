@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="alternate" hreflang="nb-NO" href="https://rocketriches.no/games/"/>
+   <link rel="alternate" hreflang="x-default" href="https://rocketriches.no/games/"/>
+    <title>Rocket Riches Casino Games – spill rocketriches-spill på nett</title>
+    <meta name="description" content="Spill Rocket Riches casino games hos oss. Nyt sikre betalinger, høy RTP, mobilvennlige løsninger og eksklusive bonuser. Oppdag våre beste rocketriches-spill." />
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="/nc_assets/css/style.css?v=1.36">
+    <link rel="canonical" href="https://rocketriches.no/games/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+<header>
+    <div class="logo">
+       <a href="/">
+        <img src="../rocket-riches-casino.svg" alt="Rocket Riches Casino" class="logo-img">
+    </a>
+    </div>
+
+    <div class="hamburger" onclick="toggleMenu()">
+        <div class="bar"></div><div class="bar"></div><div class="bar"></div>
+    </div>
+    <nav class="main-nav" id="mainNav">
+        <ul class="nav-links">
+            <li><a href="/bonus/">Bonuses</a></li>
+            <li><a href="/login/">Login</a></li>
+            <li><a href="/app/">App</a></li>
+            <li><a href="/">Casino</a></li>
+            <li><a href="/">Live Casino</a></li>
+            <li><a href="/games/">Spill</a></li>
+        </ul>
+        <div class="auth-buttons">
+            <a href="/">
+    <button class="btn btn-login">Logg inn</button>
+</a>
+
+<a href="/go/">
+    <button class="btn btn-register">Register</button>
+</a>
+        </div>
+    </nav>
+</header>
+    <main>
+    <div class="section-container">
+        <h1 class="main-title">Top Rated Slots</h1>
+
+<div class="slots-grid">
+    <div class="game-card">
+        <img src="big-bamboo.webp" alt="Big Bamboo">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="money-train-2.webp" alt="Money Train 2">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="money-train-3.webp" alt="Money Train 3">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="money-train-4.webp" alt="Money Train 4">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="razor-returns.webp" alt="Razor Returns">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="jammin-jars-pushgaming.webp" alt="Jammin Jars">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="le-bandit (1).webp" alt="Le Bandit">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="book-of-power.webp" alt="Book of Power">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="book-of-gold-multichance.webp" alt="Book of Gold">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="book-of-abyss.webp" alt="Book of Abyss">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="book-of-arcane-100.webp" alt="Book of Arcane">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="big-bad-wolf-megaways.webp" alt="Big Bad Wolf">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="eastern-emeralds-megaways.webp" alt="Eastern Emeralds">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="temple-tumble.webp" alt="Temple Tumble">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="tower-tumble.webp" alt="Tower Tumble">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="sticky-bandits-thunder-rail.webp" alt="Sticky Bandits">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="royal-joker-hold-and-win.webp" alt="Royal Joker">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="rise-of-ymir.webp" alt="Rise of Ymir">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="rooster-mayhem.webp" alt="Rooster Mayhem">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="hand-of-anubis.webp" alt="Hand of Anubis">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="hell-chef-goes-fishing.webp" alt="Hell Chef">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="epic-fish-net-of-fortune.webp" alt="Epic Fish">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="epic-fish-winter-catch.webp" alt="Epic Fish Winter">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="gummy-giga-match.webp" alt="Gummy Giga">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="jumbo-juicy.webp" alt="Jumbo Juicy">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="immortal-5.webp" alt="Immortal 5">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="mad-hit-ho-ho-ho-pudding.webp" alt="Mad Hit Xmas">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="mad-hit-mr-coin.webp" alt="Mad Hit Coin">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="mad-hit-slippery-soap.webp" alt="Mad Hit Soap">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="le-king.webp" alt="Le King">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="le-pharaoh.webp" alt="Le Pharaoh">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="london-hunter.webp" alt="London Hunter">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="lion-gems-hold-and-win.webp" alt="Lion Gems">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="mine-field.webp" alt="Mine Field">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="more-turkey.webp" alt="More Turkey">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="panda-panda.webp" alt="Panda Panda">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="penalty-shoot-out.webp" alt="Penalty Shootout">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="rain-and-ruin.webp" alt="Rain and Ruin">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="rat-king.webp" alt="Rat King">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="razor-ways.webp" alt="Razor Ways">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="santas-wild-night-2.webp" alt="Santas Wild">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="seven-seven-pots-and-pearls.webp" alt="Seven Pots">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="speed-crash.webp" alt="Speed Crash">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="sugar-heaven.webp" alt="Sugar Heaven">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="sunny-fruits-2-hold-and-win.webp" alt="Sunny Fruits 2">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="super-burning-wins.webp" alt="Super Burning Wins">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="super-elves.webp" alt="Super Elves">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="super-sixers-mines.webp" alt="Super Sixers">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="the-dead-escape.webp" alt="The Dead Escape">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="the-shadow-order-pushgaming.webp" alt="Shadow Order">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+
+    <div class="game-card">
+        <img src="tsai-shen-10k-ways.webp" alt="Tsai Shen">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="3-big-barrels-aztec.webp" alt="Aztec Barrels">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="777-hot-reels-supercharged.webp" alt="Hot Reels">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="christmas-link-express-hold-and-win.webp" alt="Xmas Link">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+    <div class="game-card">
+        <img src="tower-tumble.webp" alt="Tower Tumble">
+        <a href="/go/" class="play-btn">Play Now</a>
+    </div>
+</div>
+        <!-- SEO Content Section -->
+ <div class="seo-content">
+ <p>
+    Velkommen til <a href="/">Rocket Riches</a> – vårt eget univers av moderne casinospill, raske runder og ekte underholdning på nett. 
+    Her samler vi våre beste <strong>rocket riches</strong> titler, med alt fra enkle slots til intense live-opplevelser.
+</p>
+<p>
+    Vi fokuserer på kvalitet, rettferdighet og spillglede. Hos <strong>rocketriches</strong> får du trygge betalinger, 
+    høye RTP-verdier, mobilvennlige løsninger og bonuser som faktisk gir mer verdi for innsatsen din. 
+    Oppdag våre mest populære spill og finn din neste favoritt.
+</p>
+<p>
+    <a href="#spillseksjon" class="cta-button">Spill nå hos oss</a>
+</p>
+
+<h2>Hvorfor velge Rocket Riches for casinospill?</h2>
+<p>
+    Når du spiller hos oss, får du mer enn bare vanlige casinospill. Vi har bygget Rocket Riches for spillere som vil ha en 
+    trygg, moderne og brukervennlig plattform, med fokus på både underholdning og ansvarlig spill.
+</p>
+<p>
+    Vårt mål er at du skal føle deg trygg fra første innskudd til siste uttak. Vi kombinerer lisensiert drift, 
+    avansert teknisk sikkerhet og et bredt spillutvalg, slik at du kan konsentrere deg om det viktigste – å spille og ha det gøy.
+</p>
+<ul>
+    <li>Lisensiert og regulert plattform med fokus på trygghet</li>
+    <li>Stort utvalg av <strong>rocket riches</strong> slots, bordspill og live casino</li>
+    <li>Høy RTP på mange spill og transparente spillregler</li>
+    <li>Rask registrering, enkelt innskudd og smidig uttak</li>
+    <li>Fullt optimalisert mobilcasino – spill hvor som helst</li>
+    <li>Eksklusive kampanjer, turneringer og lojalitetsfordeler</li>
+    <li>Profesjonell kundestøtte som følger deg hele veien</li>
+</ul>
+
+<h2 id="spillseksjon">Våre mest populære rocketriches casinospill</h2>
+<p>
+    Hos oss finner du et nøye sammensatt utvalg av <strong>rocketriches</strong> titler – fra fargerike videoslots til 
+    strategiske bordspill og jackpotfavoritter. Alle spill er valgt ut for å gi en balansert kombinasjon av spenning, gevinstmuligheter 
+    og rettferdighet.
+</p>
+<p>
+    Nedenfor ser du noen av de mest spilte <strong>rocket riches</strong> spillene hos oss. Hvert spill har sin egen stil, 
+    egne funksjoner og egen volatilitet, slik at du kan finne noe som matcher både budsjettet og spillestilen din.
+</p>
+
+<ul>
+    <li><strong>Rocket Riches Starburst Spin</strong> – fargerik videoautomat med enkle regler og hyppige smågevinster.</li>
+    <li><strong>Rocket Riches Megaways Blast</strong> – høyvolatil slot med tusenvis av gevinstlinjer og kraftige multiplikatorer.</li>
+    <li><strong>Rocket Riches Jackpot Vault</strong> – progressiv jackpot med mulighet for svært høye utbetalinger.</li>
+    <li><strong>Rocket Riches Roulette Pro</strong> – klassisk europeisk rulett med modernisert grensesnitt.</li>
+    <li><strong>Rocket Riches Blackjack Elite</strong> – bordspill for deg som liker strategi og kontroll.</li>
+    <li><strong>Rocket Riches Live Lightning</strong> – live game show med multiplikatorer og høyt tempo.</li>
+    <li><strong>Rocket Riches Crash Orbit</strong> – lynraskt crash-spill der du bestemmer når du hopper av.</li>
+    <li><strong>Rocket Riches Instant Win</strong> – raskt skrapespill for korte, intense spilløkter.</li>
+</ul>
+
+<table>
+    <thead>
+        <tr>
+            <th>Navn</th>
+            <th>Type spill</th>
+            <th>RTP</th>
+            <th>Volatilitet</th>
+            <th>Plattform</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Rocket Riches Starburst Spin</td>
+            <td>Video slot</td>
+            <td>96,2%</td>
+            <td>Lav–medium</td>
+            <td>Desktop &amp; mobil</td>
+        </tr>
+        <tr>
+            <td>Rocket Riches Megaways Blast</td>
+            <td>Megaways slot</td>
+            <td>96,5%</td>
+            <td>Høy</td>
+            <td>Desktop &amp; mobil</td>
+        </tr>
+        <tr>
+            <td>Rocket Riches Jackpot Vault</td>
+            <td>Jackpot slot</td>
+            <td>95,8%</td>
+            <td>Medium–høy</td>
+            <td>Desktop &amp; mobil</td>
+        </tr>
+        <tr>
+            <td>Rocket Riches Roulette Pro</td>
+            <td>Bordspill</td>
+            <td>97,3%</td>
+            <td>Lav</td>
+            <td>Desktop &amp; mobil</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Slik spiller du Rocket Riches Casino Games – steg for steg</h2>
+<p>
+    Det er enkelt å komme i gang hos oss. Vi har gjort hele prosessen så smidig som mulig, slik at du raskt kan 
+    begynne å spille dine favorittspill på <a href="/">rocket riches</a>.
+</p>
+<ol>
+    <li>Gå til vår hjemmeside og klikk på “Registrer deg”.</li>
+    <li>Fyll inn nødvendig informasjon og bekreft kontoen din.</li>
+    <li>Logg inn på kontoen og gå til “Kasse” for å gjøre innskudd.</li>
+    <li>Velg ønsket innskuddsmetode og overfør det beløpet du vil spille for.</li>
+    <li>Gå til spillobbyen, filtrer etter kategori og velg et spill du liker.</li>
+    <li>Sett innsats, start spillet og nyt Rocket Riches Casino Games.</li>
+</ol>
+<p>
+    <a href="#spillseksjon" class="cta-button">Start spillingen i dag</a>
+</p>
+
+<h2>Spillkategorier hos oss – utforsk vårt rocketriches univers</h2>
+<p>
+    Vårt <strong>rocketriches</strong> univers består av flere ulike spillkategorier, slik at alle typer spillere finner noe de liker. 
+    Enten du foretrekker enkle slots eller avanserte livebord, har vi en kategori som passer.
+</p>
+<ul>
+    <li>
+        <strong>Slots</strong> – Klassiske og moderne spilleautomater med ulike temaer, bonusfunksjoner og gevinststrukturer. Perfekt for raske runder og variert underholdning.
+    </li>
+    <li>
+        <strong>Bordspill</strong> – Roulette, blackjack, baccarat og mer, for spillere som liker strategi og kontroll over innsatsen.
+    </li>
+    <li>
+        <strong>Jackpotspill</strong> – Progresive og faste jackpoter med potensielt svært høye utbetalinger på et enkelt spinn.
+    </li>
+    <li>
+        <strong>Live casino</strong> – Ekte dealere, live-streaming og interaksjon i sanntid for en autentisk casinofølelse hjemmefra.</li>
+    <li>
+        <strong>Instant games</strong> – Lynraske minispill, crash-spill og skrapespill for deg som vil ha korte, intense økter.</li>
+</ul>
+
+<table>
+    <thead>
+        <tr>
+            <th>Kategori</th>
+            <th>Typisk tempo</th>
+            <th>Passer best for</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Slots</td>
+            <td>Raskt</td>
+            <td>Nye og erfarne spillere</td>
+        </tr>
+        <tr>
+            <td>Bordspill</td>
+            <td>Rolig–middels</td>
+            <td>Strategiske spillere</td>
+        </tr>
+        <tr>
+            <td>Jackpotspill</td>
+            <td>Middels</td>
+            <td>Spillere som jakter storgevinst</td>
+        </tr>
+        <tr>
+            <td>Live casino</td>
+            <td>Middels–raskt</td>
+            <td>Spillere som vil ha sosial opplevelse</td>
+        </tr>
+        <tr>
+            <td>Instant games</td>
+            <td>Svært raskt</td>
+            <td>Spillere som liker korte økter</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>Bonuser og kampanjer for Rocket Riches spillere</h2>
+<p>
+    Som spiller hos <strong>rocket riches</strong> får du tilgang til et utvalg bonuser og kampanjer som er laget for å gi mer verdi 
+    til spillingen din. Vi holder vilkårene tydelige og oppdaterer tilbudene jevnlig.
+</p>
+<ul>
+    <li>Velkomstbonus på ditt første innskudd – f.eks. 100% opptil et fast beløp.</li>
+    <li>Free spins på utvalgte slots for nye og lojale spillere.</li>
+    <li>Ukentlige reload-bonuser for deg som gjør jevnlige innskudd.</li>
+    <li>Cashback-kampanjer der du får tilbake en prosent av nettotap.</li>
+    <li>Lojalitetsprogram med poeng, nivåer og eksklusive belønninger.</li>
+</ul>
+<p>
+    Typiske bonusbeløp kan variere fra lave minstebeløp til høyere maksgrenser, slik at både forsiktige og mer erfarne spillere 
+    finner noe som passer. 
+</p>
+<p>
+    <a href="#bonuser" class="cta-button">Aktiver bonusen din nå</a>
+</p>
+
+<h2>Rocket Riches mobilcasino – spill våre spill hvor du vil</h2>
+<p>
+    Med vårt mobilcasino tar du Rocket Riches med deg overalt. Nettsiden vår tilpasser seg automatisk mobil og nettbrett, 
+    slik at du får samme opplevelse uansett skjermstørrelse.
+</p>
+<p>
+    Vi optimaliserer kontinuerlig ytelsen, slik at spillene lastes raskt og kjører stabilt. Alle viktige funksjoner – 
+    innskudd, uttak, support og spillhistorikk – er tilgjengelig direkte fra mobilen.
+</p>
+<ul>
+    <li>Full tilgang til nesten alle <strong>rocket riches</strong> spill på mobil.</li>
+    <li>Hurtiginnlasting og smidig navigasjon uansett enhet.</li>
+    <li>Intuitivt grensesnitt tilpasset både portrett og landskap.</li>
+    <li>Sikre innskudd og uttak via mobilvennlige betalingsmetoder.</li>
+</ul>
+
+<h2>Sikkerhet og rettferdighet i våre rocketriches casino games</h2>
+<p>
+    Vi tar sikkerhet og rettferdighet på største alvor. Alle våre <strong>rocketriches</strong> spill leveres av lisensierte 
+    leverandører og bruker sertifisert RNG-teknologi (Random Number Generator) for å sikre tilfeldige utfall.
+</p>
+<p>
+    Personopplysninger og transaksjoner beskyttes med moderne kryptering, og vi samarbeider kun med anerkjente betalingspartnere. 
+    I tillegg følger vi retningslinjer for ansvarlig spill, med verktøy for grenser og selvutestengelse.
+</p>
+<ul>
+    <li>Lisensiert drift og eksterne revisjoner av spill.</li>
+    <li>Kryptert dataoverføring og sikre servermiljøer.</li>
+    <li>Rettferdige spill med dokumentert RNG-teknologi.</li>
+    <li>Ansvarlig spill-verktøy for grenser og pauser.</li>
+    <li>Streng personvernpolicy og konfidensiell behandling av data.</li>
+</ul>
+
+<h2>Betalingsmetoder hos Rocket Riches</h2>
+<p>
+    Vi ønsker at innskudd og uttak hos <strong>rocket riches</strong> skal være enkelt og forutsigbart. Derfor støtter vi flere populære 
+    betalingsmetoder, med tydelige grenser og behandlingstider.
+</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Metode</th>
+            <th>Type</th>
+            <th>Minsteinnskudd</th>
+            <th>Behandlingstid</th>
+            <th>Gebyr</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Visa / Mastercard</td>
+            <td>Bankkort</td>
+            <td>100 kr</td>
+            <td>Umiddelbart innskudd / 1–3 virkedager uttak</td>
+            <td>Normalt ingen fra vår side</td>
+        </tr>
+        <tr>
+            <td>E-lommebøker (Skrill, Neteller)</td>
+            <td>E-wallet</td>
+            <td>100 kr</td>
+            <td>Nesten umiddelbare innskudd og uttak</td>
+            <td>Ingen gebyr fra oss</td>
+        </tr>
+        <tr>
+            <td>Bankoverføring</td>
+            <td>Direkteoverføring</td>
+            <td>200 kr</td>
+            <td>1–3 virkedager</td>
+            <td>Avhenger av bank</td>
+        </tr>
+        <tr>
+            <td>Kryptovaluta</td>
+            <td>Digital valuta</td>
+            <td>Varierer</td>
+            <td>Rask behandling etter nettverksbekreftelse</td>
+            <td>Nettverksgebyrer kan påløpe</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>
+    Alle grenser og eventuelle avgifter vises tydelig i kassen før du bekrefter transaksjonen.
+</p>
+
+<h2>Kundestøtte – slik hjelper vi deg</h2>
+<p>
+    Vårt supportteam er her for å hjelpe deg når du spiller hos <strong>rocket riches</strong>. Vi legger vekt på raske, 
+    tydelige og profesjonelle svar, uansett type henvendelse.
+</p>
+<ul>
+    <li>Live chat – raskeste vei til hjelp direkte på siden.</li>
+    <li>E-postsupport for lengre eller mer detaljerte spørsmål.</li>
+    <li>Omfattende FAQ-seksjon med svar på de vanligste temaene.</li>
+</ul>
+<p>
+    Vi streber etter korte svartider og løsningsorientert dialog, slik at du kommer raskt tilbake til spillene.
+</p>
+    </div>
+
+    <!-- FAQ SECTION -->
+    <div class="faq-section">
+    <h2 class="section-title">Frequently Asked Questions – Rocket Riches Bonus</h2>
+
+<div class="faq-item">
+    <details>
+        <summary class="faq-question">Hva er Rocket Riches Casino Games?</summary>
+        <div class="faq-answer">
+            Rocket Riches Casino Games er vårt komplette utvalg av spill – slots, bordspill, live casino og instant games. 
+            Hele <strong>rocketriches</strong>-plattformen er bygget for trygghet, underholdning og moderne spillopplevelser.
+        </div>
+    </details>
+</div>
+
+<div class="faq-item">
+    <details>
+        <summary class="faq-question">Hvordan registrerer jeg meg hos dere?</summary>
+        <div class="faq-answer">
+            Klikk på “Registrer deg”, fyll inn informasjonen og bekreft kontoen. Deretter kan du logge inn, gjøre innskudd 
+            og spille <strong>rocket riches</strong> spill på få minutter uten kompliserte steg.
+        </div>
+    </details>
+</div>
+
+<div class="faq-item">
+    <details>
+        <summary class="faq-question">Kan jeg spille på mobil?</summary>
+        <div class="faq-answer">
+            Ja, hele plattformen vår er fullt optimalisert for mobil og nettbrett. Du kan spille nesten alle spill, 
+            gjøre innskudd, ta ut gevinster og bruke kundestøtten direkte via mobilen.
+        </div>
+    </details>
+</div>
+
+<div class="faq-item">
+    <details>
+        <summary class="faq-question">Hvilke bonuser er tilgjengelige?</summary>
+        <div class="faq-answer">
+            Vi tilbyr velkomstbonus, free spins, reload-tilbud og ulike kampanjer som cashback eller turneringer. 
+            Alle aktive bonuser vises på bonussiden når du er logget inn som spiller.
+        </div>
+    </details>
+</div>
+
+<div class="faq-item">
+    <details>
+        <summary class="faq-question">Er spillene deres rettferdige?</summary>
+        <div class="faq-answer">
+            Ja, alle våre <strong>rocketriches</strong> spill bruker sertifisert RNG-teknologi og kontrolleres av uavhengige aktører. 
+            Dette sikrer rettferdige utfall, stabile RTP-verdier og en trygg spillopplevelse.
+        </div>
+    </details>
+</div>
+
+</div>
+        <!-- UPDATED BLOCK -->
+
+    </main>
+
+    <!-- FOOTER -->
+
+<footer class="custom-footer" style="background-color: #0f1c30; color: #fff;">
+    
+    <div style="width: 100%; text-align: center; padding: 12px 0; background-color: rgba(255, 255, 255, 0.05); color: #ffffff; font-weight: bold; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 2rem;">
+        Oppdatert: 23.01.2026
+    </div>
+    <div class="footer-nav-card">
+        <div class="footer-columns">
+            
+            <div class="footer-col">
+                <h3>Rocket Riches</h3>
+                <ul>
+                    <li><a href="/">Casino-lobby</a></li>
+                    <li><a href="/">Live Casino-lobby</a></li>
+                    <li><a href="/">Spilleautomater</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Retningslinjer</h3>
+                <ul>
+                    <li><a href="/terms-and-conditions/">Betingelser og vilkår</a></li>
+                    <li><a href="/bonus-policy/">Bonusbetingelser</a></li>
+                    <li><a href="/privacy-policy/">Personvernerklæring</a></li>
+                    <li><a href="/responsible-gambling/">Ansvarlig spill</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Mer info</h3>
+                <ul>
+                    <li><a href="/is-rocket-riches-legit/">Er Rocket Riches legitimt?</a></li>
+                    <li><a href="/contact-us/">Kontakt</a></li>
+                    <li><a href="/om-oss/">Om oss</a></li>
+                    <li><a href="/">Affiliates</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="payment-methods">
+        <div class="payment-icon pay-visa">
+            <i class="fa-brands fa-cc-visa"></i>
+        </div>
+        <div class="payment-icon pay-mastercard">
+            <i class="fa-brands fa-cc-mastercard"></i>
+        </div>
+        <div class="payment-icon pay-skrill">
+            Skrill
+        </div>
+        <div class="payment-icon pay-bitcoin">
+            <i class="fa-brands fa-bitcoin"></i>
+        </div>
+        <div class="payment-icon pay-secure">
+            <i class="fa-solid fa-lock"></i>
+        </div>
+        <div class="payment-icon pay-bank">
+            <i class="fa-solid fa-building-columns"></i>
+        </div>
+    </div>
+
+    <div class="bottom-section">
+        
+        <div class="provider-row top-row">
+            <img src="/PLAYNGO.png" alt="Play'n Go" class="provider-img">
+            <img src="/push gaming.webp" alt="Push Gaming" class="provider-img">
+            <img src="/RelaxGaming.png" alt="Relax" class="provider-img">
+            <img src="/netent.png" alt="NetEnt" class="provider-img">
+            <img src="/nolimit-logo.png" alt="NoLimit" class="provider-img">
+            <img src="/RedTiger.png" alt="Red Tiger" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <img src="/evolution.jpeg" alt="Evolution" class="provider-img">
+            <img src="/pragmaticplay.png" alt="Pragmatic" class="provider-img">
+            <img src="/spinomenal.png" alt="Spinomenal" class="provider-img">
+            <img src="/Big-Time-Gaming.webp" alt="BTG" class="provider-img">
+            <img src="/Quickspinorange.webp" alt="Quickspin" class="provider-img">
+            <img src="/thunderkick-logo.png" alt="Thunderkick" class="provider-img">
+        </div>
+
+        <div class="provider-row">
+            <a href="https://cert.gcb.cw/certificate/">
+                <img src="/curacao certificate.png" alt="Curacao Gaming Authority" class="cert-img">
+            </a>
+            <img src="/dmca.png" alt="DMCA" class="cert-img">
+        </div>
+
+        <div class="provider-row" style="flex-wrap: wrap; gap: 15px; justify-content: center;">
+            <div class="eighteen-plus center-content">18+</div>
+            
+            <img src="/digicert.png" alt="Digicert" class="trust-img">
+            <img src="/ssl-secured.svg" alt="SSL" class="trust-img">
+
+            <a href="https://www.gamstop.co.uk" target="_blank">
+                <img src="/gamstop.png" alt="GamStop" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamcare.org.uk" target="_blank">
+                <img src="/Gam Care.jpg" alt="GamCare" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.egba.eu" target="_blank">
+                <img src="/EGBA.eu.png" alt="EGBA" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.begambleaware.org" target="_blank">
+                <img src="/Gamble aware.webp" alt="GambleAware" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+
+            <a href="https://www.gamblingcommission.gov.uk" target="_blank">
+                <img src="/Gamblingcommision.png" alt="Gambling Commission" class="trust-img" style="height: 30px; width: auto;">
+            </a>
+        </div>
+
+        <div class="copyright">
+            &copy; 2025 Rocket Riches. All rights reserved.
+        </div>
+    </div>
+</footer>
+    <script>
+        // Mobile Menu Toggle
+        function toggleMenu() {
+            document.getElementById('mainNav').classList.toggle('active');
+        }
+
+        // Set Current Date in Footer/Updated Block
+        const date = new Date();
+        const options = { year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('currentDate').textContent = date.toLocaleDateString('en-US', options);
+    </script>
+</body>
+</html>
